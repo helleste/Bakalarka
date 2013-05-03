@@ -1,0 +1,493 @@
+﻿PhoneGap
+Obecně
+Jak již bylo v textu této práce několikrát zmíněno, PhoneGap je v současné době pravděpodobně nejpoužívanější a nejznámější hybridní framework. Vývojáři se na svém webu chlubí, že zaznamenali již více než milion stažení jejich produktu a zároveň tvrdí, že je v současné době používán více než 400 000 vývojáři pro tvorbu tisícovek aplikací.
+
+
+PhoneGap umožňuje vývojářům využívat při tvorbě mobilních aplikací webové technologie HTML5, CSS3 a JavaScript a zároveň jim prostřednictvím vlastního javascriptového API poskytuje možnost komunikace s operačním systémem a využití jeho nativních součástí, jako je například fotoaparát, akcelerometr nebo například výběr ze seznamu kontaktů. To vše multiplatformně.
+
+
+V rámci této kapitoly již nebudu zabíhat do technických detailů vlastního fungování frameworku PhoneGap. Tuto oblast jsem již dostatečně pokryl v předchozí kapitole XY.
+
+
+„The ultimate purpose of PhoneGap is to cease to exist.“ [25]
+
+
+Skupina vývojářů stojící za PhoneGap uvádí, že za jejich prací stojí následující dvě kréda:
+
+
+1. Web vyřešil problém přenositelnosti.
+2. Každá technologie zastará.
+
+
+S prvním krédem se dá polemizovat jen velmi těžko. Program, umožňující zobrazovat webové stránky, najdeme dnes skutečně téměř na každé platformě. Co se ne zcela povedlo Javě, se webovým technologiím daří a jejich význam roste. Ne náhodou dnes používáme mnohem více webových aplikací než dříve a spousta aplikací, u kterých to bylo dříve nemyslitelné, se přesunula do cloudu a přistupujeme k nim přes webový prohlížeč. Jedním z nejzářnějších příkladů jsou například Google Dokumenty, které přispěly i k tvorbě této práce.
+
+
+Krom těchto dvou kréd uvádějí vývojáři i dva cíle, ke kterým by jejich snažení mělo přispět:
+
+
+1. Vylepšit web (webové standardy), aby se stal prvotřídní vývojovou platformou.
+2. Docílit takového stavu webových standardů, aby byl PhoneGap zbytečný.
+
+
+Je pravdou, že různé týmy uvnitř konsorcia W3C pracují na vytvoření standardů, které umožní přístup k nativním funkcím telefonního přístroje přímo z prohlížeče bez použití jakékoliv mezivrstvy. Typickým příkladem realizace těchto snah je například standard pro využití geolokace, který již byl moderními prohlížeči implementován a je využit i v rámci PhoneGap, kde API volání pro geolokaci nedělá nic jiného, než že volá tuto standardizovanou funkci prohlížeče. Že cíle, které si tým kolem PhoneGap vytyčil, nejsou řečmi do větru, dokládá i fakt, že vývojáři stojící za tímto frameworkem jsou součástí právě těch skupin v rámci konsorcia W3C, které se starají o implementaci příslušných standardů.
+Licence
+Poté co byla firma Nitobi, která za PhoneGap původně stála, odkoupena společností Adobe, byl kód pohánějící framework PhoneGap věnován organizaci Apache Software Foundation pod názvem Apache Cordova. Nyní je tedy šířen pod licencí Apache License, Version 2. Tato licence nadále zaručuje otevřený přístup k vývoji na projektu i k použití samotného kódu.
+PhoneGap vs. Apache Cordova
+Zejména u lidí, kteří se s PhoneGap teprve seznamují, koluje mnoho nejasností ohledně rozdílu mezi PhoneGap a jeho dvojčetem Apache Cordova. Myslím, že stojí za to na tomto místě tyto nejasnosti ozřejmit.
+
+
+Apache Cordova je jádro frameworku spravované Apache Software Foundation (ASF), na jehož základě je postavený framework PhoneGap. Dalo by se říci, že PhoneGap je distribucí Apache Cordova podobně, jako je operační systém Ubuntu distribucí, kterou pohání jádro Linux. Vývojáři PhoneGap nadále doplňují Apache Cordova o nové funkce a opravují nalezené chyby. K oddělení došlo zejména proto, že postupem času se dá očekávat hlubší integrace PhoneGap s nástroji Adobe, což by nebylo vhodné pro masové použití. [21]
+
+
+PhoneGap není jedinou distribucí Apache Cordova, ve skutečnosti jí dnes implementuje do svých nástrojů mnoho firem, jako je například Salesforce nebo Facebook. [21] Na vývoji Apache Cordova se nepodílí jen vývojáři PhoneGap, ale také mnoho dalších firem jako je například IBM či Microsoft.
+Historie
+„We went down with one goal in mind and that was to make native iPhone features available to web apps.“ [1]
+
+
+Pojďme se stručně seznámit s historií PhoneGap a změnami, které vedly k frameworku, jak jej známe dnes. PhoneGap vznikl v roce 2008 na vývojářské akci iPhoneDevCamp, kde vývojáři firmy Nitobi přišli s nápadem, kterak umožnit vývojářům webových aplikací pro systém iOS (tehdy ještě iPhone OS) využívat některé oblíbené nativní funkce přístroje iPhone. V soutěži na iPhoneDevCamp sice PhoneGap neuspěl, to však firmu Nitobi nezastavilo v dalším rozvíjení svého nápadu.
+
+
+V počátku své existence podporoval PhoneGap pouze systém iOS, ale multiplatformnost byla brána vývojáři na zřetel od samého počátku, a tak rychle přibyla podpora pro Android a BlackBerry. Nedlouho poté (v roce 2009) následovala podpora pro Symbian a Palm (webOS).
+
+
+K začátkům frameworku PhoneGap se datuje série nepříjemností, které vznikly při schvalovacím procesu ze strany Applu, kdy Apple odmítal schvalovat a vpouštět na své oficiální tržiště aplikace napsané pomocí frameworku PhoneGap. Důvodem pro zamítání aplikací bylo porušení podmínek, které aplikace v AppStore musí splňovat. Aplikace napsané ve PhoneGap byly penalizovány, protože při jejich vývoji byl použit externí framework, což tyto podmínky zapovídají. Celá záležitost byla vyřešena domlouvou mezi vývojáři kolem frameworku PhoneGap a Applem, kdy byla stanovena „bezpečná verze“ frameworku PhoneGap (PhoneGap 0.8.0), jejíž použití bylo Applem oficiálně posvěceno a k aplikacím využívajícím tuto „bezpečnou verzi“ bylo během schvalovacího procestu přistupováno stejně jako k běžným nativním aplikacím. [3] + [4] + [5] + [6]
+
+
+Multiplatformní záběr se stal zas o něco širším, když v roce 2010 přidal PhoneGap podporu pro Windows Phone 7 a také kvůli přechodu BlackBerry na WebKit, v šesté verzi svého operačního systému, byla podpora pro BlackBerry rozštěpena na dvě větve. [7]
+
+
+V listopadu 2010 Nitobi představilo v poloveřejné betě nástroj PhoneGap Build. Tento nástroj si podrobněji popíšeme později v této kapitole, teď jen zmíním, že se jedná o cloudovou službu, která umožňuje po nahrání zdrojových kódu vygenerovat instalační balíčky pro více platforem najednou. Vývojář tak nemusí pro každou platformu instalovat její SDK a generování binárek provádět ručně. [8]
+
+
+Pokračující růst PhoneGap dokládá i obliba, které se této framework těšil pouhé dva roky po svém vzniku. V listopadu 2010 zaznamenal PhoneGap již 350 000 stažení. S touto vzrůstající oblibou začalo Nitobi (původně konzultantská firma zabývající se tvorbou webů a javascriptových knihoven) na PhoneGap stále více sázet ve své obchodní strategii. Nejenže s ním pracovala ve své konzultantské činosti a doporučovala jeho používání svým zákazníkům, ale v únoru 2011 zavádí i placenou podporu pro vývojáře ve PhoneGap, v rámci které jim poskytuje webináře, přístup na privátní forum a pomoc v rámci office hours.
+
+
+Dalším znakem úspěchu PhoneGap je i jeho adopce softwarovými giganty jako je Adobe či IBM, které začali tento framework integrovat do svých nástrojů, jako je Adobe DreamWeaver či IBM Worklight. [12] + [14]
+
+
+Prvním velkým milníkem pro PhoneGap bylo vydání verze 1.0.0, ke kterému došlo 29. 7. 2011. [13] V té době PhoneGap již podporoval i platformu Samsung Bada a samotný framework zaznamenal 600 000 stažení s průměrem kolem 40 000 stažení měsíčně. [13]
+
+
+V září 2011 se PhoneGap Build přesouvá do veřejné betaverze a zároveň byly zveřejněny cenové plány pro jeho použití. Ty se pohybovali od $0 pro vývoj open-source aplikací po $900 ročně pro vývoj komerčních aplikací s uzavřeným kódem. [16]
+
+
+3. září 2011 Nitobi na svém blogu oznámilo, že uzavřelo dohodu o svém převzetí firmou Adobe [17].
+
+
+“PhoneGap has proven to be an industry-defining app solution for HTML5 developers,” said Danny Winokur, vice president and general manager, Platform, Adobe. [17]
+
+
+"It’s a perfect complement to Adobe’s broad family of developer solutions, including Adobe AIR, and will allow us to continue to provide content publishers and developers with the best, cutting-edge solutions for creating innovative applications across platforms and devices.” [17]
+
+
+V rámci tohoto převzetí Nitobi oznámilo, že věnuje zdrojové kódy frameworku PhoneGap organizaci Apache Software Foundation (ASF) pod názvem Apache Callback, který byl později změněn na Apache Cordova. [18] + [19]
+
+
+Akvizice Nitobi firmou Adobe se podařila úspěšně dokončit 27. října 2011 [18]. Analytici se shodují, že hlavním smyslem této akvizice byla snaha Adobe posílit svojí pozici na poli vývoje aplikací v HTML5, protože jeho vlastní technologie Flash je (zvlášť v mobilním světě) na ústupu. Očekávalo se začlenění PhoneGap do vývojářských nástrojů, které Adobe poskytuje webovým vývojářům.
+
+
+Nehledě na tuto velkou změnu popularita PhoneGap dále pozvolna stoupala a v červnu roku 2012 dosahoval průměrný měsíční počet stažení hodnoty 100 000. [28]
+
+
+20. července 2012 byla oficiálně uvolněna verze 2.0, která (krom jiného) přinášela také Cordova WebView, což je možnost použití WebView[a] v rámci nativní aplikace současně se všemi výhodami PhoneGap. Dále přibylo také mnoho vylepšení command-line interfacu, které umožňuje ovládat PhoneGap z konsole [30]. 
+
+
+V září 2012 byl oficiálně spuštěn PhoneGap Build, který je nyní dostupný ve stabilní verzi [32]. Zároveň byla v listopadu 2012 vydána verze 2.2.0, která přináší podporu Windows 8 v rámci PhoneGap. V době psaní této práce se framework nachází ve verzi 2.5.0. Vydání verze 3.0.0 je naplánováno na červenec 2013 [37]. 
+Ocenění
+PhoneGap se za dobu své existence dočkal celé řady ocenění od všemožných institucí.
+
+
+1. 2009: People’s Choice award v rámci Web 2.0 Expo LaunchPad competition [39]. 
+2. 2012: Best Cross-Platform Development Tool by CodeProject [26]
+3. 2012: Technology of the Year By InfoWorld [27]
+4. 2012: “Champion” by Info-Tech Research Group v rámci 2012 Vendor Landscape: Mobile Development Platforms [29]
+5. 2012: Best Mobile Development Tool by Dr. Dobb's Jolt Awards [35]
+Vývojářské nástroje
+Vývoj[b]
+Na začátku této sekce krátce pohovořím o nástrojích, které můžeme pro vývoj ve PhoneGap využít. Před vznikem cloudové služby PhoneGap Build byl vývoj, zvláště pokud jste chtěli aplikaci cílit na více platforem, poměrně kostrbatý. To bylo zapříčiněno několika faktory:
+
+
+1. Různá SDK pro sestavení nativních binárek
+2. Různá adresářová struktura projektů pro jednotlivé platformy
+3. Odlišné javascriptové knihovny (PhoneGap) pro jednotlivé platformy
+
+
+V důsledku to znamenalo, že pro vývoj aplikace pro systém Android jste si museli stáhnout Eclipse a Android SDK a vývoj vést v těchto nástrojích. Pokud jste následně chtěli aplikaci portovat na iOS, znamenalo to stažení iOS SDK a Xcode (funguje pouze na systému Mac OS), úpravu adresářové struktury projektu a využití knihovny PhoneGap určené pro systém iOS.
+
+
+Díky cloudovému nástroji PhoneGap Build (podrobněji si ho popíšeme níže v této kapitole) se vývoj aplikací ve PhoneGap výrazně usnadnil a to zejména při cílení na více platforem. Jelikož PhoneGap Build potřebuje k vygenerování nativních binárek pouze samotné zdrojové kódy aplikace, nemusí se vývojář zabývat ani jedním z výše vyjmenovaných problémů.
+
+
+Pokud vývojář není závislý na SDK konkrétní platformy, může pro vývoj použít prakticky libovolný nástroj. Může zůstat u mohutného IDE, jako je např. Eclipse nebo využít svůj oblíbený textový editor (TextMate, gedit, Sublime Text apod.).
+Hello World
+Pojďme si ukázat, jak se PhoneGap inicializuje. Ukážeme si to na příkladu klasické Hello World aplikace:
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+<!-- INCLUDE CORDOVA -->
+        <script type="text/javascript" src="cordova-2.4.0.js"></script>
+<script type="text/javascript">
+        // Wait for Cordova to load
+            function onBodyLoad() {
+                    document.addEventListener("deviceready", onDeviceReady, false);
+            }
+            
+            // Cordova is ready
+            function onDeviceReady() {
+        navigator.notification.alert("PhoneGap is ready!");
+}
+</script>
+<body onload="onBodyLoad()">
+        <h1>Hello World!</h1>
+        <p>This is a sample PhoneGap application.</p>
+  </body>
+</html>
+
+
+K inicializaci frameworku PhoneGap v tomto případě dojde v několika krocích. Jednak samotné vložení knihovny “cordova-2.4.0.js” do hlavičky HTML dokumentu. Dalším krokem je vytvoření funkcí onBodyLoad() a onDeviceReady(). V rámci funkce onBodyLoad() čekáme, až PhoneGap provede veškerou inicializaci svých součástí. Jakmile se to stane, je zavolána funkce onDeviceReady(), kde provedeme zavolání funkce navigator.notification.alert(), která je definována v API frameworku PhoneGap a liší se od klasické javascriptové funkce alert(). Funkce onBodyLoad() a onDeviceReady() jsou nedílnou součástí víceméně každé aplikace napsané ve frameworku PhoneGap.
+
+
+Abych demonstroval, jak jednoduché je zavolání některého z javascriptových API nabízených frameworkem PhoneGap, ukáži, jak by vypadala funkce, kterou bychom mohli vytvořit pro pořízení fotografie prostřednictvím fotoaparátu.
+
+
+// Vyfoť fotku a vrať jí jako URI
+function takePhoto() {
+navigator.camera.getPicture(photoSuccess, photoFail, {quality: 50,
+                            destinationType: Camera.DestinationType.FILE_URI});
+  }
+
+
+V případě úspěchu je zavolána funkce photoSuccess, kde můžeme fotografii dále zpracovat. V opačném případě je zavolána funkce photoFail, kde můžeme například vypsat uživateli zprávu o chybě.
+
+
+Jednotlivá API volání, které framework PhoneGap nabízí, si podrobněji popíšeme v podkapitole XY.
+Rozšíření
+Pokud vyvíjíme pro konkrétní platformu nebo chceme jen přidat některé specifické funkce, které PhoneGap nativně nenabízí, můžeme sáhnout do poměrně bohaté sbírky rozšíření, která vznikla v rámci komunity, ale je oficiálně spravována projektem PhoneGap na adrese https://github.com/purplecabbage/phonegap-plugins.
+
+
+Najdeme tu bohatou sbírku pluginů, které pokrývají širokou škálu funkcí. Můžeme si některé z nich uvést:
+
+
+1. InAppPurchaseManager (iOS)
+2. BarcodeScanner
+3. GoogleAnalytics
+4. PDFViewer
+5. Twitter
+6. iCloudKV (iOS)
+7. Bluetooth
+8. NFC
+9. PayPalPlugin
+
+
+Pluginy se používají podobným způsobem jako samotný framework. Konkrétní plugin se vloží do projektu a jeho funkce jsou následně volány z javascriptového kódu vlastní aplikace. Logicky je nutné počítat s tím, že použití takového pluginu silně ochromí přenositelnost celé aplikace a před provedením portu bude třeba provést odpovídající úpravy.
+Debugování a testování
+Testování
+V průběhu celého vývoje aplikace je třeba neustále testovat a ověřovat její funkčnost v prostředí         co možná nejbližším produkčnímu. Pro tento účel poskytují tvůrci jednotlivých platforem simulátory (emulátory), které simulují běh aplikace v rámci daného operačního systému či dokonce přímo v rámci konkrétního zařízení.
+
+
+V případě testování není žádný rozdíl mezi nativními aplikacemi a těmi hybridními napsanými ve PhoneGap. Vývojář nahraje svojí aplikaci do simulátoru a zkouší její funkčnost. To samé se týká testování aplikace na reálném zařízení, které by mělo být součástí každého vývojového plánu.
+Debugování
+Při vývoji čistě nativních aplikací využívá vývojář pro ladění svých aplikací debugovací nástroje, které mu poskytuje SDK a další nástroje konkrétní platformy. Problém s těmito nástroji je, že většinou nejsou připravené na ladění kódu psaného webovými jazyky. To staví vývojáře do poměrně nepříjemné pozice, kdy jsou buď nuceni protkat svůj kód voláním funkce alert() či console.log(), které používají pro vypsání ladících výpisů nebo využít některého z nástrojů třetích stran, které jsou na ladění hybridních aplikací připraveni. Dva takové nástroje si nyní uvedeme.
+Ripple Mobile Enviroment Emulator
+Ripple Mobile Enviroment Emulator (RMEE) je náhrada klasického emulátoru z SDK jen s tím rozdílem, že je velmi odlehčený a běží jako rozšíření ve webovém prohlížeči Google Chrome či Chromium. RMEE narozdíl od holého webového prohlížeče dokáže nasimulovat i volání nativních funkcí frameworkem PhoneGap a je tak velice vhodným nástrojem pro rychlé testování mobilních aplikací bez nutnosti zdlouhavě nahrávat aplikaci do emulátoru nebo vlastního fyzického zařízení.
+
+
+Výhodou použití RMEE je, že dává vývojáři k dispozici krom samotného emulátoru i veškeré vývojářské nástroje prohlížeče Google Chrome, které se používají pro ladění webových aplikací. Může tak za běhu upravovat některé parametry své aplikace a pohodlně tak ladit vlastní aplikaci.
+
+
+
+Je jasné, že RMEE nenahradí testování v klasickém emulátoru či dokonce na fyzickém zařízení, neboť zdaleka nedokáže emulovat veškerá specifika hostitelských operačních systémů, ale stále je poměrně vhodným nástrojem pro rychlé testování aplikace zvláště v rané fázi vývoje.
+
+
+RMEE je dostupný z adresy http://emulate.phonegap.com
+Web Inspector Remote
+Web Inspector Remote neboli Weinre je ladící nástroj trochu jiného druhu. Nezabývá se emulací běhu aplikace, ale funguje jako vzdálený ladící nástroj. Jeho použití je poměrně jednoduché. Do kódu své aplikace vložíte skript umístěný na vzdáleném serveru (http://debug.phonegap.com) s unikátním označením své aplikace.
+
+
+<script src="http://debug.phonegap.com/target/target-script-min.js#myapp"></script>
+
+
+Samotné debugování probíhá v prohlížeči, do kterého vývojář zadá adresu serveru s identifikátorem laděné aplikace http://debug.phonegap.com/client/#myapp. Vývojáři je k dispozici javascriptová konzole a další nástroje pro ladění webových aplikací.
+Sestavení a publikace
+Pokud již máme aplikaci vytvořenou a důkladně otestovanou, je na řadě její sestavení a případná publikace například na oficiálním tržišti s aplikacemi. Za účelem sestavení aplikace nám PhoneGap umožňuje jít dvěma cestami. První z nich je sestavení nativního instalačního balíčku s využitím SDK konkrétní platformy vhodný k odeslání na tržiště. Toto je klasická cesta a je vhodná, pokud cílíme pouze na jednu platformu. Problém nastává, pokud chceme vytvořit balíčky pro více platforem najednou. Jak jsem již zmínil výše, v takovém případě jsme nuceni stáhnout SDK každé jednotlivé platformy, náš projekt upravit a poté s pomocí SDK vytvořit nativní binárku. Že toto není dobrý způsob, si uvědomovali i tvůrci frameworku PhoneGap a proto již v počátku ve svých úvahách počítali s cloudovým nástrojem, který sestavování aplikací značně usnadní.
+PhoneGap Build
+PhoneGap Build je nástroj dostupný z adresy http://build.phonegap.com. Umožňuje nám z jednoho místa a z jednoho zdrojového kódu vytvořit v jednom čase instalační balíčky pro platformy iOS, Android, Windows Phone, BlackBerry, webOS a Symbian.
+
+
+Pojďme si v krátkosti popsat jak celý systém funguje. Vývojář je na začátku vyzván k propojení PhoneGap Build se svým účtem na Githubu, na němž má ve veřejném repozitáři umístěny zdrojové kódy své aplikace. Poté se dostane do ovládacího panelu, kde vybere z nabídky správný repozitář, ve kterém se PhoneGap Build pokusí najít soubor index.html. Jakmile se mu to podaří, nabídne vývojáři možnost si vygenerovat instalační balíčky pro jednotlivé platformy pomocí jednoho kliknutí. Vyhotovení balíčků trvá několik vteřin a poté jsou uživateli k dispozici ke stažení.[c]
+API
+Hlavním důvodem, proč vývojáři sahají po použití frameworku PhoneGap, je sada javascriptových API, pomocí které zprostředkovává komunikaci mezi webovou aplikací a operačním systémem na daném zařízení. Pojďme si nyní stručně popsat jednotlivá API volání.
+Accelerometer
+Akcelerometr se používá ke zjištění orientace daného přístroje. Hojně je využíván například v hrách, kde hráč ovládá hru pomocí naklopení telefonu.
+Metody
+accelerometer.getCurrentAcceleration
+Metoda vrací údaje o orientaci telefonu pomocí trojice čísel x, y a z. Každé číslo reprezentuje změnu orientace kolem jedné osy.
+accelerometer.watchAcceleration
+Metoda umožňující neustálé sledování změn orientace v pravidelném intervalu.
+accelerometer.clearWatch
+Umožňuje zrušit sledování změn vyvolané předchozí metodou.
+Camera
+Sada funkcí umožňující přistupovat k fotoaparátu daného zařízení.
+Metody
+camera.getPicture
+Umožňuje pořízení fotografie z daného zdroje. Zdroj je specifikován ve volání této funkce, může se jednat buď o pořízení nového snímku nebo o vybrání již pořízeného snímku z fotoalba. Fotografie je vrácena buď jako URI nebo jako String zakódovaný v base64.
+camera.cleanUp
+Smaže dočasně uložené fotografie pořízené předchozí funkcí.
+Capture
+API umožňující zachycení videa, audia či fotografie.
+Metody
+capture.captureAudio
+Spustí výchozí aplikaci pro pořízení zvukové nahrávky a vrátí informace o pořízených záznamech (URI).
+capture.captureImage
+Spustí aplikaci pro pořizování obrázků a vrátí informaci o zhotovené fotografii nebo fotografiích.
+capture.captureVideo
+Spustí aplikaci pro snímání videa a vrátí informace o pořízeném klipu či klipech.
+mediaFile.getFormatData
+Vrátí informace o formátu média.
+Compass
+Sada metod umožňující rozpoznat, jakým směrem je zařízení namířeno.
+Metody
+compass.getCurrentHeading
+Vrátí aktuální orientaci zařízení vzhledem k světovým stranám ve stupních od 0 do 359,99.
+compass.watchHeading
+Snímá údaje o orientaci přístroje v pravidelném intervalu.
+compass.clearWatch
+Zruší sledování orientace zahájené voláním předchozí metody.
+Connection
+Connection je objekt, který uchovává informace o připojení daného zařízení. Umožňuje vývojáři rychle zjistit, zda je telefon připojen k WiFi, 3G či kabelovému připojení, ale také dokáže ověřit, že přístroj není k internetu připojen vůbec.
+Contacts
+Metodami tohoto objektu může vývojář přistupovat k nativní databázi kontaktů v daném mobilním zařízení.
+Metody
+contacts.create
+Vytvoří nový objekt Contact, který poté může být uložen do nativní databáze kontaktů pomocí metody Contact.save.
+contacts.find
+Vrátí kontakt nebo kontakty z nativní databáze dle zadaných kritérií.
+Device
+V objektu Device vývojář nalezne důležité informace o hardware a software daného zařízení.
+Vlastnosti
+device.model
+Tato vlastnost obsahuje název zařízení.
+device.cordova
+V této vlastnosti nalezneme informace o aktuálně použité verzi PhoneGap (Apache Cordova).
+device.platform
+Obsahuje informace o platformě, kterou uživatel používá. Například „Android“.
+device.uuid
+Obsahem této vlastnosti je UUID identifikátor daného zařízení.
+device.version
+Vlastnost uchovávající informace o verzi operačního systému.
+Events
+Události ze životního cyklu aplikace.
+Události
+deviceready
+Událost signalizující, že PhoneGap (Apache Cordova) je načtena a plně připravena k použití.
+pause
+Tato událost nastane, když je aplikace přepnuta do pozadí.
+resume
+Naopak když uživatel přepne aplikaci z pozadí do popředí, nastane událost resume.
+online
+Pokud je zařízení připojeno k internetu, dozvíme se o tom pomocí události online.
+offline
+Inverzní událost k té předchozí.
+backbutton
+Pokud je zařízení vybaveno zpětným tlačítkem, tak při jeho stisknutí uživatelem nastane událost backbutton.
+batterycritical
+Událost signalizující kriticky nízkou úroveň nabití baterie.
+batterylow
+Událost signalizující nízkou úroveň nabití baterie.
+batterystatus
+Pokud nastane změna v úrovni nabití baterie, můžeme se o tom dozvědět prostřednictvím události batterystatus.
+menubutton
+Pokud je zařízení vybaveno tlačítkem umožňujícím návrat do hlavní nabídky, jeho stisknutí zaznamená událost menubutton.
+searchbutton
+Tato událost je podporována jen na zařízeních s platformou Android. Zaznamenává stisknutí vyhledávacího tlačítka.
+startcallbutton
+Událost signalizující stisknutí tlačítka pro zahájení hovoru.
+endcallbutton
+Opačná událost k předchozí. Signalizuje stisknutí tlačítka na ukončení hovoru.
+volumedownbutton a volumeupbutton
+Dojde li ke stisknutí tlačítek ovládání hlasitosti, dozvíme se o tom pomocí událostí volumedownbutton nebo volumeupbutton.
+File
+Sada objektů implementujících W3C specifikaci API pro zápis, čtení a navigaci v nativním filesystému.
+Objekty (výběr důležitých)
+File
+Objekt obsahující vlastnosti souboru (jméno, adresu apod.).
+FileReader
+Objekt umožňující vývojáři čtení souboru.
+FileWriter
+Objekt umožňující vývojáři zápis do souboru.
+FileSystem
+Objekt reprezentující nativní filesystém.
+FileEntry
+Objekt reprezentující soubor v nativním filesystému. Obsahuje mnoho důležitých metod, jako je například kopírování z místa na místo, mazání souboru apod.
+DirectoryEntry
+Objekt reprezentující složku v nativním filesystému. Tento objekt je velmi podobný předcházejícímu FileEntry.
+Geolocation
+API umožňující přístup k informacím o zeměpisné délce a šířce daného zařízení. Tyto informace mohou pocházet buď z GPS modulu nebo z jiných zdrojů jako například IP adresa či GSM připojení.
+Metody
+geolocation.getCurrentPosition
+Tato metoda vrátí informace o poloze zařízení uložené v objektu Position.
+geolocation.watchPosition
+Metoda umožňující sledovat informace o změnách polohy daného zařízení.
+geolocation.clearWatch
+Zruší sledování polohy vytvořené předchozí metodou.
+Globalization
+Objekt globalization obsahuje informaci o preferovaném jazyce, nastavené časové zóně a podobně.
+Metody (výběr důležitých)
+globalization.getPreferredLanguage
+Metoda vracející informaci o systémově nastaveném jazyce.
+globalization.getDatePattern
+Vrátí formát data preferovaný uživatelem.
+InAppBrowser[d]
+Internetový prohlížeč, který se otevře v rámci aplikace po zavolání metody window.open.
+Metody
+addEventListener
+Naslouchá událostem z otevřeného prohlížeče (například loadstop, signalizující dokončení načítání URL).
+removeEventListener
+Odstraní naslouchání vytvořené předchozí funkcí.
+close
+Zavře okno otevřeného prohlížeče.
+Media
+Pomocí objektu Media může vývojář zajistit nahrávání a přehrávání audio souboru.
+Metody
+media.getCurrentPosition
+Vrátí aktuální pozici v právě přehrávaném zvukovém souboru.
+media.getDuration
+Vrátí délku trvání audio souboru.
+media.play, media.stop a media.pause
+Spuštění, zastavení nebo pozastavení přehrávání souboru.
+media.release
+Uvolní prostředky alokované operačním systémem zajišťující operaci se zvukovým souborem.
+media.seekTo
+Přemístí pozici v audio souboru.
+media.startRecord, media.stopRecord
+Spustí nebo zastaví nahrávání audio souboru.
+Notification
+Umožňuje upozornit uživatele pomocí různých druhů notifikací.
+Metody
+notification.alert
+Zobrazí customizovaný alert box nebo dialog se zadaným textem.
+notification.confirm
+Zobrazí customizovaný potvrzovací dialog.
+notification.beep
+Krátké pípnutí.
+notification.vibrate
+Upozorní uživatele vibrací specifikované délky.
+Splashscreen
+Pomocí tohoto API může vývojář ovlivnit zobrazování splashscreenu[e] při startu aplikace.
+Metody
+splashscreen.show
+Zobrazí aplikační splashscreen.
+splashscreen.hide
+Skryje splashscreen.
+Storage
+API založené na W3C specifikaci umožňující ukládání dat do lokální databáze.
+Metody
+openDatabase
+Vytvoří nový objekt Database, nad kterým můžeme provádět transakce pomocí metody executeSql objektu SQL Transaction.
+Tabulka podpory API volání v rámci platforem
+Jednotlivá API volání bohužel nejsou podporována konzistentně napříč platformami. V následující tabulce najdete přehled podpory jednotlivých volání napříč mobilními platformami.
+
+
+https://docs.google.com/spreadsheet/ccc?key=0Am8CeTLhq3uQdHhqUVVWQ21OMDhVYWVHSHNPS01obUE&usp=sharing
+PhoneGap v reálných aplikacích
+Pokud jsme dosud slyšeli jen čísla, kolikrát byl PhoneGap stažen, je čas se přesvědčit, že jej vývojáři opravdu využívají při reálném vývoji masově rozšířených aplikací. Vybral jsem 3 nejzajímavější aplikace, při jejichž vývoji byl využit PhoneGap.
+Wikipedia
+Otevřená encyklopedie Wikipedia používá PhoneGap pro vývoj oficiální mobilní aplikace, přes kterou mohou uživatelé vyhledávat, zobrazovat a ukládat jednotlivé články z nejobsáhlejší encyklopedie světa. Aplikace je v současnosti portována na platformách iOS, Android a BlackBerry Playbook.
+
+Aplikace Wikipedia na OS Android. Zdroj: [41]
+BBC Olympics
+Pro účely letních olympijských her v Londýně v létě 2012 vznikla pro britskou veřejnoprávní televizi BBC aplikace, která umožnila uživatelům přísun čerstvých novinek z dění na sportovištích. Aplikace nabízela například živé videopřenosy ze všech sportovišť, živý textový komentář k jednotlivým sportům, sestřihy toho nejlepšího, možnost čtení nejzajímavějších článků offline a mnoho dalšího. [43]
+
+
+BBC Olympics byla dostupná na třech platformách – iOS, Android a Blackberry.
+
+
+
+Aplikace BBC Olympics na platformě iOS. Zdroj: [44]
+Fruit Salad
+Fruit Salad je hra, kde se hráč snaží skládat pod sebe stejné druhy ovoce a získávat za to body. Tato hra vytvořená pomocí HTML5 je dostupná pro platformu Android.
+
+
+“PhoneGap Build is a great tool for web developers who want to give App Store visibility to their HTML apps” said Fruit Salad creator, Baptiste Brunet. [45]
+
+
+
+Hra Fruit Salad běžící na OS Android. Zdroj: [45]
+Budoucnost
+Co očekávat od budoucích let v souvislosti s PhoneGap? Jednoznačně mnohem hlubší integraci s Adobe produkty. Ačkoliv se to již u některých produktů (Adobe DreamWeaver) stalo, od převzetí PhoneGap firmou Adobe se očekávalo v tomto ohledu mnohem více. V dalších letech tak můžeme očekávat zařazování PhoneGap do vývojářských nástrojů, které Adobe poskytuje vývojářům HTML5 aplikací.
+
+
+Jak jsem již předeslal na začátku této kapitoly, cílem Phonegap je, aby PhoneGap nebyl třeba. Za tímto účelem se vývojáři PhoneGap účastní tvůrčích skupin v rámci konsorcia W3C pro vytváření nových webových standardů. Jakmile budou nové standardy vytvořeny, dá se očekávat jejich rychlá implementace do PhoneGap, jako je tomu již nyní u API pro geolokaci nebo u lokálního úložiště dat.
+
+
+Dalším cílem bude větší a pohodlnější rozšiřitelnost frameworku. Pluginy by mělo být možné lépe vyhledávat a snadněji instalovat. Pokročilejší vývojáře jistě potěší i plánované vylepšování řádkového interface, kterým je možno framework ovládat z konsole. Zároveň se plánuje velká revize celého API a jeho pročištění a další sjednocení. Jedním z velkých cílů je, aby bylo přidání podpory pro nové platformy co možná nejjednodušší.
+
+
+Když je řeč o nových platformách, bylo by dobré zmínit, které jsou další na řadě. Vývojáři ve svých plánech hovoří zejména o dvou – Tizen a Firefox OS. Tizen je open-source operační systém pro široké spektrum zařízení vyvíjený pod záštitou Linux Foundation. O Firefox OS jsem hovořil již v kapitole XY. Jedná se o mobilní operační systém od společnosti Mozilla postavený čistě na webových technologií pomocí W3C standardů a také Mozilla WebAPI.
+
+
+Vydání PhoneGap ve verzi 3.0.0 je naplánováno na červenec 2013. [37]
+Zdroje
+1. http://phonegap.com/2008/08/07/unofficial-announcement-of-phonegap/
+2. http://phonegap.com/2009/11/04/phonegap-for-iphone-exposed/
+3. http://nachbaur.com/blog/open-letter-to-apple-iphone-developer-support
+4. http://nachbaur.com/blog/updates-on-apple-phonegap
+5. http://nachbaur.com/blog/phonegap-officially-permitted-on-the-app-store
+6. http://phonegap.com/2009/11/20/phonegapp-store-approval/
+7. http://nullisnotanobject.com/phonegap-and-blackberry-os-6
+8. http://phonegap.com/2010/11/09/announcing-the-phonegap-build-beta/
+9. http://phonegap.com/2011/02/25/support-subscriptions-now-available/
+10. http://phonegap.com/2011/04/14/phonegap-for-samsung-bada/
+11. http://phonegap.com/2011/05/04/phonegap-alytics/
+12. http://phonegap.com/2011/07/13/phonegap-and-worklight-enable-mobile-apps-for-the-enterprise/
+13. http://phonegap.com/2011/07/29/phonegap-1-0-released-today-at-phonegap-day-in-portland/
+14. http://phonegap.com/2011/04/12/adobe-dreamweaver-5-5-supports-phonegap/
+15. http://phonegap.com/2011/09/08/announcing-phonegap-for-windows-phone-mango/
+16. http://phonegap.com/2011/09/30/phonegap-build-moves-to-open-beta/
+17. http://phonegap.com/2011/10/03/nitobi-enters-into-acquisition-agreement-with-adobe/
+18. http://phonegap.com/2011/10/27/day-1-nitobi-joins-adobe/
+19. http://phonegap.com/2011/12/19/phonegap-1-3-released/
+20. http://phonegap.com/2012/01/09/adobe-phonegap-named-2012-technology-of-the-year-by-infoworld-test-center/
+21. http://phonegap.com/2012/03/19/phonegap-cordova-and-what%E2%80%99s-in-a-name/
+22. http://phonegap.com/2012/04/10/new-wikipedia-ios-app-is-powered-by-phonegap/
+23. http://phonegap.com/2012/04/13/sap-partnership-provides-openness-and-choice-for-mobile-app-developers/
+24. http://phonegap.com/blog/2012/04/19/introducing-windows-phone-7-builds/
+25. http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/
+26. http://phonegap.com/2012/06/12/adobe-phonegap-named-best-cross-platform-development-tool-by-codeproject/
+27. http://www.infoworld.com/slideshow/24605/infoworlds-2012-technology-of-the-year-award-winners-183313#slide2
+28. http://phonegap.com/2012/06/21/questions-and-myths-about-phonegap/
+29. http://phonegap.com/2012/06/28/adobe-phonegap-named-%E2%80%9Cchampion%E2%80%9D-by-info-tech-research-group/
+30. http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released.md/
+31. http://phonegap.com/blog/2012/07/28/adobe-phonegap-and-project-primetime-power-bbcs-coverage-of-the-olympics/
+32. http://phonegap.com/blog/2012/09/24/phonegap-build-is-launched/
+33. http://phonegap.com/blog/2012/10/30/announcing-apache-cordova-support-for-windows-phone-8/
+34. http://phonegap.com/blog/2012/11/01/phonegap-220/
+35. http://phonegap.com/blog/2012/11/01/adobe-phonegap-wins-jolt-award/
+36. PhoneGap Essentials
+37. http://wiki.apache.org/cordova/RoadmapProjects
+38. http://phonegap.com/about/
+39. http://stage.phonegap.com/2009/05/01/phonegap%E2%80%99s-winning-pitch-at-web-2-0-expo/
+40. http://docs.phonegap.com/en/2.5.0/
+41. http://androidencyclopedia.com/google-android-wikipedia/
+42. http://phonegap.com/2012/04/10/new-wikipedia-ios-app-is-powered-by-phonegap/
+43. http://phonegap.com/app/bbc-olympics/
+44. http://dribbble.com/shots/642405-BBC-Olympics-app
+45. http://phonegap.com/app/fruit-salad/
+
+
+
+
+[a]Štěpán Heller:
+Seznam zkratek.
+[b]Štěpán Heller:
+Nástroje, jak vypadá vložení phonegapu, incializace, hello world.
+[c]Štěpán Heller:
+Případně upravit až si to vyzkoušim.
+[d]Štěpán Heller:
+Zjistit jestli je to implementace ChildBrowseru. IMHO jo.
+[e]Štěpán Heller:
+Seznam pojmů.

@@ -1,0 +1,2381 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.12)  3 MAY 2013 20:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Bakalarka.tex
+(./Bakalarka.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, sl
+ovak, czech, loaded.
+(./FITthesis.cls
+Document Class: FITthesis 2013/03/13 CTU FIT standard class for theses
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2011/03/06 v3.6j configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+
+(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count81
+)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7377.
+LaTeX Info: Redefining \emph on input line 7385.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert232
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert229
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 11807.
+LaTeX Info: Redefining \! on input line 11809.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/07/23] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/czech.ldf
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count138
+\U@D=\dimen147
+)
+Package babel Info: Making " an active character on input line 172.
+\cs@wordlen=\count139
+Package babel Info: Making - an active character on input line 226.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen148
+\Hy@linkcounter=\count140
+\Hy@pagecounter=\count141
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count142
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count143
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count144
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count145
+\c@Item=\count146
+\c@Hfootnote=\count147
+)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2010/08/17 v1.15 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count148
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count149
+\c@bookmark@seq@number=\count150
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip185
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 592pt by 383pt
+Spine and edge margins: 113.81102pt and 100.69685pt
+Upper and lower margins: 128.64378pt and 124.40306pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 92pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+(/usr/share/texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count151
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count152
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count153
+\float@exts=\toks25
+\float@box=\box29
+\@float@everytoks=\toks26
+\@floatcapt=\box30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count154
+\lst@gtempboxa=\box31
+\lst@token=\toks27
+\lst@length=\count155
+\lst@currlwidth=\dimen153
+\lst@column=\count156
+\lst@pos=\count157
+\lst@lostspace=\dimen154
+\lst@width=\dimen155
+\lst@newlines=\count158
+\lst@lineno=\count159
+\lst@maxwidth=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count160
+\lst@skipnumbers=\count161
+\lst@framebox=\box32
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.sty
+Package: dirtree 2006/01/25 v0.2 package wrapper for dirtree
+
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.tex
+`dirtree' v0.2, 2006/01/25 (jcc)
+\DT@offset=\dimen157
+\DT@width=\dimen158
+\DT@sep=\dimen159
+\DT@all=\dimen160
+\DT@rulewidth=\dimen161
+\DT@dotwidth=\dimen162
+\DTbaselineskip=\dimen163
+\DT@counti=\count162
+\DT@countii=\count163
+\DT@countiii=\count164
+\DT@countiv=\count165
+)
+File: dirtree.tex 2006/01/25 v0.2 `dirtree' (jcc)
+) (./Bakalarka.aux)
+\openout1 = `Bakalarka.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 60.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 60.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count166
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 60.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
+(./Bakalarka.out) (./Bakalarka.out)
+\@outlinefile=\write4
+\openout4 = `Bakalarka.out'.
+
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 60.
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 60.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 60.
+
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 60.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 60.
+
+<cvut-logo-bw.pdf, id=166, 91.34125pt x 69.25874pt>
+File: cvut-logo-bw.pdf Graphic file (type pdf)
+ <use cvut-logo-bw.pdf>
+Package pdftex.def Info: cvut-logo-bw.pdf used on input line 60.
+(pdftex.def)             Requested size: 61.2814pt x 46.4665pt.
+
+Underfull \hbox (badness 10000) in alignment at lines 60--60
+[][] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.60 \begin{document}
+                      [1 <./cvut-logo-bw.pdf>]pdfTeX warning (ext4): destinatio
+n with the same identifier (name{page.ii}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.60 \begin{document}
+                      [2
+
+]
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 60.
+
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 60.
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
+(Font)              using `T1/lmss/bx/n' instead on input line 60.
+
+[5
+
+] [6
+
+] [7]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 60.
+ (/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 60.
+ [8
+
+] [9
+
+] [10
+
+]
+(./Bakalarka.toc [11
+
+]
+Overfull \hbox (2.03773pt too wide) detected at line 232
+ \T1/lmr/bx/n/12 101
+ []
+
+
+Overfull \hbox (2.03773pt too wide) detected at line 233
+ \T1/lmr/bx/n/12 113
+ []
+
+
+Overfull \hbox (2.03773pt too wide) detected at line 234
+ \T1/lmr/bx/n/12 115
+ []
+
+) [12] (./Bakalarka.lof
+Underfull \vbox (badness 4254) has occurred while \output is active []
+
+ [13
+
+])
+[14] (./Bakalarka.lot) [15
+
+] [16
+
+]
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count167
+\scratchdimen=\dimen164
+\scratchbox=\box34
+\nofMPsegments=\count168
+\nofMParguments=\count169
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count170
+\MPscratchDim=\dimen165
+\MPnumerator=\count171
+\makeMPintoPDFobject=\count172
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count173
+
+[1
+
+] [2
+
+]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 70.
+
+(./Mobilni_zarizeni_a_aplikace.tex
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1.
+
+[3] [4]
+Package epstopdf Info: Source file: <graf_mobily_csu.eps>
+(epstopdf)                    date: 2013-04-29 18:27:35
+(epstopdf)                    size: 370536 bytes
+(epstopdf)             Output file: <graf_mobily_csu-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-29 18:28:23
+(epstopdf)                    size: 89382 bytes
+(epstopdf)             Command: <repstopdf --outfile=graf_mobily_csu-eps-conver
+ted-to.pdf graf_mobily_csu.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+ <graf_mobily_csu-eps-converted-to.pdf, id=405, 912.40875pt x 433.62pt>
+File: graf_mobily_csu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graf_mobily_csu-eps-converted-to.pdf>
+Package pdftex.def Info: graf_mobily_csu-eps-converted-to.pdf used on input lin
+e 62.
+(pdftex.def)             Requested size: 364.95703pt x 173.44492pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.77 
+      <./graf_mobily_csu-eps-converted-to.pdf>]
+Overfull \hbox (0.27235pt too wide) in paragraph at lines 91--92
+[]\T1/lmr/m/n/12 Mezi ²i-ro-kou ve-°ej-ností je v²ak za první smart-phone po-va
+-ºo-ván aº iPhone
+ []
+
+Package epstopdf Info: Source file: <smartphone_marketshare_vendors.eps>
+(epstopdf)                    date: 2013-04-29 18:32:14
+(epstopdf)                    size: 138115 bytes
+(epstopdf)             Output file: <smartphone_marketshare_vendors-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-04-29 18:32:32
+(epstopdf)                    size: 45394 bytes
+(epstopdf)             Command: <repstopdf --outfile=smartphone_marketshare_ven
+dors-eps-converted-to.pdf smartphone_marketshare_vendors.eps>
+(epstopdf)             \includegraphics on input line 97.
+Package epstopdf Info: Output file is already uptodate.
+
+<smartphone_marketshare_vendors-eps-converted-to.pdf, id=428, 510.90875pt x 348
+.30125pt>
+File: smartphone_marketshare_vendors-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use smartphone_marketshare_vendors-eps-converted-to.pdf>
+Package pdftex.def Info: smartphone_marketshare_vendors-eps-converted-to.pdf us
+ed on input line 97.
+(pdftex.def)             Requested size: 383.0pt x 261.09775pt.
+ [6]
+<smartphone_by_manufaturers.png, id=444, 860.24612pt x 573.49742pt>
+File: smartphone_by_manufaturers.png Graphic file (type png)
+
+<use smartphone_by_manufaturers.png>
+Package pdftex.def Info: smartphone_by_manufaturers.png used on input line 105.
+
+(pdftex.def)             Requested size: 229.80234pt x 153.2012pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.115 
+       <./smartphone_marketshare_vendors-eps-converted-to.pdf>] [8pdfTeX warnin
+g (ext4): destination with the same identifier (name{figure.1.3}) has been alre
+ady used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.124 
+       <./smartphone_by_manufaturers.png>] [9]
+<smartphone_by_platform.png, id=483, 831.105pt x 537.77382pt>
+File: smartphone_by_platform.png Graphic file (type png)
+
+<use smartphone_by_platform.png>
+Package pdftex.def Info: smartphone_by_platform.png used on input line 141.
+(pdftex.def)             Requested size: 229.80234pt x 148.69652pt.
+
+<graf_vyvoj_mobilnich_os.png, id=485, 504.38437pt x 293.59688pt>
+File: graf_vyvoj_mobilnich_os.png Graphic file (type png)
+
+<use graf_vyvoj_mobilnich_os.png>
+Package pdftex.def Info: graf_vyvoj_mobilnich_os.png used on input line 149.
+(pdftex.def)             Requested size: 383.0pt x 222.9433pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.157 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+1.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.157 
+       <./smartphone_by_platform.png> <./graf_vyvoj_mobilnich_os.png>] [11]
+[12]
+Overfull \hbox (15.58043pt too wide) in paragraph at lines 199--200
+[]\T1/lmr/m/n/12 V pro-st°edí mo-bil-ních te-le-fon· na-chá-zejí webové apli-ka
+ce uplat-n¥ní zejména
+ []
+
+
+Overfull \hbox (11.64447pt too wide) in paragraph at lines 204--205
+ []\T1/lmr/bx/n/12 Hybridní apli-kace[] \T1/lmr/m/n/12 De-fi-nice hyb-rid-ních 
+apli-kací není za-tím úpln¥ p°esn¥
+ []
+
+[13] [14] [15] [16]) [17] [18
+
+] (./Mobilni_platformy_technicky.tex [19]
+<iOS_SystemLayers.png, id=619, 734.745pt x 405.515pt>
+File: iOS_SystemLayers.png Graphic file (type png)
+
+<use iOS_SystemLayers.png>
+Package pdftex.def Info: iOS_SystemLayers.png used on input line 17.
+(pdftex.def)             Requested size: 383.0pt x 211.38876pt.
+
+Overfull \hbox (2.96637pt too wide) in paragraph at lines 27--28
+[]\T1/lmr/m/n/12 LLVM je kom-pi-lá-to-rová in-frastruk-tura pro ^^RCom-pile Tim
+e^^P, ^^RLink Time^^P
+ []
+
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.28 
+      <./iOS_SystemLayers.png>]
+Underfull \vbox (badness 7814) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (13.03973pt too wide) in paragraph at lines 45--46
+\T1/lmr/m/n/12 nými da-to-vými struk-tu-rami a jsou mo-di-fi-ko-vány za-°í-zení
+ od za-°í-zení. Knihovny
+ []
+
+<Android-architecture.jpg, id=648, 757.7722pt x 544.15059pt>
+File: Android-architecture.jpg Graphic file (type jpg)
+
+<use Android-architecture.jpg>
+Package pdftex.def Info: Android-architecture.jpg used on input line 52.
+(pdftex.def)             Requested size: 383.0pt x 275.03052pt.
+
+<android_app_tech.png, id=653, 383.4325pt x 277.035pt>
+File: android_app_tech.png Graphic file (type png)
+
+<use android_app_tech.png>
+Package pdftex.def Info: android_app_tech.png used on input line 61.
+(pdftex.def)             Requested size: 229.80234pt x 166.03627pt.
+
+Underfull \vbox (badness 6893) has occurred while \output is active []
+
+ [22]
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.68 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.68 
+      <./Android-architecture.jpg> <./android_app_tech.png>]
+<WP8Architecture.png, id=670, 564.1878pt x 436.029pt>
+File: WP8Architecture.png Graphic file (type png)
+
+<use WP8Architecture.png>
+Package pdftex.def Info: WP8Architecture.png used on input line 83.
+(pdftex.def)             Requested size: 383.0pt x 296.0101pt.
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.96 
+      <./WP8Architecture.png>]
+<wp8_cloud_compilation.png, id=696, 435.12563pt x 509.65407pt>
+File: wp8_cloud_compilation.png Graphic file (type png)
+
+<use wp8_cloud_compilation.png>
+Package pdftex.def Info: wp8_cloud_compilation.png used on input line 111.
+(pdftex.def)             Requested size: 383.0pt x 448.62917pt.
+ [26] [27pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.2.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.123 
+       <./wp8_cloud_compilation.png>] [28]
+<FirefoxOS_architecture.png, id=729, 567.62062pt x 688.82344pt>
+File: FirefoxOS_architecture.png Graphic file (type png)
+
+<use FirefoxOS_architecture.png>
+Package pdftex.def Info: FirefoxOS_architecture.png used on input line 135.
+(pdftex.def)             Requested size: 383.0pt x 464.79912pt.
+) [29] [30pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.2.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.76 
+      <./FirefoxOS_architecture.png>] [31] [32
+
+] (./Multiplatformni_vyvoj.tex
+[33] [34]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 29.
+
+[35] [36]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 58.
+
+[37] <html5browser.png, id=799, 1723.43875pt x 1580.90625pt>
+File: html5browser.png Graphic file (type png)
+
+<use html5browser.png>
+Package pdftex.def Info: html5browser.png used on input line 79.
+(pdftex.def)             Requested size: 383.0pt x 351.32236pt.
+ [38]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 87.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.89 
+      <./html5browser.png>] [40] [41]
+<titanium_architecture.png, id=842, 487.06969pt x 361.35pt>
+File: titanium_architecture.png Graphic file (type png)
+
+<use titanium_architecture.png>
+Package pdftex.def Info: titanium_architecture.png used on input line 134.
+(pdftex.def)             Requested size: 383.0pt x 284.14558pt.
+ [42pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.140 
+       <./titanium_architecture.png>] [43]) [44] (./Hybridni_frameworky.tex
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1.
+
+[45
+
+] [46] <hybrid_app_architecture.png, id=906, 204.765pt x 405.515pt>
+File: hybrid_app_architecture.png Graphic file (type png)
+
+<use hybrid_app_architecture.png>
+Package pdftex.def Info: hybrid_app_architecture.png used on input line 56.
+(pdftex.def)             Requested size: 153.19766pt x 303.41153pt.
+ [47]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+) [48pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.74     <
+          p>I'm first in the source order so I'm shown as the page.</p> <./hybr
+id_app_architecture.png (PNG copy)>] [49] [50]
+<hybridni_aplikace_komunikace.png, id=971, 796.9775pt x 475.7775pt>
+File: hybridni_aplikace_komunikace.png Graphic file (type png)
+
+<use hybridni_aplikace_komunikace.png>
+Package pdftex.def Info: hybridni_aplikace_komunikace.png used on input line 12
+1.
+(pdftex.def)             Requested size: 383.0pt x 228.6392pt.
+
+Underfull \vbox (badness 1571) has occurred while \output is active []
+
+ [51pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.129 
+       <./hybridni_aplikace_komunikace.png (PNG copy)>]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 138.
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 138.
+
+[52] [53] <MoSyncUI_Layers.png, id=991, 516.93124pt x 260.975pt>
+File: MoSyncUI_Layers.png Graphic file (type png)
+
+<use MoSyncUI_Layers.png>
+Package pdftex.def Info: MoSyncUI_Layers.png used on input line 165.
+(pdftex.def)             Requested size: 383.0pt x 193.36537pt.
+ [54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.173 
+       <./MoSyncUI_Layers.png>] [55] [56]) [57] [58
+
+] (./PhoneGap.tex
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1.
+
+[59] [60] [61]
+Overfull \hbox (8.26945pt too wide) in paragraph at lines 61--62
+[]\T1/lmr/m/n/12 ^^PPhoneGap has pro-ven to be an industry-defining app so-lu-t
+ion for HTML5
+ []
+
+[62]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 86.
+
+[63] [64]
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+ [65]
+Overfull \hbox (97.23074pt too wide) in paragraph at lines 148--149
+\T1/lmr/m/n/12 áln¥ spra-vo-vána pro-jek-tem Pho-ne-Gap na ad-rese https://gith
+ub.com/purplecabbage/phonegap-
+ []
+
+
+Overfull \hbox (1.35358pt too wide) in paragraph at lines 150--151
+[]\T1/lmr/m/n/12 Najdeme tu bo-ha-tou sbírku plu-gin·, které po-krý-vají ²i-ro-
+kou ²kálu funkcí.
+ []
+
+[66]
+Overfull \hbox (5.16995pt too wide) in paragraph at lines 176--177
+[]\T1/lmr/bx/n/12 Ripple Mo-bile En-vi-ro-ment Emu-la-tor[] \T1/lmr/m/n/12 Rip-
+ple Mo-bile En-vi-ro-ment Emu-
+ []
+
+<RMEE.png, id=1178, 1310.8975pt x 683.55376pt>
+File: RMEE.png Graphic file (type png)
+ <use RMEE.png>
+Package pdftex.def Info: RMEE.png used on input line 181.
+(pdftex.def)             Requested size: 344.69766pt x 179.7328pt.
+ [67]
+Overfull \hbox (77.40628pt too wide) in paragraph at lines 197--198
+\T1/lmr/m/n/12 resu ser-veru s iden-ti-fi-ká-to-rem la-d¥né apli-kace http://de
+bug.phonegap.com/client/#myapp.
+ []
+
+[68pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.201 
+       <./RMEE.png>] [69] [70] [71] [72]
+Overfull \hbox (12.32825pt too wide) in paragraph at lines 360--361
+[]\T1/lmr/bx/n/12 DirectoryEntry[] \T1/lmr/m/n/12 Ob-jekt re-pre-zen-tu-jící sl
+oºku v na-tiv-ním fi-le-sys-tému. Tento
+ []
+
+[73]
+Overfull \hbox (9.94196pt too wide) in paragraph at lines 370--371
+[]\T1/lmr/bx/n/12 geolocation.watchPosition[] \T1/lmr/m/n/12 Me-toda umoº-¬u-jí
+cí sle-do-vat in-for-mace o zm¥-
+ []
+
+
+Overfull \hbox (2.33266pt too wide) in paragraph at lines 373--374
+[]\T1/lmr/bx/n/12 geolocation.clearWatch[] \T1/lmr/m/n/12 Zru²í sle-do-vání po-
+lohy vy-tvo-°ené p°ed-chozí me-
+ []
+
+
+Overfull \hbox (2.32874pt too wide) in paragraph at lines 380--381
+[]\T1/lmr/bx/n/12 globalization.getPreferredLanguage[] \T1/lmr/m/n/12 Me-toda v
+ra-ce-jící in-for-maci o sys-
+ []
+
+
+Overfull \hbox (1.38829pt too wide) in paragraph at lines 393--394
+[]\T1/lmr/bx/n/12 removeEventListener[] \T1/lmr/m/n/12 Od-straní na-slou-chání 
+vy-tvo-°ené p°ed-chozí funkcí. 
+ []
+
+[74]
+Overfull \hbox (0.10336pt too wide) in paragraph at lines 418--419
+[]\T1/lmr/bx/n/12 media.startRecord, me-dia.stopRecord[] \T1/lmr/m/n/12 Spustí 
+nebo za-staví na-hrá-vání
+ []
+
+[75] <wikipedia.png, id=1314, 466.74374pt x 865.2325pt>
+File: wikipedia.png Graphic file (type png)
+ <use wikipedia.png>
+Package pdftex.def Info: wikipedia.png used on input line 463.
+(pdftex.def)             Requested size: 153.19766pt x 283.99612pt.
+
+Underfull \vbox (badness 2951) has occurred while \output is active []
+
+ [76]
+<bbc.jpg, id=1329, 401.5pt x 301.125pt>
+File: bbc.jpg Graphic file (type jpg)
+ <use bbc.jpg>
+Package pdftex.def Info: bbc.jpg used on input line 474.
+(pdftex.def)             Requested size: 191.5pt x 143.62859pt.
+
+<fruitsalad.jpg, id=1333, 308.15125pt x 513.92pt>
+File: fruitsalad.jpg Graphic file (type jpg)
+ <use fruitsalad.jpg>
+Package pdftex.def Info: fruitsalad.jpg used on input line 485.
+(pdftex.def)             Requested size: 153.19766pt x 255.5008pt.
+ [77pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.488 \end{figure}
+                   <./wikipedia.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.492 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+5.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.492 
+       <./bbc.jpg> <./fruitsalad.jpg>]) [79] [80
+
+] (./Demo_aplikace.tex
+<bbgap_timeline.png, id=1357, 556.0775pt x 509.905pt>
+File: bbgap_timeline.png Graphic file (type png)
+ <use bbgap_timeline.png>
+Package pdftex.def Info: bbgap_timeline.png used on input line 9.
+(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+[82pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.20 
+      <./bbgap_timeline.png>]
+<orionids_home.png, id=1367, 556.0775pt x 509.905pt>
+File: orionids_home.png Graphic file (type png)
+ <use orionids_home.png>
+Package pdftex.def Info: orionids_home.png used on input line 24.
+(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
+
+[83pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.30 
+      <./orionids_home.png>]
+
+Package hyperref Warning: Composite letter `\textasciicaron+C'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 33.
+
+<tgap_odpocitavani.png, id=1372, 556.0775pt x 509.905pt>
+File: tgap_odpocitavani.png Graphic file (type png)
+
+<use tgap_odpocitavani.png>
+Package pdftex.def Info: tgap_odpocitavani.png used on input line 39.
+(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
+ [84pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.45 
+      <./tgap_odpocitavani.png>])
+
+Class memoir Warning: The material used in the headers is too large
+(14.89201pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 94.
+
+[85] [86
+
+] (./Hybridni_vs_nativni_vyvoj.tex
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 3.
+
+
+Overfull \hbox (2.1906pt too wide) in paragraph at lines 12--13
+\T1/lmr/m/n/12 ptávka po vý-vo-já-°ích ovlá-da-jí-cích tech-no-lo-gii HTML 5 sk
+u-te£n¥ velká. Jedná
+ []
+
+[87] <jobgraph_html5.png, id=1395, 542.025pt x 301.125pt>
+File: jobgraph_html5.png Graphic file (type png)
+
+<use jobgraph_html5.png>
+Package pdftex.def Info: jobgraph_html5.png used on input line 15.
+(pdftex.def)             Requested size: 383.0pt x 212.78479pt.
+
+<jobgraph_phonegap.png, id=1398, 542.025pt x 301.125pt>
+File: jobgraph_phonegap.png Graphic file (type png)
+
+<use jobgraph_phonegap.png>
+Package pdftex.def Info: jobgraph_phonegap.png used on input line 23.
+(pdftex.def)             Requested size: 383.0pt x 212.78479pt.
+ <jobgraph_ios.png, id=1404, 542.025pt x 301.125pt>
+File: jobgraph_ios.png Graphic file (type png)
+
+<use jobgraph_ios.png>
+Package pdftex.def Info: jobgraph_ios.png used on input line 33.
+(pdftex.def)             Requested size: 383.0pt x 212.78479pt.
+ [88pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.41 
+      <./jobgraph_html5.png (PNG copy)>] [89pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.7.2}) has been already used, duplicate ig
+nored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.41 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
+.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.41 
+      <./jobgraph_phonegap.png (PNG copy)> <./jobgraph_ios.png (PNG copy)>]
+Overfull \hbox (20.164pt too wide) in paragraph at lines 45--75
+ [][] 
+ []
+
+[90pdfTeX warning (ext4): destination with the same identifier (name{table.7.1}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.84 
+     ] [91] [92]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93]
+[94] <hybrid_native_graph.png, id=1457, 528.97626pt x 625.33624pt>
+File: hybrid_native_graph.png Graphic file (type png)
+
+<use hybrid_native_graph.png>
+Package pdftex.def Info: hybrid_native_graph.png used on input line 148.
+(pdftex.def)             Requested size: 383.0pt x 452.77034pt.
+) [95] [96pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.7.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.97 \begin{conclusion}
+                        <./hybrid_native_graph.png>]
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 97.
+
+(./Zaver.tex [97
+
+]) [98] (./Bakalarka.bbl [99] [100
+
+]
+bibitemlist
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 14.
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 3930) in paragraph at lines 22--24
+[]\T1/lmr/m/n/12 Android Ar-chi-tecture - The Key Con-cepts of An-droid OS.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :
+\T1/lmtt/m/n/12 android -[] app -[] market\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com
+ / android -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+[]\T1/lmr/m/n/12 Announcing Win-dows Phone 8. Do-stupné z: []$\T1/lmtt/m/n/12 h
+ttp : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+\T1/lmtt/m/n/12 blogs\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 windows\OML/lmm/m/it/12 
+:\T1/lmtt/m/n/12 com / windows[]phone / b / windowsphone / archive /
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 44--46
+[]\T1/lmr/m/n/12 Apple Na-mes All-Time Top App Store Apps - The Mac Ob-
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 44--46
+\T1/lmr/m/n/12 ser-ver. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/
+m/it/12 :\T1/lmtt/m/n/12 macobserver\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / tmo
+ / article /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+[]\T1/lmr/m/n/12 Apple un-ve-ils iPhone | Ma-cworld. Do-stupné z: []$\T1/lmtt/m
+/n/12 http :
+ []
+
+[101]
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+[]\T1/lmr/m/n/12 Apps ar-chi-tecture - Apps | MDN. Do-stupné z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+[]$\T1/lmtt/m/n/12 https : / / developer\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 mozil
+la\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 org / en -[] US / docs / Apps /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+\T1/lmtt/m/n/12 Architecture?redirectlocale = en -[] US&redirectslug = Apps %
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 56--58
+[]\T1/lmr/m/n/12 Architecture Di-a-grams \OMS/lmsy/m/n/12 ^^A \T1/lmr/m/n/12 Ti
+-de-SD-K/-Ti-de-SDK Wiki. Do-stupné z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+[]$\T1/lmtt/m/n/12 https : / / github\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / Ti
+deSDK / TideSDK / wiki / Architecture -[]
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 60--62
+[]\T1/lmr/m/n/12 BBC News - Meet Marty Co-o-per - the in-ven-tor of the mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+\T1/lmr/m/n/12 - Busi-nessweek. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\
+OML/lmm/m/it/12 :\T1/lmtt/m/n/12 businessweek\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 
+com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+\T1/lmtt/m/n/12 articles / 2012 -[] 06 -[] 29 / before -[] iphone -[] and -[] a
+ndroid -[] came -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
+\T1/lmtt/m/n/12 bii -[] report -[] how -[] hybrid -[] apps -[] are -[] accelera
+ting -[] html5 -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+[]\T1/lmr/m/n/12 Booting to the Web ^^U Sku-piny Go-o-gle. Do-stupné z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+[]$\T1/lmtt/m/n/12 https : / / groups\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 google\O
+ML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / forum/?fromgroups = #!topic /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+[]\T1/lmr/m/n/12 Building Mo-bile Ap-pli-cati-ons with Ti-ta-nium - Do-cu-men-
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 77--80
+\T1/lmr/m/n/12 tation & Gu-i-des - App-ce-le-ra-tor Wiki. Do-stupné z: []$\T1/l
+mtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+\T1/lmtt/m/n/12 / / wiki\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 appcelerator\OML/lmm/
+m/it/12 :\T1/lmtt/m/n/12 org / display / guides / Building + Mobile +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
+[]\T1/lmr/m/n/12 comScore Re-ports May 2012 U.S. Mo-bile Sub-scri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
+\T1/lmr/m/n/12 ber Mar-ket Share - com-Score, Inc. Do-stupné z: []$\T1/lmtt/m/n
+/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
+\T1/lmtt/m/n/12 / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 comscore\OML/lmm/m/it/
+12 :\T1/lmtt/m/n/12 com / Insights / Press[]Releases / 2012 / 7 /
+ []
+
+
+Overfull \hbox (17.88077pt too wide) in paragraph at lines 82--85
+\T1/lmtt/m/n/12 comScore[]Reports[]May[]2012[]U\OML/lmm/m/it/12 :\T1/lmtt/m/n/1
+2 S\OML/lmm/m/it/12 :[]\T1/lmtt/m/n/12 Mobile[]Subscriber[]Market[]Share$[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+[]\T1/lmr/m/n/12 Desítka nej-po-u-ºí-va-n¥j-²ích apli-kací pro An-droid a iPhon
+e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+\T1/lmr/m/n/12 - Root.cz. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lm
+m/m/it/12 :\T1/lmtt/m/n/12 root\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 cz / zpravicky
+ /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+\T1/lmtt/m/n/12 desitka -[] nejpouzivanejsich -[] aplikaci -[] pro -[] android 
+-[] a -[] iphone /
+ []
+
+[102]
+Underfull \hbox (badness 1077) in paragraph at lines 96--98
+[]\T1/lmr/m/n/12 Distribute your App - iOS De-ve-lo-per Pro-gram - Ap-ple De-ve
+-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 100--102
+[]\T1/lmr/m/n/12 Distribute your App - iOS De-ve-lo-per Pro-gram - Ap-ple De-ve
+-
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 108--110
+[]\T1/lmr/m/n/12 FAQs about apps - Apps | MDN. Do-stupné z: []$\T1/lmtt/m/n/12 
+https : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+\T1/lmtt/m/n/12 / / developer\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 mozilla\OML/lmm/
+m/it/12 :\T1/lmtt/m/n/12 org / en -[] US / docs / Mozilla / Firefox[]OS /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+\T1/lmtt/m/n/12 Platform / Architecture?redirectlocale = en -[] US&redirectslug
+ =
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 125--127
+[]\T1/lmr/m/n/12 Google Buys An-droid for Its Mo-bile Ar-se-nal - Busi-nessweek
+.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+\T1/lmtt/m/n/12 10 -[] 29 / google -[] says -[] 700 -[] 000 -[] applications -[
+] available -[] for -[]
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 137--139
+[]\T1/lmr/m/n/12 The His-tory of the Smart-phone - The Next Web. Do-stupné
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 141--143
+\T1/lmr/m/n/12 stupné z: []$\T1/lmtt/m/n/12 http : / / blog\OML/lmm/m/it/12 :\T
+1/lmtt/m/n/12 brightcove\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / en / 2011 / 11 
+/ html5 -[] and -[]
+ []
+
+[103]
+Underfull \hbox (badness 7613) in paragraph at lines 145--147
+[]\T1/lmr/m/n/12 Hybrid Mo-bile App Me-a-su-re-ment ^^U Web-trends Blog. Do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+[]\T1/lmr/m/n/12 Industry Lea-ders An-nounce Open Plat-form for Mo-bile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+\T1/lmr/m/n/12 De-vi-ces | Open Hand-set Al-li-ance. Do-stupné z: []$\T1/lmtt/m
+/n/12 http :
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 154--156
+[]\T1/lmr/m/n/12 Informa£ní tech-no-lo-gie v do-mác-nos-tech a mezi jed-not-liv
+ci |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+\T1/lmr/m/n/12 ƒSÚ. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it
+/12 :\T1/lmtt/m/n/12 czso\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 cz / csu / redakce\O
+ML/lmm/m/it/12 :\T1/lmtt/m/n/12 nsf / i /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+\T1/lmr/m/n/12 foWorld. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/
+m/it/12 :\T1/lmtt/m/n/12 infoworld\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / slide
+show /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+\T1/lmtt/m/n/12 24605 / infoworlds -[] 2012 -[] technology -[] of -[] the -[] y
+ear -[] award -[]
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 162--164
+[]\T1/lmr/m/n/12 Introduction to An-droid de-ve-lo-p-ment. Do-stupné z: []$\T1/
+lmtt/m/n/12 http : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+\T1/lmtt/m/n/12 03 / 27 / introduction -[] to -[] ios -[] development -[] an -[
+] overview -[] of -[]
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 171--174
+\T1/lmr/m/n/12 | TechCrunch. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / techcru
+nch\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 09 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+\T1/lmtt/m/n/12 12 / ios -[] app -[] store -[] boasts -[] 700k -[] apps -[] 90 
+-[] downloaded -[] every -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+[]$\T1/lmtt/m/n/12 http : / / developer\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 apple\
+OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / library / ios / #documentation /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+\T1/lmtt/m/n/12 miscellaneous / conceptual / iphoneostechoverview /
+ []
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
+[]\T1/lmr/m/n/12 Job Search | one search. all jobs. In-deed.com.
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 202--204
+[]\T1/lmr/m/n/12 MacDevCenter.com. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / w
+ww\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 macdevcenter\OML/lmm/m/it/12 :\T1/lmtt/m/n/
+12 com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+[]\T1/lmr/m/n/12 Microsoft Un-ve-ils Win-dows Phone 8. Do-stupné z: []$\T1/lmtt
+/m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+\T1/lmtt/m/n/12 / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 microsoft\OML/lmm/m/it
+/12 :\T1/lmtt/m/n/12 com / en -[] us / news / press / 2012 / oct12 / 10 -[]
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 210--212
+[]\T1/lmr/m/n/12 Mobile App Usage Sta-tis-tics 2012 [In-fo-gra-phic] | An-so-nA
+-lex.
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 210--212
+\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / ansonalex\OML/lmm/m/i
+t/12 :\T1/lmtt/m/n/12 com / infographics / mobile -[] app -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+[]\T1/lmr/m/n/12 Mobile Ap-pli-cati-ons De-ve-lo-p-ment, iPhone & An-droid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+\T1/lmr/m/n/12 App De-ve-lo-p-ment | Mar-ma-lade. Do-stupné z: []$\T1/lmtt/m/n/
+12 http : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
+\T1/lmr/m/n/12 rid Ap-pro-ach. http://www.itexico.com/blog/bid/92633/Mobile-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
+\T1/lmr/m/n/12 Development-Web-App-vs-Native-App-PART-2-Hybrid-Approach.
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 219--222
+\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :
+\T1/lmtt/m/n/12 itexico\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / blog / bid / 926
+33 / Mobile -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--227
+\T1/lmtt/m/n/12 Mobile -[] Devices -[] Definition -[] And -[] Security -[] Issu
+es -[] Part -[] 1 -[] of -[]
+ []
+
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 235--238
+\T1/lmtt/m/n/12 blog / cell -[] phones / mwc -[] 2010 -[] microsoft -[] announc
+es -[] windows -[]
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 240--243
+[]\T1/lmr/m/n/12 New An-droid Tro-jan Found in Go-o-gle Play | News & Opi-
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 254--256
+[]\T1/lmr/m/n/12 PhoneGap | Adobe Dre-a-mwea-ver 5.5 Sup-ports Pho-ne-Gap. Do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+[]\T1/lmr/m/n/12 PhoneGap | Adobe Pho-ne-Gap and Pro-ject Pri-me-time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+\T1/lmr/m/n/12 Power BBC's Co-ve-rage of the Olym-pics. Do-stupné z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
+[]$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / b
+log / 2012 / 07 / 28 / adobe -[] phonegap -[] and -[]
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 267--270
+[]\T1/lmr/m/n/12 PhoneGap | Adobe Pho-ne-Gap na-med 2012 Tech-no-logy of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
+\T1/lmr/m/n/12 the Year by In-foWorld Test Cen-ter. Do-stupné z: []$\T1/lmtt/m/
+n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
+\T1/lmtt/m/n/12 / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 01 /
+ 09 / adobe -[] phonegap -[] named -[] 2012 -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
+[]\T1/lmr/m/n/12 PhoneGap | Adobe Pho-ne-Gap na-med Best Cross-Platform
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
+\T1/lmr/m/n/12 De-ve-lo-p-ment Tool by Co-de-Pro-ject. Do-stupné z: []$\T1/lmtt
+/m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
+\T1/lmtt/m/n/12 / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 06 /
+ 12 / adobe -[] phonegap -[] named -[] best -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+\T1/lmtt/m/n/12 adobe -[] phonegap -[] named -[] %E2 % 80 % 9Cchampion % E2 % 8
+0 % 9D -[] by -[] info -[]
+ []
+
+[106]
+Underfull \hbox (badness 1490) in paragraph at lines 287--289
+\T1/lmr/m/n/12 Phone 8. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML
+/lmm/m/it/12 :\T1/lmtt/m/n/12 com / blog / 2012 / 10 / 30 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--293
+\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it
+/12 :\T1/lmtt/m/n/12 com / 2011 / 09 / 08 / announcing -[]
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 295--297
+[]\T1/lmr/m/n/12 PhoneGap | An-noun-cing the Pho-ne-Gap Bu-ild Beta. Do-stupné
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
+[]$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / b
+log / 2012 / 04 / 19 / introducing -[] windows -[]
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 323--325
+\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it
+/12 :\T1/lmtt/m/n/12 com / 2011 / 10 / 03 / nitobi -[] enters -[]
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 327--330
+[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap 1.0 Re-le-a-sed To-day at Pho-ne-Gap Day
+
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 327--330
+\T1/lmr/m/n/12 in Portland. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap
+\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2011 / 07 / 29 /
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 332--334
+[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap 1.3 Re-le-a-sed. Do-stupné z: []$\T1/lmt
+t/m/n/12 http : / /
+ []
+
+[107]
+Underfull \hbox (badness 2884) in paragraph at lines 336--338
+[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap 2.2.0 Re-le-a-sed. Do-stupné z: []$\T1/l
+mtt/m/n/12 http : / /
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 353--355
+[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap Bu-ild mo-ves to Open Beta. Do-stupné
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 357--359
+[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap, Cor-dova, and what's in a name? Do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
+[]$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2
+012 / 06 / 21 / questions -[] and -[] myths -[] about -[]
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 381--384
+\T1/lmr/m/n/12 ne-Gap and Why. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phone
+gap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 04 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--384
+\T1/lmtt/m/n/12 12 / rolling -[] releases -[] how -[] apache -[] cordova -[] be
+comes -[] phonegap -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--389
+\T1/lmtt/m/n/12 04 / 13 / sap -[] partnership -[] provides -[] openness -[] and
+ -[] choice -[] for -[]
+ []
+
+[108]
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
+[]$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2
+011 / 02 / 25 / support -[] subscriptions -[] now -[]
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 395--397
+[]\T1/lmr/m/n/12 PhoneGap | Uno-f-fi-cial an-noun-ce-ment of Pho-ne-Gap. Do-stu
+pné
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--401
+[]\T1/lmr/m/n/12 PhoneGap API Do-cu-men-tation. Do-stupné z: []$\T1/lmtt/m/n/12
+ http : / /
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 408--410
+\T1/lmr/m/n/12 z: []$\T1/lmtt/m/n/12 https : / / www\OML/lmm/m/it/12 :\T1/lmtt/
+m/n/12 cocoacontrols\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / posts / a -[] prime
+r -[] on -[] hybrid -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
+[]\T1/lmr/m/n/12 The Right MIX. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / blog
+s\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 windows\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com
+ /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
+\T1/lmtt/m/n/12 windows[]phone / b / wpdev / archive / 2010 / 03 / 15 / the -[]
+ right -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--422
+[]\T1/lmr/m/n/12 RoadmapProjects - Cor-dova Wiki. Do-stupné z: []$\T1/lmtt/m/n/
+12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--426
+[]\T1/lmr/m/n/12 Smartphone De-fi-ni-tion | Gart-ner. Do-stupné z: []$\T1/lmtt/
+m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 428--431
+[]\T1/lmr/m/n/12 Strong De-mand for Smart-pho-nes in Se-cond Quar-ter Con-ti-nu
+es
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 428--431
+\T1/lmr/m/n/12 to Drive the Worl-dwide Mo-bile Phone Mar-ket, Ac-cor-ding to
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 433--435
+[]\T1/lmr/m/n/12 [Survey] Which are the best cross-platform tools? | Vi-si-on-M
+o-
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 433--435
+\T1/lmr/m/n/12 bile. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/i
+t/12 :\T1/lmtt/m/n/12 visionmobile\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / blog 
+/ 2011 / 11 /
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+[]\T1/lmr/m/n/12 Transaction Fees - An-droid De-ve-lo-per Help. Do-stupné z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+[]$\T1/lmtt/m/n/12 https : / / support\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 google\
+OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / googleplay / android -[] developer /
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 449--451
+[]\T1/lmr/m/n/12 Understanding JVM In-ter-nals | CUBRID Blog. Do-stupné z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--451
+[]$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 cubrid\OML/l
+mm/m/it/12 :\T1/lmtt/m/n/12 org / blog / dev -[] platform / understanding -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
+[]\T1/lmr/m/n/12 What is a Hyb-rid Mo-bile App? Do-stupné z: []$\T1/lmtt/m/n/12
+ http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
+\T1/lmtt/m/n/12 / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 icenium\OML/lmm/m/it/1
+2 :\T1/lmtt/m/n/12 com / community / blog / icenium -[] team -[] blog / 2012 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+[]\T1/lmr/m/n/12 Windows Phone 8: Com-pile in the Cloud. Do-stupné z:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+[]$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 silverlights
+how\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 net / items / Windows -[] Phone -[] 8 -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--480
+\T1/lmtt/m/n/12 quickerbettertech / 2012 / 05 / 07 / your -[] business -[] chec
+klist -[] a -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--485
+\T1/lmtt/m/n/12 57515945 -[] 94 / ztes -[] first -[] firefox -[] os -[] devices
+ -[] to -[] launch -[] in -[]
+ []
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 487--490
+[]$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 americandial
+ect\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 org / app -[] voted -[] 2010 -[] word -[] 
+of -[]
+ []
+
+) [111] [112
+
+] [113] [114
+
+]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 228.
+
+
+Class memoir Warning: The material used in the headers is too large
+(14.89201pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 245.
+
+[115]
+\tf@toc=\write5
+\openout5 = `Bakalarka.toc'.
+
+\tf@lof=\write6
+\openout6 = `Bakalarka.lof'.
+
+\tf@lot=\write7
+\openout7 = `Bakalarka.lot'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
+ (./Bakalarka.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
+Package rerunfilecheck Info: File `Bakalarka.out' has not changed.
+(rerunfilecheck)             Checksum: A6678462602A10F5FD6BC8F064383420;2505.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
+ ) 
+Here is how much of TeX's memory you used:
+ 12834 strings out of 495025
+ 180545 string characters out of 3180733
+ 502578 words of memory out of 3000000
+ 15114 multiletter control sequences out of 15000+200000
+ 68809 words of font info for 45 fonts, out of 3000000 for 9000
+ 24 hyphenation exceptions out of 8191
+ 38i,13n,51p,1492b,2031s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/s
+hare/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/publi
+c/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/l
+m/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/font
+s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb
+>
+Output written on Bakalarka.pdf (131 pages, 1954897 bytes).
+PDF statistics:
+ 2015 PDF objects out of 2073 (max. 8388607)
+ 1798 compressed objects within 18 object streams
+ 708 named destinations out of 1000 (max. 500000)
+ 445 words of extra memory for PDF output out of 10000 (max. 10000000)
+
