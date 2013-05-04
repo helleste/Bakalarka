@@ -58,45 +58,7 @@ Strukturu hybridní aplikace naznačuje obrázek \ref{fig:HybridAppArchitecture}
 \label{fig:HybridAppArchitecture}
 \end{figure} 
 
-Pojďme si nyní detailněji popsat jednotlivé části. Samotná webová aplikace nemá zcela obvyklou strukturu, na kterou jsme zvyklí z tvorby klasických webových stránek. Velice často jde o jediný HTML soubor, kde je uvnitř elementu <body> ukryta celá architektura aplikace. Tento přístup umožňuje použití některého z oblíbených JavaScriptových frameworků, jako je např. jQuery Mobile, Zepto JS nebo Sencha Touch. Struktura samotné stránky pak vypadá nějak takto:
-
-
-\begin{lstlisting}[language=HTML,breaklines=true]
-
-<body>
-<!-- Start of first page -->
-<div data-role="page" id="foo">
-  <div data-role="header">
-    <h1>Foo</h1>
-  </div><!-- /header -->
-
-  <div data-role="content">
-    <p>I'm first in the source order so I'm shown as the page.</p>
-    <p>View internal page called <a href="#bar">bar</a></p>
-  </div><!-- /content -->
-
-  <div data-role="footer">
-    <h4>Page Footer</h4>
-  </div><!-- /footer -->
-</div><!-- /page -->
-
-<!-- Start of second page -->
-<div data-role="page" id="bar">
-  <div data-role="header">
-    <h1>Bar</h1>
-  </div><!-- /header -->
-
-  <div data-role="content">
-    <p>I'm the second in the source order so I'm hidden when the page loads.I'm just shown if a link that references my id is beeing clicked.</p>
-    <p><a href="#foo">Back to foo</a></p>
-  </div><!-- /content -->
-
-  <div data-role="footer">
-    <h4>Page Footer</h4>
-  </div><!-- /footer -->
-</div><!-- /page -->
-</body>
-\end{lstlisting}
+Pojďme si nyní detailněji popsat jednotlivé části. Samotná webová aplikace nemá zcela obvyklou strukturu, na kterou jsme zvyklí z tvorby klasických webových stránek. Velice často jde o jediný HTML soubor, kde je uvnitř elementu <body> ukryta celá architektura aplikace. Tento přístup umožňuje použití některého z oblíbených JavaScriptových frameworků, jako je např. jQuery Mobile, Zepto JS nebo Sencha Touch.
 
 Samotné přechody mezi stránkami jsou realizovány buď pomocí JavaScriptu funkcemi hide() a show() či využitím přechodů definovaných ve standardu CSS3. Výše zmíněné javascriptové frameworky většinou poskytují i CSS šablonu, ve které jsou definovány styly pro různé ovládací prvky, jakými jsou například tlačítka přívětivá pro dotyk. Vývojář si pak může tyto šablony přizpůsobit k obrazu svému přidáním vlastních pravidel.
 

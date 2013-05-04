@@ -1,4 +1,4 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{10}
 \providecommand{\biburl}[1]{\url{#1}}
 \providecommand{\urlprefix}{Dostupn{\' e} z: }
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -13,15 +13,6 @@
   Numbers for {iPhone} Apps.
 \urlprefix\biburl{http://148apps.biz/app-store-metrics/}
 
-\bibitem{android_and_ios_record}
-Android and {iOS} Surge to New Smartphone {OS} Record in Second Quarter,
-  According to {IDC}.
-\urlprefix\biburl{http://www.idc.com/getdoc.jsp?containerId=prUS23638712\#.UOszA9EWVsp}
-
-\bibitem{android_architecture}
-Android Architecture - The Key Concepts of Android {OS}.
-\urlprefix\biburl{http://www.android-app-market.com/android-architecture.html}
-
 \bibitem{android_overview}
 Android Overview {\textbar} Open Handset Alliance.
 \urlprefix\biburl{http://www.openhandsetalliance.com/android_overview.html}
@@ -31,18 +22,10 @@ Announcing the prototype Firefox {OS} Simulator Mozilla Hacks – the Web
   developer blog.
 \urlprefix\biburl{https://hacks.mozilla.org/2012/11/announcing-the-prototype-firefox-os-simulator/}
 
-\bibitem{announcing_wp8}
-Announcing Windows Phone 8.
-\urlprefix\biburl{http://blogs.windows.com/windows_phone/b/windowsphone/archive/2012/06/20/announcing-windows-phone-8.aspx}
-
 \bibitem{appcelerator_vs_phonegap}
 Appcelerator Titanium vs. Phonegap: Which is the better Mobile Development
   Platform? {\textbar} Mobile Zone.
 \urlprefix\biburl{http://mobile.dzone.com/news/appcelerator-titanium-vs}
-
-\bibitem{apple_names_top_apps}
-Apple Names All-Time Top App Store Apps - The Mac Observer.
-\urlprefix\biburl{http://www.macobserver.com/tmo/article/apple_names_all-time_top_app_store_apps/}
 
 \bibitem{apple_unveils_iPhone}
 Apple unveils {iPhone} {\textbar} Macworld.
@@ -55,10 +38,6 @@ Apps architecture - Apps {\textbar} {MDN}.
 \bibitem{architecture_titanium}
 Architecture Diagrams · {TideSDK/TideSDK} Wiki.
 \urlprefix\biburl{https://github.com/TideSDK/TideSDK/wiki/Architecture-Diagrams}
-
-\bibitem{bbc_inventor_of_mobile_phone}
-{BBC} News - Meet Marty Cooper - the inventor of the mobile phone.
-\urlprefix\biburl{http://news.bbc.co.uk/2/hi/programmes/click_online/8639590.stm}
 
 \bibitem{simon}
 Before {IPhone} and Android Came Simon, the First Smartphone - Businessweek.
@@ -83,98 +62,45 @@ Building Mobile Applications with Titanium - Documentation \& Guides -
   Inc.
 \urlprefix\biburl{http://www.comscore.com/Insights/Press_Releases/2012/7/comScore_Reports_May_2012_U.S._Mobile_Subscriber_Market_Share}
 
-\bibitem{desitka_nej_aplikaci_android}
-Desítka nejpoužívanějších aplikací pro Android a {iPhone} - Root.cz.
-\urlprefix\biburl{http://www.root.cz/zpravicky/desitka-nejpouzivanejsich-aplikaci-pro-android-a-iphone/\#utm_source=rss&utm_medium=text&utm_campaign=rss}
-
 \bibitem{dissecting_phonegap_architecture}
 Dissecting Phonegap's architecture - Agiliq Blog {\textbar} Django web app
   development.
 \urlprefix\biburl{http://agiliq.com/blog/2012/09/dissecting-phonegaps-architecture/}
 
-\bibitem{distribute_your_app_ios}
-Distribute your App - {iOS} Developer Program - Apple Developer.
-\urlprefix\biburl{https://developer.apple.com/programs/ios/distribute.html}
-
 \bibitem{distribute_ios_app}
 Distribute your App - {iOS} Developer Program - Apple Developer.
 \urlprefix\biburl{https://developer.apple.com/programs/ios/distribute.html}
 
-\bibitem{dribbble_bbc_olympics}
-Dribbble - {BBC} Olympics app by David Wilson.
-\urlprefix\biburl{http://dribbble.com/shots/642405-BBC-Olympics-app}
-
 \bibitem{faqs_mozilla}
 {FAQs} about apps - Apps {\textbar} {MDN}.
 \urlprefix\biburl{https://developer.mozilla.org/en-US/docs/Apps/FAQs/About_apps}
-
-\bibitem{fxOs_architecture}
-Firefox {OS} architecture - Mozilla {\textbar} {MDN}.
-\urlprefix\biburl{https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Platform/Architecture?redirectlocale=en-US&redirectslug=Mozilla\%2FFirefox_OS\%2FArchitecture}
 
 \bibitem{gartner_says_50}
 Gartner Says by 2016, More Than 50 Percent of Mobile Apps Deployed Will be
   Hybrid.
 \urlprefix\biburl{http://www.gartner.com/newsroom/id/2324917}
 
-\bibitem{google_android_wikipedia}
-Google Android Wikipedia {\textbar} Android Encyclopedia.
-\urlprefix\biburl{http://androidencyclopedia.com/google-android-wikipedia/}
-
 \bibitem{google_buys_android}
 Google Buys Android for Its Mobile Arsenal - Businessweek.
 \urlprefix\biburl{http://www.businessweek.com/stories/2005-08-16/google-buys-android-for-its-mobile-arsenal}
 
-\bibitem{google_play_25bil}
-Google Play hits 25 billion downloads {\textbar} Official Android Blog.
-\urlprefix\biburl{http://officialandroid.blogspot.ca/2012/09/google-play-hits-25-billion-downloads.html}
-
-\bibitem{google_says_700k_apps}
-Google Says 700,000 Applications Available for Android - Businessweek.
-\urlprefix\biburl{http://www.businessweek.com/news/2012-10-29/google-says-700-000-applications-available-for-android-devices}
-
 \bibitem{history_of_the_smartphone}
 The History of the Smartphone - The Next Web.
 \urlprefix\biburl{http://thenextweb.com/mobile/2011/12/06/the-history-of-the-smartphone/}
-
-\bibitem{html5_rise_hybrid_apps}
-{HTML5} and the Rise of Hybrid Apps {\textbar} Brightcove Blog.
-\urlprefix\biburl{http://blog.brightcove.com/en/2011/11/html5-and-rise-hybrid-apps}
-
-\bibitem{hybrid_mobile_app_measurement}
-Hybrid Mobile App Measurement – Webtrends Blog.
-\urlprefix\biburl{http://blogs.webtrends.com/2012/10/hybrid-mobile-app-measurement/}
 
 \bibitem{android_announce}
 Industry Leaders Announce Open Platform for Mobile Devices {\textbar} Open
   Handset Alliance.
 \urlprefix\biburl{http://www.openhandsetalliance.com/press_110507.html}
 
-\bibitem{csu_informacni_technologie_v_domacnostech}
-Informační technologie v domácnostech a mezi jednotlivci {\textbar} {ČSÚ}.
-\urlprefix\biburl{http://www.czso.cz/csu/redakce.nsf/i/domacnosti_a_jednotlivci}
-
 \bibitem{infoworld_technology_of_2012}
 {InfoWorld's} 2012 Technology of the Year Award winners - {InfoWorld}.
 \urlprefix\biburl{http://www.infoworld.com/slideshow/24605/infoworlds-2012-technology-of-the-year-award-winners-183313\#slide2}
-
-\bibitem{introduction_android_development}
-Introduction to Android development.
-\urlprefix\biburl{http://www.ibm.com/developerworks/library/os-android-devel/}
 
 \bibitem{introduction_ios_development}
 Introduction to {iOS} Development: An Overview of Objective-C {\textbar}
   {TechnoBuffalo}.
 \urlprefix\biburl{http://www.technobuffalo.com/2011/03/27/introduction-to-ios-development-an-overview-of-objective-c/}
-
-\bibitem{AppStore_700k}
-{iOS} App Store Boasts {700K} Apps, 90\% Downloaded Every Month {\textbar}
-  {TechCrunch}.
-\urlprefix\biburl{http://techcrunch.com/2012/09/12/ios-app-store-boasts-700k-apps-90-downloaded-every-month/}
-
-\bibitem{ios_technology_overview}
-{iOS} Technology Overview: About the {iOS} Technologies.
-\urlprefix\biburl{http://developer.apple.com/library/ios/\#documentation/miscellaneous/conceptual/iphoneostechoverview/Introduction/Introduction.html}
 
 \bibitem{ios_for_html5_developer}
 {iPhone} 5 and {iOS} 6 for {HTML5} developers, a big step forward: web
@@ -190,17 +116,9 @@ Introduction to {iOS} Development: An Overview of Objective-C {\textbar}
 Job Search {\textbar} one search. all jobs. Indeed.com. http://www.indeed.com/.
 \urlprefix\biburl{http://www.indeed.com/}
 
-\bibitem{kernel_ios}
-Kernel - The {iPhone} Wiki.
-\urlprefix\biburl{http://theiphonewiki.com/wiki/Kernel}
-
 \bibitem{appcelerator_features}
 Key Features {\textbar} Appcelerator Cloud Services.
 \urlprefix\biburl{http://www.appcelerator.com/cloud/key-features/}
-
-\bibitem{what_is_darwin}
-{MacDevCenter.com}.
-\urlprefix\biburl{http://www.macdevcenter.com/pub/a/mac/2005/09/27/what-is-darwin.html}
 
 \bibitem{ms_unveils_wp8}
 Microsoft Unveils Windows Phone 8.
@@ -220,35 +138,15 @@ Mobile Development: Web App vs. Native App {PART} 2 - Hybrid Approach.
   {http://www.itexico.com/blog/bid/92633/Mobile-Development-Web-App-vs-Native-App-PART-2-Hybrid-Approach}.
 \urlprefix\biburl{http://www.itexico.com/blog/bid/92633/Mobile-Development-Web-App-vs-Native-App-PART-2-Hybrid-Approach}
 
-\bibitem{mobile_devices_definition}
-Mobile Devices: Definition And Security Issues (Part 1 of 5) {\textbar}
-  {InformIT}.
-\urlprefix\biburl{http://www.informit.com/blogs/blog.aspx?uk=Mobile-Devices-Definition-And-Security-Issues-Part-1-of-5}
-
-\bibitem{motorola_dynatac}
-Motorola Milestones: The Motorola {DynaTAC}, the world's first commercial
-  handheld cellular phone {\textbar} The Official Motorola Blog - Motorola
-  Mobility, Inc. {USA}.
-\urlprefix\biburl{http://www.motorola.com/blog/2012/04/04/motorola-dynatac/}
-
 \bibitem{ms_announce_wp}
 {MWC} 2010: Microsoft announces Windows Phone 7 Series with Xbox and Zune
   integration {\textbar} {ZDNet}.
 \urlprefix\biburl{http://www.zdnet.com/blog/cell-phones/mwc-2010-microsoft-announces-windows-phone-7-series-with-xbox-and-zune-integration/3091}
 
-\bibitem{new_android_trojan}
-New Android Trojan Found in Google Play {\textbar} News \& Opinion {\textbar}
-  {PCMag.com}.
-\urlprefix\biburl{http://www.pcmag.com/article2/0,2817,2411163,00.asp}
-
 \bibitem{open_letter_to_apple}
 Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
   Developer's Life in Beta.
 \urlprefix\biburl{http://nachbaur.com/blog/open-letter-to-apple-iphone-developer-support}
-
-\bibitem{phonegap_about}
-{PhoneGap} {\textbar} About.
-\urlprefix\biburl{http://phonegap.com/about/}
 
 \bibitem{dreamweaver_supports_phonegap}
 {PhoneGap} {\textbar} Adobe Dreamweaver 5.5 Supports {PhoneGap}.
@@ -257,16 +155,6 @@ Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
 \bibitem{phonegap_2_released}
 {PhoneGap} {\textbar} Adobe {PhoneGap} 2.0 Released.
 \urlprefix\biburl{http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released.md/}
-
-\bibitem{phonegap_bbc_olympics}
-{PhoneGap} {\textbar} Adobe {PhoneGap} and Project Primetime Power {BBC’s}
-  Coverage of the Olympics.
-\urlprefix\biburl{http://phonegap.com/blog/2012/07/28/adobe-phonegap-and-project-primetime-power-bbcs-coverage-of-the-olympics/}
-
-\bibitem{phonegao_2012_technology_of_the_year}
-{PhoneGap} {\textbar} Adobe {PhoneGap} named 2012 Technology of the Year by
-  {InfoWorld} Test Center.
-\urlprefix\biburl{http://phonegap.com/2012/01/09/adobe-phonegap-named-2012-technology-of-the-year-by-infoworld-test-center/}
 
 \bibitem{phonegap_best_xplatfrom_tool}
 {PhoneGap} {\textbar} Adobe {PhoneGap} named Best Cross-Platform Development
@@ -282,14 +170,6 @@ Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
 {PhoneGap} {\textbar} Adobe {PhoneGap} named {“Champion”} by Info-Tech
   Research Group.
 \urlprefix\biburl{http://phonegap.com/2012/06/28/adobe-phonegap-named-\%E2\%80\%9Cchampion\%E2\%80\%9D-by-info-tech-research-group/}
-
-\bibitem{phonegap_wp8_support}
-{PhoneGap} {\textbar} Announcing Apache Cordova support for Windows Phone 8.
-\urlprefix\biburl{http://phonegap.com/blog/2012/10/30/announcing-apache-cordova-support-for-windows-phone-8/}
-
-\bibitem{phonegao_wp_mango}
-{PhoneGap} {\textbar} Announcing {PhoneGap} for Windows Phone Mango.
-\urlprefix\biburl{http://phonegap.com/2011/09/08/announcing-phonegap-for-windows-phone-mango/}
 
 \bibitem{announcing_phonegap_build_beta}
 {PhoneGap} {\textbar} Announcing the {PhoneGap} Build Beta.
@@ -307,18 +187,6 @@ Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
 {PhoneGap} {\textbar} Fruit Salad.
 \urlprefix\biburl{http://phonegap.com/app/fruit-salad/}
 
-\bibitem{introducing_wp7_builds}
-{PhoneGap} {\textbar} Introducing Windows Phone 7 Builds.
-\urlprefix\biburl{http://phonegap.com/blog/2012/04/19/introducing-windows-phone-7-builds/}
-
-\bibitem{wikipedia_phonegap}
-{PhoneGap} {\textbar} New Wikipedia {iOS} app is powered by {PhoneGap}.
-\urlprefix\biburl{http://phonegap.com/2012/04/10/new-wikipedia-ios-app-is-powered-by-phonegap/}
-
-\bibitem{phonegap_new_wikipedia_app}
-{PhoneGap} {\textbar} New Wikipedia {iOS} app is powered by {PhoneGap}.
-\urlprefix\biburl{http://phonegap.com/2012/04/10/new-wikipedia-ios-app-is-powered-by-phonegap/}
-
 \bibitem{nitobi_adobe1}
 {PhoneGap} {\textbar} Nitobi enters into Acquisition Agreement with Adobe.
 \urlprefix\biburl{http://phonegap.com/2011/10/03/nitobi-enters-into-acquisition-agreement-with-adobe/}
@@ -331,14 +199,6 @@ Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
 \bibitem{phonegap_13_released}
 {PhoneGap} {\textbar} {PhoneGap} 1.3 Released.
 \urlprefix\biburl{http://phonegap.com/2011/12/19/phonegap-1-3-released/}
-
-\bibitem{phonegap_22_released}
-{PhoneGap} {\textbar} {PhoneGap} 2.2.0 Released.
-\urlprefix\biburl{http://phonegap.com/blog/2012/11/01/phonegap-220/}
-
-\bibitem{phonegap_alytics}
-{PhoneGap} {\textbar} {PhoneGap-alytics}.
-\urlprefix\biburl{http://phonegap.com/2011/05/04/phonegap-alytics/}
 
 \bibitem{phonegap_worklight_enterprise}
 {PhoneGap} {\textbar} {PhoneGap} and Worklight Enable Mobile Apps for the
@@ -357,14 +217,6 @@ Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
 {PhoneGap} {\textbar} {PhoneGap}, Cordova, and what’s in a name?
 \urlprefix\biburl{http://phonegap.com/2012/03/19/phonegap-cordova-and-what\%E2\%80\%99s-in-a-name/}
 
-\bibitem{phonegap_iphone_exposed}
-{PhoneGap} {\textbar} {PhoneGap} for {iPhone} exposed.
-\urlprefix\biburl{http://phonegap.com/2009/11/04/phonegap-for-iphone-exposed/}
-
-\bibitem{phonegap_for_samsung_bada}
-{PhoneGap} {\textbar} {PhoneGap} for Samsung Bada.
-\urlprefix\biburl{http://phonegap.com/2011/04/14/phonegap-for-samsung-bada/}
-
 \bibitem{phonegap_store_approval}
 {PhoneGap} {\textbar} {PhoneGApp} Store Approval.
 \urlprefix\biburl{http://phonegap.com/2009/11/20/phonegapp-store-approval/}
@@ -382,22 +234,9 @@ Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
   and Why.
 \urlprefix\biburl{http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/}
 
-\bibitem{phonegap_sap}
-{PhoneGap} {\textbar} {SAP} Partnership Provides Openness and Choice for Mobile
-  App Developers.
-\urlprefix\biburl{http://phonegap.com/2012/04/13/sap-partnership-provides-openness-and-choice-for-mobile-app-developers/}
-
-\bibitem{phonegap_support_available}
-{PhoneGap} {\textbar} Support Subscriptions Now Available!
-\urlprefix\biburl{http://phonegap.com/2011/02/25/support-subscriptions-now-available/}
-
 \bibitem{phonegap_announcement}
 {PhoneGap} {\textbar} Unofficial announcement of {PhoneGap}.
 \urlprefix\biburl{http://phonegap.com/2008/08/07/unofficial-announcement-of-phonegap/}
-
-\bibitem{phonegap_api_docs}
-{PhoneGap} {API} Documentation.
-\urlprefix\biburl{http://docs.phonegap.com/en/2.5.0/}
 
 \bibitem{phonegap_permitted_appstore}
 {PhoneGap} officially permitted on the App Store {\textbar} {iOS/Web}
@@ -407,10 +246,6 @@ Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
 \bibitem{primer_on_hybrid_apps}
 A Primer on Hybrid Apps for {iOS} - Cocoa Controls.
 \urlprefix\biburl{https://www.cocoacontrols.com/posts/a-primer-on-hybrid-apps-for-ios}
-
-\bibitem{wp_right_mix}
-The Right {MIX}.
-\urlprefix\biburl{http://blogs.windows.com/windows_phone/b/wpdev/archive/2010/03/15/the-right-mix.aspx}
 
 \bibitem{hybrid_app_technology_overview}
 Rise of the "Hybrid" Mobile App {\textbar} {MIT} Technology Review.
@@ -424,11 +259,6 @@ Rise of the "Hybrid" Mobile App {\textbar} {MIT} Technology Review.
 Smartphone Definition {\textbar} Gartner.
 \urlprefix\biburl{http://www.gartner.com/it-glossary/smartphone/}
 
-\bibitem{smartphone_demand_idc}
-Strong Demand for Smartphones in Second Quarter Continues to Drive the
-  Worldwide Mobile Phone Market, According to IDC.
-\urlprefix\biburl{http://www.idc.com/getdoc.jsp?containerId=prUS23624612\#.UOszhNEWVsp}
-
 \bibitem{visionmobile_survey}
 [Survey] Which are the best cross-platform tools? {\textbar} {VisionMobile}.
 \urlprefix\biburl{http://www.visionmobile.com/blog/2011/11/new-survey-which-are-the-best-cross-platform-tools/}
@@ -441,10 +271,6 @@ Thoughts on Flash.
 {TIOBE} Software: Tiobe Index.
 \urlprefix\biburl{http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html}
 
-\bibitem{transaction_fees_android}
-Transaction Fees - Android Developer Help.
-\urlprefix\biburl{https://support.google.com/googleplay/android-developer/answer/112622?hl=en&topic=15867&ctx=topic}
-
 \bibitem{understanding_jvm_internals}
 Understanding {JVM} Internals {\textbar} {CUBRID} Blog.
 \urlprefix\biburl{http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/}
@@ -453,21 +279,9 @@ Understanding {JVM} Internals {\textbar} {CUBRID} Blog.
 Updates on Apple / {PhoneGap} {\textbar} {iOS/Web} Developer's Life in Beta.
 \urlprefix\biburl{http://nachbaur.com/blog/updates-on-apple-phonegap}
 
-\bibitem{what_is_hybrid_app}
-What is a Hybrid Mobile App?
-\urlprefix\biburl{http://www.icenium.com/community/blog/icenium-team-blog/2012/06/14/what-is-a-hybrid-mobile-app-}
-
 \bibitem{why_html5_java}
 Why {HTML5} is the new Java {\textbar} {TechCentral}.
 \urlprefix\biburl{http://www.techcentral.co.za/why-html5-is-the-new-java/24835/}
-
-\bibitem{wp8_compile_cloud}
-Windows Phone 8: Compile in the Cloud.
-\urlprefix\biburl{http://www.silverlightshow.net/items/Windows-Phone-8-Compile-in-the-Cloud.aspx}
-
-\bibitem{wp8_kernel_architecture}
-Windows Phone 8 Kernel Architecture {\textbar} {.NET} Junkyard.
-\urlprefix\biburl{http://j4ni.com/blog/?p=107}
 
 \bibitem{xamarin_monotouch}
 {Xamarin.iOS} - formerly {MonoTouch} - Create amazing {iOS} apps with C\# and
@@ -482,11 +296,6 @@ Your Business Checklist: A Website, A Phone Number, A Mobile App - Forbes.
 {ZTE's} first Firefox {OS} devices to launch in first quarter {\textbar} Mobile
   - {CNET} News.
 \urlprefix\biburl{http://news.cnet.com/8301-1035_3-57515945-94/ztes-first-firefox-os-devices-to-launch-in-first-quarter/}
-
-\bibitem{app_word_of_the_year}
-» {“App”} voted 2010 word of the year by the American Dialect Society
-  ({UPDATED)} American Dialect Society.
-\urlprefix\biburl{http://www.americandialect.org/app-voted-2010-word-of-the-year-by-the-american-dialect-society-updated}
 
 \bibitem{ericsson_report_web}
 Ericsson: \emph{Traffic and Market Data Report}.
@@ -503,16 +312,9 @@ IBM: \emph{IBM Worklight V5.0.6 Technology overview}.
 Michaels, ross \& cole, ltd.: \emph{{Native mobile apps: The wrong choice for
   business?}}
 
-\bibitem{sap_hybrid_apps}
-SAP: \emph{{Hybrid Mobile Apps: More Functionality at Lower Cost}}. 2013.
-
 \bibitem{bp_dominik}
 Veselý, D.: \emph{Skládání fotografií pro platformu {iPhone}}.
   Bakalářská práce, {ČVUT} v Praze, Fakulta informačních technologií,
   Praha, 2012.
-
-\bibitem{john_m._wargo_phonegap}
-Wargo, J.~M.: \emph{{PhoneGap} Essentials: Building Cross-Platform Mobile
-  Apps}. Addison-Wesley Professional, 2012, ISBN 0321814290.
 
 \end{thebibliography}

@@ -4,231 +4,205 @@
 \contentsline {subsection}{Odkaz na tuto pr{\' a}ci}{viii}{section*.1}
 \contentsline {chapter}{{\' U}vod}{1}{chapter*.5}
 \contentsline {chapter}{\chapternumberline {1}Mobiln\IeC {\'\i } za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i } a aplikace}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}Mobiln\IeC {\'\i } za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i }}{3}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Obecn\IeC {\'a} definice}{3}{subsection.1.1.1}
-\contentsline {paragraph}{Mobiln\IeC {\'\i } za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i } m\IeC {\r u}\IeC {\v z}eme rozd\IeC {\v e}lit takto \cite {mobile_devices_definition}:}{3}{section*.6}
-\contentsline {subsection}{\numberline {1.1.2}Mobiln\IeC {\'\i } telefony}{4}{subsection.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.2.1}Roz\IeC {\v s}\IeC {\'\i }\IeC {\v r}en\IeC {\'\i } mobiln\IeC {\'\i }ch telefon\IeC {\r u}}{5}{subsubsection.1.1.2.1}
-\contentsline {subsubsection}{\numberline {1.1.2.2}Smartphone}{5}{subsubsection.1.1.2.2}
-\contentsline {paragraph}{Roz\IeC {\v s}\IeC {\'\i }\IeC {\v r}en\IeC {\'\i } smartphon\IeC {\r u}}{6}{section*.7}
-\contentsline {paragraph}{V\IeC {\'y}znamn\IeC {\'\i } v\IeC {\'y}robci}{6}{section*.8}
-\contentsline {paragraph}{P\IeC {\v r}ehled mobiln\IeC {\'\i }ch platforem}{7}{section*.9}
-\contentsline {subparagraph}{iOS}{7}{section*.10}
-\contentsline {subparagraph}{Android}{8}{section*.11}
-\contentsline {subparagraph}{Windows Phone}{9}{section*.12}
-\contentsline {subparagraph}{Firefox OS}{9}{section*.13}
-\contentsline {paragraph}{Situace na trhu}{9}{section*.14}
-\contentsline {section}{\numberline {1.2}Aplikace}{11}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Obecn\IeC {\'a} definice}{11}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Mobiln\IeC {\'\i } aplikace}{11}{subsection.1.2.2}
-\contentsline {subsubsection}{\numberline {1.2.2.1}Rozd\IeC {\v e}len\IeC {\'\i } mobiln\IeC {\'\i }ch aplikac\IeC {\'\i }}{11}{subsubsection.1.2.2.1}
-\contentsline {paragraph}{Rozd\IeC {\v e}len\IeC {\'\i } dle \IeC {\'u}\IeC {\v c}elu}{11}{section*.15}
-\contentsline {paragraph}{Dle technologie}{12}{section*.16}
-\contentsline {subparagraph}{Nativn\IeC {\'\i } aplikace}{12}{section*.17}
-\contentsline {subparagraph}{Webov\IeC {\'a} aplikace}{13}{section*.18}
-\contentsline {subparagraph}{Hybridn\IeC {\'\i } aplikace}{13}{section*.19}
-\contentsline {subsubsection}{\numberline {1.2.2.2}Popularita mobiln\IeC {\'\i }ch aplikac\IeC {\'\i }}{13}{subsubsection.1.2.2.2}
-\contentsline {paragraph}{Nejpopul\IeC {\'a}rn\IeC {\v e}j\IeC {\v s}\IeC {\'\i } aplikace pro platformu Android \cite {desitka_nej_aplikaci_android}}{14}{section*.20}
-\contentsline {paragraph}{Nejpopul\IeC {\'a}rn\IeC {\v e}j\IeC {\v s}\IeC {\'\i } aplikace pro platformu iOS \cite {desitka_nej_aplikaci_android}}{15}{section*.21}
-\contentsline {subsubsection}{\numberline {1.2.2.3}Distribu\IeC {\v c}n\IeC {\'\i } platformy}{16}{subsubsection.1.2.2.3}
-\contentsline {paragraph}{Apple App Store}{16}{section*.22}
-\contentsline {paragraph}{Google Play}{16}{section*.23}
-\contentsline {paragraph}{Windows Phone Store}{16}{section*.24}
-\contentsline {chapter}{\chapternumberline {2}Mobiln\IeC {\'\i } platformy \IeC {\textendash } technicky}{19}{chapter.2}
-\contentsline {section}{\numberline {2.1}Platforma iOS}{19}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Syst\IeC {\'e}mov\IeC {\'a} architektura}{19}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Aplika\IeC {\v c}n\IeC {\'\i } technologie}{20}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{21}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{21}{subsection.2.1.4}
-\contentsline {section}{\numberline {2.2}Platforma Android}{22}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Syst\IeC {\'e}mov\IeC {\'a} architektura}{22}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Aplika\IeC {\v c}n\IeC {\'\i } technologie}{22}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{24}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{24}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Platforma Windows Phone}{24}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Syst\IeC {\'e}mov\IeC {\'a} architektura}{24}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Aplika\IeC {\v c}n\IeC {\'\i } technologie}{26}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{26}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{28}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}Platforma Firefox OS}{28}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Syst\IeC {\'e}mov\IeC {\'a} architektura}{28}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Aplika\IeC {\v c}n\IeC {\'\i } technologie}{29}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{29}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{29}{subsection.2.4.4}
-\contentsline {chapter}{\chapternumberline {3}Multiplatformn\IeC {\'\i } v\IeC {\'y}voj}{33}{chapter.3}
-\contentsline {section}{\numberline {3.1}Co je to multiplatformn\IeC {\'\i } v\IeC {\'y}voj?}{33}{section.3.1}
-\contentsline {section}{\numberline {3.2}Argumenty pro multiplatformn\IeC {\'\i } p\IeC {\v r}\IeC {\'\i }stup}{35}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Mo\IeC {\v z}nost c\IeC {\'\i }lit na \IeC {\v s}irok\IeC {\'e} spektrum platforem najednou}{35}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Ni\IeC {\v z}\IeC {\v s}\IeC {\'\i } n\IeC {\'a}ro\IeC {\v c}nost na zdroje}{35}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Ni\IeC {\v z}\IeC {\v s}\IeC {\'\i } finan\IeC {\v c}n\IeC {\'\i } n\IeC {\'a}ro\IeC {\v c}nost}{36}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Men\IeC {\v s}\IeC {\'\i } vstupn\IeC {\'\i } bari\IeC {\'e}ry}{36}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Slabiny multiplatformn\IeC {\'\i }ho p\IeC {\v r}\IeC {\'\i }stupu}{37}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Slab\IeC {\v s}\IeC {\'\i } v\IeC {\'y}kon}{37}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Omezen\IeC {\'y} p\IeC {\v r}\IeC {\'\i }stup k nativn\IeC {\'\i }m funkc\IeC {\'\i }m za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i }}{37}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Fragmentace}{38}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}N\IeC {\'a}ro\IeC {\v c}nost v\IeC {\'y}voje}{39}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}P\IeC {\v r}\IeC {\'\i }stupy k multiplatformn\IeC {\'\i }mu v\IeC {\'y}voji mobiln\IeC {\'\i }ch aplikac\IeC {\'\i }}{40}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Javascriptov\IeC {\'e} frameworky}{40}{subsection.3.4.1}
-\contentsline {paragraph}{Z\IeC {\'a}stupci}{40}{section*.25}
-\contentsline {subsection}{\numberline {3.4.2}Aplika\IeC {\v c}n\IeC {\'\i } tov\IeC {\'a}rny}{40}{subsection.3.4.2}
-\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{41}{section*.26}
-\contentsline {subsection}{\numberline {3.4.3}Hybridn\IeC {\'\i } frameworky}{41}{subsection.3.4.3}
-\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{41}{section*.27}
-\contentsline {subsection}{\numberline {3.4.4}Runtime}{42}{subsection.3.4.4}
-\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{43}{section*.28}
-\contentsline {subsection}{\numberline {3.4.5}P\IeC {\v r}eklada\IeC {\v c}e zdrojov\IeC {\'y}ch k\IeC {\'o}d\IeC {\r u}}{43}{subsection.3.4.5}
-\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{44}{section*.29}
-\contentsline {chapter}{\chapternumberline {4}Hybridn\IeC {\'\i } frameworky}{45}{chapter.4}
-\contentsline {section}{\numberline {4.1}Obecn\IeC {\v e}}{45}{section.4.1}
-\contentsline {paragraph}{Hlavn\IeC {\'\i } p\IeC {\v r}ednosti tohoto p\IeC {\v r}\IeC {\'\i }stupu by se daly shrnout do n\IeC {\v e}kolika bod\IeC {\r u}:}{45}{section*.30}
-\contentsline {section}{\numberline {4.2}Technick\IeC {\'y} popis}{47}{section.4.2}
-\contentsline {section}{\numberline {4.3}P\IeC {\v r}\IeC {\'\i }klady hybridn\IeC {\'\i }ch framework\IeC {\r u}}{52}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}PhoneGap}{52}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Sencha Touch}{53}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}MoSync Wormhole}{54}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}IBM Worklight}{55}{subsection.4.3.4}
-\contentsline {paragraph}{IBM Worklight umo\IeC {\v z}\IeC {\v n}uje vyv\IeC {\'\i }jet hybridn\IeC {\'\i } aplikace t\IeC {\v r}emi zp\IeC {\r u}soby \cite {ibm_worklight_overview}:}{55}{section*.31}
-\contentsline {subsection}{\numberline {4.3.5}FeedHenry}{56}{subsection.4.3.5}
-\contentsline {subsection}{\numberline {4.3.6}Icenium}{56}{subsection.4.3.6}
-\contentsline {subsection}{\numberline {4.3.7}WYSIWYG frameworky s vyu\IeC {\v z}it\IeC {\'\i }m PhoneGap}{57}{subsection.4.3.7}
-\contentsline {subsection}{\numberline {4.3.8}Srovn\IeC {\'a}vac\IeC {\'\i } tabulka}{57}{subsection.4.3.8}
-\contentsline {chapter}{\chapternumberline {5}PhoneGap}{59}{chapter.5}
-\contentsline {section}{\numberline {5.1}Obecn\IeC {\v e}}{59}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Licence}{60}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}PhoneGap vs. Apache Cordova}{60}{subsection.5.1.2}
-\contentsline {section}{\numberline {5.2}Historie}{61}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Ocen\IeC {\v e}n\IeC {\'\i }}{63}{subsection.5.2.1}
-\contentsline {section}{\numberline {5.3}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{63}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}V\IeC {\'y}voj}{63}{subsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.1.1}Hello World}{64}{subsubsection.5.3.1.1}
-\contentsline {subsection}{\numberline {5.3.2}Roz\IeC {\v s}\IeC {\'\i }\IeC {\v r}en\IeC {\'\i }}{66}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Debugov\IeC {\'a}n\IeC {\'\i } a testov\IeC {\'a}n\IeC {\'\i }}{67}{subsection.5.3.3}
-\contentsline {subsubsection}{\numberline {5.3.3.1}Testov\IeC {\'a}n\IeC {\'\i }}{67}{subsubsection.5.3.3.1}
-\contentsline {subsubsection}{\numberline {5.3.3.2}Debugov\IeC {\'a}n\IeC {\'\i }}{67}{subsubsection.5.3.3.2}
-\contentsline {paragraph}{Ripple Mobile Enviroment Emulator}{67}{section*.32}
-\contentsline {paragraph}{Web Inspector Remote}{68}{section*.33}
-\contentsline {subsection}{\numberline {5.3.4}Sestaven\IeC {\'\i } a publikace}{68}{subsection.5.3.4}
-\contentsline {subsubsection}{\numberline {5.3.4.1}PhoneGap Build}{69}{subsubsection.5.3.4.1}
-\contentsline {section}{\numberline {5.4}API}{69}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Accelerometer}{69}{subsection.5.4.1}
-\contentsline {subsubsection}{\numberline {5.4.1.1}Metody}{69}{subsubsection.5.4.1.1}
-\contentsline {paragraph}{accelerometer.getCurrentAcceleration}{69}{section*.34}
-\contentsline {paragraph}{accelerometer.watchAcceleration}{69}{section*.35}
-\contentsline {paragraph}{accelerometer.clearWatch}{69}{section*.36}
-\contentsline {subsection}{\numberline {5.4.2}Camera}{70}{subsection.5.4.2}
-\contentsline {subsubsection}{\numberline {5.4.2.1}Metody}{70}{subsubsection.5.4.2.1}
-\contentsline {paragraph}{camera.getPicture}{70}{section*.37}
-\contentsline {paragraph}{camera.cleanUp}{70}{section*.38}
-\contentsline {subsection}{\numberline {5.4.3}Capture}{70}{subsection.5.4.3}
-\contentsline {subsubsection}{\numberline {5.4.3.1}Metody}{70}{subsubsection.5.4.3.1}
-\contentsline {paragraph}{capture.captureAudio}{70}{section*.39}
-\contentsline {paragraph}{capture.captureImage}{70}{section*.40}
-\contentsline {paragraph}{capture.captureVideo}{70}{section*.41}
-\contentsline {paragraph}{mediaFile.getFormatData}{70}{section*.42}
-\contentsline {subsection}{\numberline {5.4.4}Compass}{70}{subsection.5.4.4}
-\contentsline {subsubsection}{\numberline {5.4.4.1}Metody}{70}{subsubsection.5.4.4.1}
-\contentsline {paragraph}{compass.getCurrentHeading}{70}{section*.43}
-\contentsline {paragraph}{compass.watchHeading}{70}{section*.44}
-\contentsline {paragraph}{compass.clearWatch}{71}{section*.45}
-\contentsline {subsection}{\numberline {5.4.5}Connection}{71}{subsection.5.4.5}
-\contentsline {subsection}{\numberline {5.4.6}Contacts}{71}{subsection.5.4.6}
-\contentsline {subsubsection}{\numberline {5.4.6.1}Metody}{71}{subsubsection.5.4.6.1}
-\contentsline {paragraph}{contacts.create}{71}{section*.46}
-\contentsline {paragraph}{contacts.find}{71}{section*.47}
-\contentsline {subsection}{\numberline {5.4.7}Device}{71}{subsection.5.4.7}
-\contentsline {subsubsection}{\numberline {5.4.7.1}Vlastnosti}{71}{subsubsection.5.4.7.1}
-\contentsline {paragraph}{device.model}{71}{section*.48}
-\contentsline {paragraph}{device.cordova}{71}{section*.49}
-\contentsline {paragraph}{device.platform}{71}{section*.50}
-\contentsline {paragraph}{device.uuid}{71}{section*.51}
-\contentsline {paragraph}{device.version}{72}{section*.52}
-\contentsline {subsection}{\numberline {5.4.8}Events}{72}{subsection.5.4.8}
-\contentsline {subsubsection}{\numberline {5.4.8.1}Ud\IeC {\'a}losti}{72}{subsubsection.5.4.8.1}
-\contentsline {paragraph}{deviceready}{72}{section*.53}
-\contentsline {paragraph}{pause}{72}{section*.54}
-\contentsline {paragraph}{resume}{72}{section*.55}
-\contentsline {paragraph}{online}{72}{section*.56}
-\contentsline {paragraph}{offline}{72}{section*.57}
-\contentsline {paragraph}{backbutton}{72}{section*.58}
-\contentsline {paragraph}{batterycritical}{72}{section*.59}
-\contentsline {paragraph}{batterylow}{72}{section*.60}
-\contentsline {paragraph}{batterystatus}{72}{section*.61}
-\contentsline {paragraph}{menubutton}{72}{section*.62}
-\contentsline {paragraph}{searchbutton}{72}{section*.63}
-\contentsline {paragraph}{startcallbutton}{73}{section*.64}
-\contentsline {paragraph}{endcallbutton}{73}{section*.65}
-\contentsline {paragraph}{volumedownbutton a volumeupbutton}{73}{section*.66}
-\contentsline {subsection}{\numberline {5.4.9}File}{73}{subsection.5.4.9}
-\contentsline {subsubsection}{\numberline {5.4.9.1}Objekty (v\IeC {\'y}b\IeC {\v e}r d\IeC {\r u}le\IeC {\v z}it\IeC {\'y}ch)}{73}{subsubsection.5.4.9.1}
-\contentsline {paragraph}{File}{73}{section*.67}
-\contentsline {paragraph}{FileReader}{73}{section*.68}
-\contentsline {paragraph}{FileWriter}{73}{section*.69}
-\contentsline {paragraph}{FileSystem}{73}{section*.70}
-\contentsline {paragraph}{FileEntry}{73}{section*.71}
-\contentsline {paragraph}{DirectoryEntry}{73}{section*.72}
-\contentsline {subsection}{\numberline {5.4.10}Geolocation}{73}{subsection.5.4.10}
-\contentsline {subsubsection}{\numberline {5.4.10.1}Metody}{74}{subsubsection.5.4.10.1}
-\contentsline {paragraph}{geolocation.getCurrentPosition}{74}{section*.73}
-\contentsline {paragraph}{geolocation.watchPosition}{74}{section*.74}
-\contentsline {paragraph}{geolocation.clearWatch}{74}{section*.75}
-\contentsline {subsection}{\numberline {5.4.11}Globalization}{74}{subsection.5.4.11}
-\contentsline {subsubsection}{\numberline {5.4.11.1}Metody (v\IeC {\'y}b\IeC {\v e}r d\IeC {\r u}le\IeC {\v z}it\IeC {\'y}ch)}{74}{subsubsection.5.4.11.1}
-\contentsline {paragraph}{globalization.getPreferredLanguage}{74}{section*.76}
-\contentsline {paragraph}{globalization.getDatePattern}{74}{section*.77}
-\contentsline {subsection}{\numberline {5.4.12}InAppBrowser}{74}{subsection.5.4.12}
-\contentsline {subsubsection}{\numberline {5.4.12.1}Metody}{74}{subsubsection.5.4.12.1}
-\contentsline {paragraph}{addEventListener}{74}{section*.78}
-\contentsline {paragraph}{removeEventListener}{74}{section*.79}
-\contentsline {paragraph}{close}{74}{section*.80}
-\contentsline {subsection}{\numberline {5.4.13}Media}{74}{subsection.5.4.13}
-\contentsline {subsubsection}{\numberline {5.4.13.1}Metody}{75}{subsubsection.5.4.13.1}
-\contentsline {paragraph}{media.getCurrentPosition}{75}{section*.81}
-\contentsline {paragraph}{media.getDuration}{75}{section*.82}
-\contentsline {paragraph}{media.play, media.stop a media.pause}{75}{section*.83}
-\contentsline {paragraph}{media.release}{75}{section*.84}
-\contentsline {paragraph}{media.seekTo}{75}{section*.85}
-\contentsline {paragraph}{media.startRecord, media.stopRecord}{75}{section*.86}
-\contentsline {subsection}{\numberline {5.4.14}Notification}{75}{subsection.5.4.14}
-\contentsline {subsubsection}{\numberline {5.4.14.1}Metody}{75}{subsubsection.5.4.14.1}
-\contentsline {paragraph}{notification.alert}{75}{section*.87}
-\contentsline {paragraph}{notification.confirm}{75}{section*.88}
-\contentsline {paragraph}{notification.beep}{75}{section*.89}
-\contentsline {paragraph}{notification.vibrate}{75}{section*.90}
-\contentsline {subsection}{\numberline {5.4.15}Splashscreen}{75}{subsection.5.4.15}
-\contentsline {subsubsection}{\numberline {5.4.15.1}Metody}{75}{subsubsection.5.4.15.1}
-\contentsline {paragraph}{splashscreen.show}{75}{section*.91}
-\contentsline {paragraph}{splashscreen.hide}{76}{section*.92}
-\contentsline {subsection}{\numberline {5.4.16}Storage}{76}{subsection.5.4.16}
-\contentsline {subsubsection}{\numberline {5.4.16.1}Metody}{76}{subsubsection.5.4.16.1}
-\contentsline {paragraph}{openDatabase}{76}{section*.93}
-\contentsline {subsection}{\numberline {5.4.17}Tabulka podpory API vol\IeC {\'a}n\IeC {\'\i } v r\IeC {\'a}mci platforem}{76}{subsection.5.4.17}
-\contentsline {section}{\numberline {5.5}PhoneGap v re\IeC {\'a}ln\IeC {\'y}ch aplikac\IeC {\'\i }ch}{76}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Wikipedia}{76}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}BBC Olympics}{77}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Fruit Salad}{77}{subsection.5.5.3}
-\contentsline {section}{\numberline {5.6}Budoucnost}{79}{section.5.6}
-\contentsline {chapter}{\chapternumberline {6}Demo aplikace}{81}{chapter.6}
-\contentsline {section}{\numberline {6.1}Twitter klient (BlueBirdGap)}{81}{section.6.1}
-\contentsline {section}{\numberline {6.2}Foto aplikace (Orionids)}{82}{section.6.2}
-\contentsline {section}{\numberline {6.3}\IeC {\v C}asovac\IeC {\'\i } aplikace (TimerGap)}{84}{section.6.3}
-\contentsline {chapter}{\chapternumberline {7}Hybridn\IeC {\'\i } vs. nativn\IeC {\'\i } v\IeC {\'y}voj}{87}{chapter.7}
-\contentsline {section}{\numberline {7.1}Zp\IeC {\r u}sob v\IeC {\'y}voje}{87}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}N\IeC {\'a}ro\IeC {\v c}nost v\IeC {\'y}voje}{87}{subsection.7.1.1}
-\contentsline {subsubsection}{\numberline {7.1.1.1}Lidsk\IeC {\'e} zdroje a finance}{87}{subsubsection.7.1.1.1}
-\contentsline {subsubsection}{\numberline {7.1.1.2}Slo\IeC {\v z}itost}{90}{subsubsection.7.1.1.2}
-\contentsline {subsection}{\numberline {7.1.2}Rychlost v\IeC {\'y}voje}{90}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}N\IeC {\'a}stroje}{91}{subsection.7.1.3}
-\contentsline {subsubsection}{\numberline {7.1.3.1}V\IeC {\'y}vojov\IeC {\'e} prost\IeC {\v r}ed\IeC {\'\i }}{91}{subsubsection.7.1.3.1}
-\contentsline {subsubsection}{\numberline {7.1.3.2}Testov\IeC {\'a}n\IeC {\'\i } a debugging}{91}{subsubsection.7.1.3.2}
-\contentsline {subsubsection}{\numberline {7.1.3.3}Podpora}{92}{subsubsection.7.1.3.3}
-\contentsline {section}{\numberline {7.2}Vlastn\IeC {\'\i } aplikace}{92}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Vzhled}{92}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Odezva}{93}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}V\IeC {\'y}kon}{94}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}M\IeC {\'\i }ra integrace s OS}{94}{subsection.7.2.4}
-\contentsline {section}{\numberline {7.3}Monetizace}{94}{section.7.3}
-\contentsline {section}{\numberline {7.4}Shrnut\IeC {\'\i }}{95}{section.7.4}
-\contentsline {chapter}{Z{\' a}v{\v e}r}{97}{chapter*.94}
-\contentsline {chapter}{Literatura}{101}{section*.96}
-\contentsline {appendix}{\chapternumberline {A}Seznam pou\IeC {\v z}it\IeC {\'y}ch zkratek}{113}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Obsah p\IeC {\v r}ilo\IeC {\v z}en\IeC {\'e}ho CD}{115}{appendix.B}
+\contentsline {section}{\numberline {1.1}Smartphone}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Roz\IeC {\v s}\IeC {\'\i }\IeC {\v r}en\IeC {\'\i } smartphon\IeC {\r u}}{4}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}V\IeC {\'y}znamn\IeC {\'\i } v\IeC {\'y}robci}{4}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}P\IeC {\v r}ehled mobiln\IeC {\'\i }ch platforem}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}iOS}{6}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1.1}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{6}{subsubsection.1.2.1.1}
+\contentsline {subsubsection}{\numberline {1.2.1.2}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{7}{subsubsection.1.2.1.2}
+\contentsline {subsection}{\numberline {1.2.2}Android}{7}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{7}{subsubsection.1.2.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2.2}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{8}{subsubsection.1.2.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Windows Phone}{8}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{9}{subsubsection.1.2.3.1}
+\contentsline {subsubsection}{\numberline {1.2.3.2}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{9}{subsubsection.1.2.3.2}
+\contentsline {subsection}{\numberline {1.2.4}Firefox OS}{9}{subsection.1.2.4}
+\contentsline {subsubsection}{\numberline {1.2.4.1}Aplika\IeC {\v c}n\IeC {\'\i } technologie}{9}{subsubsection.1.2.4.1}
+\contentsline {subsubsection}{\numberline {1.2.4.2}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} technologie}{10}{subsubsection.1.2.4.2}
+\contentsline {subsection}{\numberline {1.2.5}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{10}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Situace na trhu}{10}{subsection.1.2.6}
+\contentsline {section}{\numberline {1.3}Mobiln\IeC {\'\i } aplikace}{12}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Rozd\IeC {\v e}len\IeC {\'\i } mobiln\IeC {\'\i }ch aplikac\IeC {\'\i }}{12}{subsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.1.1}Rozd\IeC {\v e}len\IeC {\'\i } dle \IeC {\'u}\IeC {\v c}elu}{12}{subsubsection.1.3.1.1}
+\contentsline {subsection}{\numberline {1.3.2}Dle technologie}{13}{subsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Nativn\IeC {\'\i } aplikace}{13}{subsubsection.1.3.2.1}
+\contentsline {subsubsection}{\numberline {1.3.2.2}Webov\IeC {\'a} aplikace}{13}{subsubsection.1.3.2.2}
+\contentsline {subsubsection}{\numberline {1.3.2.3}Hybridn\IeC {\'\i } aplikace}{14}{subsubsection.1.3.2.3}
+\contentsline {subsection}{\numberline {1.3.3}Popularita mobiln\IeC {\'\i }ch aplikac\IeC {\'\i }}{14}{subsection.1.3.3}
+\contentsline {chapter}{\chapternumberline {2}Multiplatformn\IeC {\'\i } v\IeC {\'y}voj}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Co je to multiplatformn\IeC {\'\i } v\IeC {\'y}voj?}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}Argumenty pro multiplatformn\IeC {\'\i } p\IeC {\v r}\IeC {\'\i }stup}{19}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Mo\IeC {\v z}nost c\IeC {\'\i }lit na \IeC {\v s}irok\IeC {\'e} spektrum platforem najednou}{19}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Ni\IeC {\v z}\IeC {\v s}\IeC {\'\i } n\IeC {\'a}ro\IeC {\v c}nost na zdroje}{19}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Ni\IeC {\v z}\IeC {\v s}\IeC {\'\i } finan\IeC {\v c}n\IeC {\'\i } n\IeC {\'a}ro\IeC {\v c}nost}{20}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Men\IeC {\v s}\IeC {\'\i } vstupn\IeC {\'\i } bari\IeC {\'e}ry}{20}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Slabiny multiplatformn\IeC {\'\i }ho p\IeC {\v r}\IeC {\'\i }stupu}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Slab\IeC {\v s}\IeC {\'\i } v\IeC {\'y}kon}{21}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Omezen\IeC {\'y} p\IeC {\v r}\IeC {\'\i }stup k nativn\IeC {\'\i }m funkc\IeC {\'\i }m za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i }}{21}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Fragmentace}{22}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}N\IeC {\'a}ro\IeC {\v c}nost v\IeC {\'y}voje}{22}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}P\IeC {\v r}\IeC {\'\i }stupy k multiplatformn\IeC {\'\i }mu v\IeC {\'y}voji mobiln\IeC {\'\i }ch aplikac\IeC {\'\i }}{23}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Javascriptov\IeC {\'e} frameworky}{24}{subsection.2.4.1}
+\contentsline {paragraph}{Z\IeC {\'a}stupci}{24}{section*.6}
+\contentsline {subsection}{\numberline {2.4.2}Aplika\IeC {\v c}n\IeC {\'\i } tov\IeC {\'a}rny}{24}{subsection.2.4.2}
+\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{25}{section*.7}
+\contentsline {subsection}{\numberline {2.4.3}Hybridn\IeC {\'\i } frameworky}{25}{subsection.2.4.3}
+\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{25}{section*.8}
+\contentsline {subsection}{\numberline {2.4.4}Runtime}{25}{subsection.2.4.4}
+\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{27}{section*.9}
+\contentsline {subsection}{\numberline {2.4.5}P\IeC {\v r}eklada\IeC {\v c}e zdrojov\IeC {\'y}ch k\IeC {\'o}d\IeC {\r u}}{27}{subsection.2.4.5}
+\contentsline {paragraph}{Dal\IeC {\v s}\IeC {\'\i } z\IeC {\'a}stupci}{28}{section*.10}
+\contentsline {chapter}{\chapternumberline {3}Hybridn\IeC {\'\i } frameworky}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Obecn\IeC {\v e}}{29}{section.3.1}
+\contentsline {paragraph}{Hlavn\IeC {\'\i } p\IeC {\v r}ednosti tohoto p\IeC {\v r}\IeC {\'\i }stupu by se daly shrnout do n\IeC {\v e}kolika bod\IeC {\r u}:}{29}{section*.11}
+\contentsline {section}{\numberline {3.2}Technick\IeC {\'y} popis}{31}{section.3.2}
+\contentsline {section}{\numberline {3.3}P\IeC {\v r}\IeC {\'\i }klady hybridn\IeC {\'\i }ch framework\IeC {\r u}}{35}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}PhoneGap}{35}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Sencha Touch}{36}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}MoSync Wormhole}{37}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}IBM Worklight}{38}{subsection.3.3.4}
+\contentsline {paragraph}{IBM Worklight umo\IeC {\v z}\IeC {\v n}uje vyv\IeC {\'\i }jet hybridn\IeC {\'\i } aplikace t\IeC {\v r}emi zp\IeC {\r u}soby \cite {ibm_worklight_overview}:}{38}{section*.12}
+\contentsline {subsection}{\numberline {3.3.5}FeedHenry}{39}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Icenium}{39}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}WYSIWYG frameworky s vyu\IeC {\v z}it\IeC {\'\i }m PhoneGap}{40}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Srovn\IeC {\'a}vac\IeC {\'\i } tabulka}{40}{subsection.3.3.8}
+\contentsline {chapter}{\chapternumberline {4}PhoneGap}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}Obecn\IeC {\v e}}{41}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Licence}{42}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}PhoneGap vs. Apache Cordova}{42}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Historie}{43}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Ocen\IeC {\v e}n\IeC {\'\i }}{45}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}V\IeC {\'y}voj\IeC {\'a}\IeC {\v r}sk\IeC {\'e} n\IeC {\'a}stroje}{45}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}V\IeC {\'y}voj}{45}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Roz\IeC {\v s}\IeC {\'\i }\IeC {\v r}en\IeC {\'\i }}{46}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Debugov\IeC {\'a}n\IeC {\'\i } a testov\IeC {\'a}n\IeC {\'\i }}{47}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Testov\IeC {\'a}n\IeC {\'\i }}{47}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Debugov\IeC {\'a}n\IeC {\'\i }}{47}{subsubsection.4.3.3.2}
+\contentsline {paragraph}{Ripple Mobile Enviroment Emulator}{47}{section*.13}
+\contentsline {paragraph}{Web Inspector Remote}{48}{section*.14}
+\contentsline {subsection}{\numberline {4.3.4}Sestaven\IeC {\'\i } a publikace}{49}{subsection.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.4.1}PhoneGap Build}{49}{subsubsection.4.3.4.1}
+\contentsline {section}{\numberline {4.4}API}{49}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Accelerometer}{50}{subsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.1.1}Metody}{50}{subsubsection.4.4.1.1}
+\contentsline {paragraph}{accelerometer.getCurrentAcceleration}{50}{section*.15}
+\contentsline {paragraph}{accelerometer.watchAcceleration}{50}{section*.16}
+\contentsline {paragraph}{accelerometer.clearWatch}{50}{section*.17}
+\contentsline {subsection}{\numberline {4.4.2}Camera}{50}{subsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.2.1}Metody}{50}{subsubsection.4.4.2.1}
+\contentsline {paragraph}{camera.getPicture}{50}{section*.18}
+\contentsline {paragraph}{camera.cleanUp}{50}{section*.19}
+\contentsline {subsection}{\numberline {4.4.3}Capture}{50}{subsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.3.1}Metody}{50}{subsubsection.4.4.3.1}
+\contentsline {paragraph}{capture.captureAudio}{50}{section*.20}
+\contentsline {paragraph}{capture.captureImage}{50}{section*.21}
+\contentsline {paragraph}{capture.captureVideo}{51}{section*.22}
+\contentsline {paragraph}{mediaFile.getFormatData}{51}{section*.23}
+\contentsline {subsection}{\numberline {4.4.4}Compass}{51}{subsection.4.4.4}
+\contentsline {subsubsection}{\numberline {4.4.4.1}Metody}{51}{subsubsection.4.4.4.1}
+\contentsline {paragraph}{compass.getCurrentHeading}{51}{section*.24}
+\contentsline {paragraph}{compass.watchHeading}{51}{section*.25}
+\contentsline {paragraph}{compass.clearWatch}{51}{section*.26}
+\contentsline {subsection}{\numberline {4.4.5}Connection}{51}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Contacts}{51}{subsection.4.4.6}
+\contentsline {subsubsection}{\numberline {4.4.6.1}Metody}{51}{subsubsection.4.4.6.1}
+\contentsline {paragraph}{contacts.create}{51}{section*.27}
+\contentsline {paragraph}{contacts.find}{51}{section*.28}
+\contentsline {subsection}{\numberline {4.4.7}Device}{52}{subsection.4.4.7}
+\contentsline {subsubsection}{\numberline {4.4.7.1}Vlastnosti}{52}{subsubsection.4.4.7.1}
+\contentsline {paragraph}{device.model}{52}{section*.29}
+\contentsline {paragraph}{device.cordova}{52}{section*.30}
+\contentsline {paragraph}{device.platform}{52}{section*.31}
+\contentsline {paragraph}{device.uuid}{52}{section*.32}
+\contentsline {paragraph}{device.version}{52}{section*.33}
+\contentsline {subsection}{\numberline {4.4.8}Events}{52}{subsection.4.4.8}
+\contentsline {subsubsection}{\numberline {4.4.8.1}Ud\IeC {\'a}losti}{52}{subsubsection.4.4.8.1}
+\contentsline {paragraph}{deviceready}{52}{section*.34}
+\contentsline {paragraph}{pause}{52}{section*.35}
+\contentsline {paragraph}{resume}{52}{section*.36}
+\contentsline {paragraph}{online}{52}{section*.37}
+\contentsline {paragraph}{offline}{52}{section*.38}
+\contentsline {paragraph}{backbutton}{53}{section*.39}
+\contentsline {paragraph}{batterycritical}{53}{section*.40}
+\contentsline {paragraph}{batterylow}{53}{section*.41}
+\contentsline {paragraph}{batterystatus}{53}{section*.42}
+\contentsline {paragraph}{menubutton}{53}{section*.43}
+\contentsline {paragraph}{searchbutton}{53}{section*.44}
+\contentsline {paragraph}{startcallbutton}{53}{section*.45}
+\contentsline {paragraph}{endcallbutton}{53}{section*.46}
+\contentsline {paragraph}{volumedownbutton a volumeupbutton}{53}{section*.47}
+\contentsline {subsection}{\numberline {4.4.9}File}{53}{subsection.4.4.9}
+\contentsline {subsubsection}{\numberline {4.4.9.1}Objekty (v\IeC {\'y}b\IeC {\v e}r d\IeC {\r u}le\IeC {\v z}it\IeC {\'y}ch)}{53}{subsubsection.4.4.9.1}
+\contentsline {paragraph}{File}{53}{section*.48}
+\contentsline {paragraph}{FileReader}{53}{section*.49}
+\contentsline {paragraph}{FileWriter}{53}{section*.50}
+\contentsline {paragraph}{FileSystem}{54}{section*.51}
+\contentsline {paragraph}{FileEntry}{54}{section*.52}
+\contentsline {paragraph}{DirectoryEntry}{54}{section*.53}
+\contentsline {subsection}{\numberline {4.4.10}Geolocation}{54}{subsection.4.4.10}
+\contentsline {subsubsection}{\numberline {4.4.10.1}Metody}{54}{subsubsection.4.4.10.1}
+\contentsline {paragraph}{geolocation.getCurrentPosition}{54}{section*.54}
+\contentsline {paragraph}{geolocation.watchPosition}{54}{section*.55}
+\contentsline {paragraph}{geolocation.clearWatch}{54}{section*.56}
+\contentsline {subsection}{\numberline {4.4.11}Globalization}{54}{subsection.4.4.11}
+\contentsline {subsubsection}{\numberline {4.4.11.1}Metody (v\IeC {\'y}b\IeC {\v e}r d\IeC {\r u}le\IeC {\v z}it\IeC {\'y}ch)}{54}{subsubsection.4.4.11.1}
+\contentsline {paragraph}{globalization.getPreferredLanguage}{54}{section*.57}
+\contentsline {paragraph}{globalization.getDatePattern}{54}{section*.58}
+\contentsline {subsection}{\numberline {4.4.12}InAppBrowser}{55}{subsection.4.4.12}
+\contentsline {subsubsection}{\numberline {4.4.12.1}Metody}{55}{subsubsection.4.4.12.1}
+\contentsline {paragraph}{addEventListener}{55}{section*.59}
+\contentsline {paragraph}{removeEventListener}{55}{section*.60}
+\contentsline {paragraph}{close}{55}{section*.61}
+\contentsline {subsection}{\numberline {4.4.13}Media}{55}{subsection.4.4.13}
+\contentsline {subsubsection}{\numberline {4.4.13.1}Metody}{55}{subsubsection.4.4.13.1}
+\contentsline {paragraph}{media.getCurrentPosition}{55}{section*.62}
+\contentsline {paragraph}{media.getDuration}{55}{section*.63}
+\contentsline {paragraph}{media.play, media.stop a media.pause}{55}{section*.64}
+\contentsline {paragraph}{media.release}{55}{section*.65}
+\contentsline {paragraph}{media.seekTo}{55}{section*.66}
+\contentsline {paragraph}{media.startRecord, media.stopRecord}{55}{section*.67}
+\contentsline {subsection}{\numberline {4.4.14}Notification}{55}{subsection.4.4.14}
+\contentsline {subsubsection}{\numberline {4.4.14.1}Metody}{56}{subsubsection.4.4.14.1}
+\contentsline {paragraph}{notification.alert}{56}{section*.68}
+\contentsline {paragraph}{notification.confirm}{56}{section*.69}
+\contentsline {paragraph}{notification.beep}{56}{section*.70}
+\contentsline {paragraph}{notification.vibrate}{56}{section*.71}
+\contentsline {subsection}{\numberline {4.4.15}Splashscreen}{56}{subsection.4.4.15}
+\contentsline {subsubsection}{\numberline {4.4.15.1}Metody}{56}{subsubsection.4.4.15.1}
+\contentsline {paragraph}{splashscreen.show}{56}{section*.72}
+\contentsline {paragraph}{splashscreen.hide}{56}{section*.73}
+\contentsline {subsection}{\numberline {4.4.16}Storage}{56}{subsection.4.4.16}
+\contentsline {subsubsection}{\numberline {4.4.16.1}Metody}{56}{subsubsection.4.4.16.1}
+\contentsline {paragraph}{openDatabase}{56}{section*.74}
+\contentsline {subsection}{\numberline {4.4.17}Tabulka podpory API vol\IeC {\'a}n\IeC {\'\i } v r\IeC {\'a}mci platforem}{56}{subsection.4.4.17}
+\contentsline {section}{\numberline {4.5}PhoneGap v re\IeC {\'a}ln\IeC {\'y}ch aplikac\IeC {\'\i }ch}{57}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Wikipedia}{57}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}BBC Olympics}{57}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Fruit Salad}{57}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Budoucnost}{57}{section.4.6}
+\contentsline {chapter}{\chapternumberline {5}Hybridn\IeC {\'\i } vs. nativn\IeC {\'\i } v\IeC {\'y}voj}{59}{chapter.5}
+\contentsline {section}{\numberline {5.1}Zp\IeC {\r u}sob v\IeC {\'y}voje}{59}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}N\IeC {\'a}ro\IeC {\v c}nost v\IeC {\'y}voje}{59}{subsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.1.1}Lidsk\IeC {\'e} zdroje a finance}{59}{subsubsection.5.1.1.1}
+\contentsline {subsubsection}{\numberline {5.1.1.2}Slo\IeC {\v z}itost}{62}{subsubsection.5.1.1.2}
+\contentsline {subsection}{\numberline {5.1.2}Rychlost v\IeC {\'y}voje}{62}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}N\IeC {\'a}stroje}{63}{subsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.3.1}V\IeC {\'y}vojov\IeC {\'e} prost\IeC {\v r}ed\IeC {\'\i }}{63}{subsubsection.5.1.3.1}
+\contentsline {subsubsection}{\numberline {5.1.3.2}Testov\IeC {\'a}n\IeC {\'\i } a debugging}{63}{subsubsection.5.1.3.2}
+\contentsline {subsubsection}{\numberline {5.1.3.3}Podpora}{64}{subsubsection.5.1.3.3}
+\contentsline {section}{\numberline {5.2}Vlastn\IeC {\'\i } aplikace}{64}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Vzhled}{64}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Odezva}{65}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}V\IeC {\'y}kon}{66}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}M\IeC {\'\i }ra integrace s OS}{66}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Monetizace}{66}{section.5.3}
+\contentsline {section}{\numberline {5.4}Shrnut\IeC {\'\i }}{67}{section.5.4}
+\contentsline {chapter}{\chapternumberline {6}Demo aplikace}{69}{chapter.6}
+\contentsline {section}{\numberline {6.1}Twitter klient (BlueBirdGap)}{69}{section.6.1}
+\contentsline {section}{\numberline {6.2}Foto aplikace (Orionids)}{70}{section.6.2}
+\contentsline {section}{\numberline {6.3}\IeC {\v C}asovac\IeC {\'\i } aplikace (TimerGap)}{72}{section.6.3}
+\contentsline {chapter}{Z{\' a}v{\v e}r}{75}{chapter*.75}
+\contentsline {chapter}{Literatura}{79}{section*.77}
+\contentsline {appendix}{\chapternumberline {A}Seznam pou\IeC {\v z}it\IeC {\'y}ch zkratek}{87}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Obsah p\IeC {\v r}ilo\IeC {\v z}en\IeC {\'e}ho CD}{89}{appendix.B}

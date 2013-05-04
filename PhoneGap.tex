@@ -99,51 +99,6 @@ Díky cloudovému nástroji PhoneGap Build (podrobněji si ho popíšeme níže 
 
 Pokud vývojář není závislý na SDK konkrétní platformy, může pro vývoj použít prakticky libovolný nástroj. Může zůstat u mohutného IDE, jako je např. Eclipse nebo využít svůj oblíbený textový editor (TextMate, gedit, Sublime Text apod.).
 
-\subsubsection{Hello World}
-Pojďme si ukázat, jak se PhoneGap inicializuje. Ukážeme si to na příkladu klasické Hello World aplikace:
-
-\begin{lstlisting}[language=HTML,breaklines=true]
-<!DOCTYPE html>
-<html>
-  <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-      <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
-<!-- INCLUDE CORDOVA -->
-        <script type="text/javascript" src="cordova-2.4.0.js"></script>
-<script type="text/javascript">
-        // Wait for Cordova to load
-            function onBodyLoad() {
-                    document.addEventListener("deviceready", onDeviceReady, false);
-            }
-            
-            // Cordova is ready
-            function onDeviceReady() {
-        navigator.notification.alert("PhoneGap is ready!");
-}
-</script>
-<body onload="onBodyLoad()">
-        <h1>Hello World!</h1>
-        <p>This is a sample PhoneGap application.</p>
-  </body>
-</html>
-\end{lstlisting}
-
-K inicializaci frameworku PhoneGap v tomto případě dojde v několika krocích. Jednak samotné vložení knihovny “cordova-2.4.0.js” do hlavičky HTML dokumentu. Dalším krokem je vytvoření funkcí onBodyLoad() a onDeviceReady(). V rámci funkce onBodyLoad() čekáme, až PhoneGap provede veškerou inicializaci svých součástí. Jakmile se to stane, je zavolána funkce onDeviceReady(), kde provedeme zavolání funkce navigator.notification.alert(), která je definována v API frameworku PhoneGap a liší se od klasické javascriptové funkce alert(). Funkce onBodyLoad() a onDeviceReady() jsou nedílnou součástí víceméně každé aplikace napsané ve frameworku PhoneGap.
-
-Abych demonstroval, jak jednoduché je zavolání některého z javascriptových API nabízených frameworkem PhoneGap, ukáži, jak by vypadala funkce, kterou bychom mohli vytvořit pro pořízení fotografie prostřednictvím fotoaparátu.
-
-\begin{lstlisting}[language=HTML,breaklines=true]
-<!-- Vyfot fotku a vrat ji jako URI -->
-function takePhoto() {
-navigator.camera.getPicture(photoSuccess, photoFail, {quality: 50,
-                            destinationType: Camera.DestinationType.FILE_URI});
-  }
-\end{lstlisting}
-
-V případě úspěchu je zavolána funkce photoSuccess, kde můžeme fotografii dále zpracovat. V opačném případě je zavolána funkce photoFail, kde můžeme například vypsat uživateli zprávu o chybě.
-
-Jednotlivá API volání, které framework PhoneGap nabízí, si podrobněji popíšeme v podkapitole \ref{Sec:API}.
-
 \subsection{Rozšíření}
 Pokud vyvíjíme pro konkrétní platformu nebo chceme jen přidat některé specifické funkce, které PhoneGap nativně nenabízí, můžeme sáhnout do poměrně bohaté sbírky rozšíření, která vznikla v rámci komunity, ale je oficiálně spravována projektem PhoneGap na adrese https://github.com/purplecabbage/phonegap-plugins. % TODO vylepšit URL
 
@@ -459,33 +414,33 @@ Pokud jsme dosud slyšeli jen čísla, kolikrát byl PhoneGap stažen, je čas s
 \subsection{Wikipedia}
 Otevřená encyklopedie Wikipedia používá PhoneGap pro vývoj oficiální mobilní aplikace, přes kterou mohou uživatelé vyhledávat, zobrazovat a ukládat jednotlivé články z nejobsáhlejší encyklopedie světa. Aplikace je v současnosti portována na platformách iOS, Android a BlackBerry Playbook.
 
-\begin{figure}[H]\centering
-\includegraphics[width=0.4\textwidth]{wikipedia.png}
-\caption{Aplikace Wikipedia na OS Android \cite{google_android_wikipedia}.}
-\label{fig:WikipediaApp}
-\end{figure} 
+% \begin{figure}[H]\centering
+% \includegraphics[width=0.4\textwidth]{wikipedia.png}
+% \caption{Aplikace Wikipedia na OS Android \cite{google_android_wikipedia}.}
+% \label{fig:WikipediaApp}
+% \end{figure} 
 
 \subsection{BBC Olympics}
 Pro účely letních olympijských her v Londýně v létě 2012 vznikla pro britskou veřejnoprávní televizi BBC aplikace, která umožnila uživatelům přísun čerstvých novinek z dění na sportovištích. Aplikace nabízela například živé videopřenosy ze všech sportovišť, živý textový komentář k jednotlivým sportům, sestřihy toho nejlepšího, možnost čtení nejzajímavějších článků offline a mnoho dalšího. \cite{phonegap_bbc_olympics_app}
 
 BBC Olympics byla dostupná na třech platformách – iOS, Android a Blackberry.
 
-\begin{figure}\centering
-\includegraphics[width=0.5\textwidth]{bbc.jpg}
-\caption{Aplikace BBC Olympics na platformě iOS \cite{dribbble_bbc_olympics}.}
-\label{fig:BBCApp}
-\end{figure} 
+% \begin{figure}\centering
+% \includegraphics[width=0.5\textwidth]{bbc.jpg}
+% \caption{Aplikace BBC Olympics na platformě iOS \cite{dribbble_bbc_olympics}.}
+% \label{fig:BBCApp}
+% \end{figure} 
 
 \subsection{Fruit Salad}
 Fruit Salad je hra, kde se hráč snaží skládat pod sebe stejné druhy ovoce a získávat za to body. Tato hra vytvořená pomocí HTML5 je dostupná pro platformu Android.
 
 “PhoneGap Build is a great tool for web developers who want to give App Store visibility to their HTML apps” said Fruit Salad creator, Baptiste Brunet. \cite{phonegap_fruit_salad}
 
-\begin{figure}\centering
-\includegraphics[width=0.4\textwidth]{fruitsalad.jpg}
-\caption{Hra Fruit Salad běžící na OS Android \cite{phonegap_fruit_salad}.}
-\label{fig:FruitSalad}
-\end{figure} 
+% \begin{figure}\centering
+% \includegraphics[width=0.4\textwidth]{fruitsalad.jpg}
+% \caption{Hra Fruit Salad běžící na OS Android \cite{phonegap_fruit_salad}.}
+% \label{fig:FruitSalad}
+% \end{figure} 
 
 \section{Budoucnost}
 Co očekávat od budoucích let v souvislosti s PhoneGap? Jednoznačně mnohem hlubší integraci s Adobe produkty. Ačkoliv se to již u některých produktů (Adobe DreamWeaver) stalo, od převzetí PhoneGap firmou Adobe se očekávalo v tomto ohledu mnohem více. V dalších letech tak můžeme očekávat zařazování PhoneGap do vývojářských nástrojů, které Adobe poskytuje vývojářům HTML5 aplikací.

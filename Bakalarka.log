@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.12)  3 MAY 2013 20:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.12)  5 MAY 2013 01:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,7 +910,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 60.
 
-<cvut-logo-bw.pdf, id=166, 91.34125pt x 69.25874pt>
+<cvut-logo-bw.pdf, id=150, 91.34125pt x 69.25874pt>
 File: cvut-logo-bw.pdf Graphic file (type pdf)
  <use cvut-logo-bw.pdf>
 Package pdftex.def Info: cvut-logo-bw.pdf used on input line 60.
@@ -966,33 +966,14 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 ]
 (./Bakalarka.toc [11
 
-]
-Overfull \hbox (2.03773pt too wide) detected at line 232
- \T1/lmr/bx/n/12 101
- []
+]) [12] (./Bakalarka.lof) [13
 
+] [14
 
-Overfull \hbox (2.03773pt too wide) detected at line 233
- \T1/lmr/bx/n/12 113
- []
+] (./Bakalarka.lot)
+[15] [16
 
-
-Overfull \hbox (2.03773pt too wide) detected at line 234
- \T1/lmr/bx/n/12 115
- []
-
-) [12] (./Bakalarka.lof
-Underfull \vbox (badness 4254) has occurred while \output is active []
-
- [13
-
-])
-[14] (./Bakalarka.lot) [15
-
-] [16
-
-]
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+] (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count167
 \scratchdimen=\dimen164
@@ -1032,38 +1013,8 @@ Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 70.
 
-(./Mobilni_zarizeni_a_aplikace.tex
-
-Package hyperref Warning: Composite letter `\textasciicaron+r'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 1.
-
-[3] [4]
-Package epstopdf Info: Source file: <graf_mobily_csu.eps>
-(epstopdf)                    date: 2013-04-29 18:27:35
-(epstopdf)                    size: 370536 bytes
-(epstopdf)             Output file: <graf_mobily_csu-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-04-29 18:28:23
-(epstopdf)                    size: 89382 bytes
-(epstopdf)             Command: <repstopdf --outfile=graf_mobily_csu-eps-conver
-ted-to.pdf graf_mobily_csu.eps>
-(epstopdf)             \includegraphics on input line 62.
-Package epstopdf Info: Output file is already uptodate.
- <graf_mobily_csu-eps-converted-to.pdf, id=405, 912.40875pt x 433.62pt>
-File: graf_mobily_csu-eps-converted-to.pdf Graphic file (type pdf)
-
-<use graf_mobily_csu-eps-converted-to.pdf>
-Package pdftex.def Info: graf_mobily_csu-eps-converted-to.pdf used on input lin
-e 62.
-(pdftex.def)             Requested size: 364.95703pt x 173.44492pt.
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.77 
-      <./graf_mobily_csu-eps-converted-to.pdf>]
-Overfull \hbox (0.27235pt too wide) in paragraph at lines 91--92
+(./Mobilni_zarizeni_a_aplikace.tex [3]
+Overfull \hbox (0.27235pt too wide) in paragraph at lines 25--26
 []\T1/lmr/m/n/12 Mezi ²i-ro-kou ve-°ej-ností je v²ak za první smart-phone po-va
 -ºo-ván aº iPhone
  []
@@ -1077,491 +1028,301 @@ ed-to.pdf>
 (epstopdf)                    size: 45394 bytes
 (epstopdf)             Command: <repstopdf --outfile=smartphone_marketshare_ven
 dors-eps-converted-to.pdf smartphone_marketshare_vendors.eps>
-(epstopdf)             \includegraphics on input line 97.
+(epstopdf)             \includegraphics on input line 31.
 Package epstopdf Info: Output file is already uptodate.
 
-<smartphone_marketshare_vendors-eps-converted-to.pdf, id=428, 510.90875pt x 348
+<smartphone_marketshare_vendors-eps-converted-to.pdf, id=333, 510.90875pt x 348
 .30125pt>
 File: smartphone_marketshare_vendors-eps-converted-to.pdf Graphic file (type pd
 f)
  <use smartphone_marketshare_vendors-eps-converted-to.pdf>
 Package pdftex.def Info: smartphone_marketshare_vendors-eps-converted-to.pdf us
-ed on input line 97.
+ed on input line 31.
 (pdftex.def)             Requested size: 383.0pt x 261.09775pt.
- [6]
-<smartphone_by_manufaturers.png, id=444, 860.24612pt x 573.49742pt>
+
+<smartphone_by_manufaturers.png, id=334, 860.24612pt x 573.49742pt>
 File: smartphone_by_manufaturers.png Graphic file (type png)
 
 <use smartphone_by_manufaturers.png>
-Package pdftex.def Info: smartphone_by_manufaturers.png used on input line 105.
-
+Package pdftex.def Info: smartphone_by_manufaturers.png used on input line 39.
 (pdftex.def)             Requested size: 229.80234pt x 153.2012pt.
- [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2
-}) has been already used, duplicate ignored
+ [4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure
+.1.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.115 
-       <./smartphone_marketshare_vendors-eps-converted-to.pdf>] [8pdfTeX warnin
-g (ext4): destination with the same identifier (name{figure.1.3}) has been alre
-ady used, duplicate ignored
+l.44 \section
+             {PÅ™ehled mobilnÃ­ch platforem}pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.1.2}) has been already used, duplicate ig
+nored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.124 
-       <./smartphone_by_manufaturers.png>] [9]
-<smartphone_by_platform.png, id=483, 831.105pt x 537.77382pt>
+l.44 \section
+             {PÅ™ehled mobilnÃ­ch platforem} <./smartphone_marketshare_vendors-
+eps-converted-to.pdf> <./smartphone_by_manufaturers.png>]
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 44.
+
+
+Overfull \hbox (7.0615pt too wide) in paragraph at lines 48--49
+\T1/lmr/m/n/12 iOS je pro-duk-tem spo-le£-nosti Ap-ple, která jím vy-ba-vuje sv
+é pro-dukty iPhone,
+ []
+
+
+Underfull \vbox (badness 2529) has occurred while \output is active []
+
+ [6]
+[7] [8] [9] <smartphone_by_platform.png, id=413, 831.105pt x 537.77382pt>
 File: smartphone_by_platform.png Graphic file (type png)
 
 <use smartphone_by_platform.png>
-Package pdftex.def Info: smartphone_by_platform.png used on input line 141.
+Package pdftex.def Info: smartphone_by_platform.png used on input line 122.
 (pdftex.def)             Requested size: 229.80234pt x 148.69652pt.
-
-<graf_vyvoj_mobilnich_os.png, id=485, 504.38437pt x 293.59688pt>
+ [10]
+<graf_vyvoj_mobilnich_os.png, id=427, 504.38437pt x 293.59688pt>
 File: graf_vyvoj_mobilnich_os.png Graphic file (type png)
 
 <use graf_vyvoj_mobilnich_os.png>
-Package pdftex.def Info: graf_vyvoj_mobilnich_os.png used on input line 149.
+Package pdftex.def Info: graf_vyvoj_mobilnich_os.png used on input line 130.
 (pdftex.def)             Requested size: 383.0pt x 222.9433pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
-4}) has been already used, duplicate ignored
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.157 
+l.137 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-1.5}) has been already used, duplicate ignored
+1.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.157 
-       <./smartphone_by_platform.png> <./graf_vyvoj_mobilnich_os.png>] [11]
-[12]
-Overfull \hbox (15.58043pt too wide) in paragraph at lines 199--200
+l.137 
+       <./smartphone_by_platform.png> <./graf_vyvoj_mobilnich_os.png>] [12]
+Overfull \hbox (15.58043pt too wide) in paragraph at lines 174--175
 []\T1/lmr/m/n/12 V pro-st°edí mo-bil-ních te-le-fon· na-chá-zejí webové apli-ka
 ce uplat-n¥ní zejména
  []
 
+[13] [14]) [15] [16
 
-Overfull \hbox (11.64447pt too wide) in paragraph at lines 204--205
- []\T1/lmr/bx/n/12 Hybridní apli-kace[] \T1/lmr/m/n/12 De-fi-nice hyb-rid-ních 
-apli-kací není za-tím úpln¥ p°esn¥
- []
-
-[13] [14] [15] [16]) [17] [18
-
-] (./Mobilni_platformy_technicky.tex [19]
-<iOS_SystemLayers.png, id=619, 734.745pt x 405.515pt>
-File: iOS_SystemLayers.png Graphic file (type png)
-
-<use iOS_SystemLayers.png>
-Package pdftex.def Info: iOS_SystemLayers.png used on input line 17.
-(pdftex.def)             Requested size: 383.0pt x 211.38876pt.
-
-Overfull \hbox (2.96637pt too wide) in paragraph at lines 27--28
-[]\T1/lmr/m/n/12 LLVM je kom-pi-lá-to-rová in-frastruk-tura pro ^^RCom-pile Tim
-e^^P, ^^RLink Time^^P
- []
-
-[20pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.28 
-      <./iOS_SystemLayers.png>]
-Underfull \vbox (badness 7814) has occurred while \output is active []
-
- [21]
-Overfull \hbox (13.03973pt too wide) in paragraph at lines 45--46
-\T1/lmr/m/n/12 nými da-to-vými struk-tu-rami a jsou mo-di-fi-ko-vány za-°í-zení
- od za-°í-zení. Knihovny
- []
-
-<Android-architecture.jpg, id=648, 757.7722pt x 544.15059pt>
-File: Android-architecture.jpg Graphic file (type jpg)
-
-<use Android-architecture.jpg>
-Package pdftex.def Info: Android-architecture.jpg used on input line 52.
-(pdftex.def)             Requested size: 383.0pt x 275.03052pt.
-
-<android_app_tech.png, id=653, 383.4325pt x 277.035pt>
-File: android_app_tech.png Graphic file (type png)
-
-<use android_app_tech.png>
-Package pdftex.def Info: android_app_tech.png used on input line 61.
-(pdftex.def)             Requested size: 229.80234pt x 166.03627pt.
-
-Underfull \vbox (badness 6893) has occurred while \output is active []
-
- [22]
-[23pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.68 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.2
-.3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.68 
-      <./Android-architecture.jpg> <./android_app_tech.png>]
-<WP8Architecture.png, id=670, 564.1878pt x 436.029pt>
-File: WP8Architecture.png Graphic file (type png)
-
-<use WP8Architecture.png>
-Package pdftex.def Info: WP8Architecture.png used on input line 83.
-(pdftex.def)             Requested size: 383.0pt x 296.0101pt.
- [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
-4}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.96 
-      <./WP8Architecture.png>]
-<wp8_cloud_compilation.png, id=696, 435.12563pt x 509.65407pt>
-File: wp8_cloud_compilation.png Graphic file (type png)
-
-<use wp8_cloud_compilation.png>
-Package pdftex.def Info: wp8_cloud_compilation.png used on input line 111.
-(pdftex.def)             Requested size: 383.0pt x 448.62917pt.
- [26] [27pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.2.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.123 
-       <./wp8_cloud_compilation.png>] [28]
-<FirefoxOS_architecture.png, id=729, 567.62062pt x 688.82344pt>
-File: FirefoxOS_architecture.png Graphic file (type png)
-
-<use FirefoxOS_architecture.png>
-Package pdftex.def Info: FirefoxOS_architecture.png used on input line 135.
-(pdftex.def)             Requested size: 383.0pt x 464.79912pt.
-) [29] [30pdfTeX warning (ext4): destination with the same identifier (name{fig
-ure.2.6}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.76 
-      <./FirefoxOS_architecture.png>] [31] [32
-
-] (./Multiplatformni_vyvoj.tex
-[33] [34]
+] (./Multiplatformni_vyvoj.tex [17] [18]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 29.
 
-[35] [36]
+[19] [20]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 58.
 
-[37] <html5browser.png, id=799, 1723.43875pt x 1580.90625pt>
+[21] <html5browser.png, id=523, 1723.43875pt x 1580.90625pt>
 File: html5browser.png Graphic file (type png)
 
 <use html5browser.png>
-Package pdftex.def Info: html5browser.png used on input line 79.
+Package pdftex.def Info: html5browser.png used on input line 77.
 (pdftex.def)             Requested size: 383.0pt x 351.32236pt.
- [38]
+ [22]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 87.
+(hyperref)                removing `\textasciicaron' on input line 85.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [23pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.89 
-      <./html5browser.png>] [40] [41]
-<titanium_architecture.png, id=842, 487.06969pt x 361.35pt>
+l.90 
+      <./html5browser.png>] [24] [25]
+<titanium_architecture.png, id=568, 487.06969pt x 361.35pt>
 File: titanium_architecture.png Graphic file (type png)
 
 <use titanium_architecture.png>
-Package pdftex.def Info: titanium_architecture.png used on input line 134.
+Package pdftex.def Info: titanium_architecture.png used on input line 132.
 (pdftex.def)             Requested size: 383.0pt x 284.14558pt.
- [42pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+
+Underfull \vbox (badness 6157) has occurred while \output is active []
+
+ [26pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.140 
-       <./titanium_architecture.png>] [43]) [44] (./Hybridni_frameworky.tex
+l.138 
+       <./titanium_architecture.png>] [27]) [28] (./Hybridni_frameworky.tex
 
 Package hyperref Warning: Composite letter `\textasciicaron+e'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 1.
 
-[45
+[29
 
-] [46] <hybrid_app_architecture.png, id=906, 204.765pt x 405.515pt>
+] [30] <hybrid_app_architecture.png, id=630, 204.765pt x 405.515pt>
 File: hybrid_app_architecture.png Graphic file (type png)
 
 <use hybrid_app_architecture.png>
 Package pdftex.def Info: hybrid_app_architecture.png used on input line 56.
 (pdftex.def)             Requested size: 153.19766pt x 303.41153pt.
- [47]
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2004/09/05 1.3 listings language file
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
-) [48pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.1}) has been already used, duplicate ignored
+ [31] [32pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.3.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.74     <
-          p>I'm first in the source order so I'm shown as the page.</p> <./hybr
-id_app_architecture.png (PNG copy)>] [49] [50]
-<hybridni_aplikace_komunikace.png, id=971, 796.9775pt x 475.7775pt>
+l.66 
+      <./hybrid_app_architecture.png (PNG copy)>] [33]
+<hybridni_aplikace_komunikace.png, id=656, 796.9775pt x 475.7775pt>
 File: hybridni_aplikace_komunikace.png Graphic file (type png)
 
 <use hybridni_aplikace_komunikace.png>
-Package pdftex.def Info: hybridni_aplikace_komunikace.png used on input line 12
-1.
+Package pdftex.def Info: hybridni_aplikace_komunikace.png used on input line 83
+.
 (pdftex.def)             Requested size: 383.0pt x 228.6392pt.
 
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
- [51pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.129 
-       <./hybridni_aplikace_komunikace.png (PNG copy)>]
+l.91 
+      <./hybridni_aplikace_komunikace.png (PNG copy)>]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 138.
+(hyperref)                removing `\textasciicaron' on input line 100.
 
 
 Package hyperref Warning: Composite letter `\textring+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textring' on input line 138.
+(hyperref)                removing `\textring' on input line 100.
 
-[52] [53] <MoSyncUI_Layers.png, id=991, 516.93124pt x 260.975pt>
+[35] [36] <MoSyncUI_Layers.png, id=675, 516.93124pt x 260.975pt>
 File: MoSyncUI_Layers.png Graphic file (type png)
 
 <use MoSyncUI_Layers.png>
-Package pdftex.def Info: MoSyncUI_Layers.png used on input line 165.
+Package pdftex.def Info: MoSyncUI_Layers.png used on input line 127.
 (pdftex.def)             Requested size: 383.0pt x 193.36537pt.
- [54pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [37pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.173 
-       <./MoSyncUI_Layers.png>] [55] [56]) [57] [58
-
-] (./PhoneGap.tex
+l.135 
+       <./MoSyncUI_Layers.png>] [38] [39]) [40] (./PhoneGap.tex
 
 Package hyperref Warning: Composite letter `\textasciicaron+e'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 1.
 
-[59] [60] [61]
+[41
+
+] [42] [43]
 Overfull \hbox (8.26945pt too wide) in paragraph at lines 61--62
 []\T1/lmr/m/n/12 ^^PPhoneGap has pro-ven to be an industry-defining app so-lu-t
 ion for HTML5
  []
 
-[62]
+[44]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 86.
 
-[63] [64]
-Underfull \vbox (badness 2269) has occurred while \output is active []
-
- [65]
-Overfull \hbox (97.23074pt too wide) in paragraph at lines 148--149
+[45]
+Overfull \hbox (97.23074pt too wide) in paragraph at lines 103--104
 \T1/lmr/m/n/12 áln¥ spra-vo-vána pro-jek-tem Pho-ne-Gap na ad-rese https://gith
 ub.com/purplecabbage/phonegap-
  []
 
 
-Overfull \hbox (1.35358pt too wide) in paragraph at lines 150--151
+Overfull \hbox (1.35358pt too wide) in paragraph at lines 105--106
 []\T1/lmr/m/n/12 Najdeme tu bo-ha-tou sbírku plu-gin·, které po-krý-vají ²i-ro-
 kou ²kálu funkcí.
  []
 
-[66]
-Overfull \hbox (5.16995pt too wide) in paragraph at lines 176--177
+[46]
+Overfull \hbox (5.16995pt too wide) in paragraph at lines 131--132
 []\T1/lmr/bx/n/12 Ripple Mo-bile En-vi-ro-ment Emu-la-tor[] \T1/lmr/m/n/12 Rip-
 ple Mo-bile En-vi-ro-ment Emu-
  []
 
-<RMEE.png, id=1178, 1310.8975pt x 683.55376pt>
+[47] <RMEE.png, id=826, 1310.8975pt x 683.55376pt>
 File: RMEE.png Graphic file (type png)
  <use RMEE.png>
-Package pdftex.def Info: RMEE.png used on input line 181.
+Package pdftex.def Info: RMEE.png used on input line 136.
 (pdftex.def)             Requested size: 344.69766pt x 179.7328pt.
- [67]
-Overfull \hbox (77.40628pt too wide) in paragraph at lines 197--198
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+Overfull \hbox (77.40628pt too wide) in paragraph at lines 152--153
 \T1/lmr/m/n/12 resu ser-veru s iden-ti-fi-ká-to-rem la-d¥né apli-kace http://de
 bug.phonegap.com/client/#myapp.
  []
 
-[68pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+[48pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.201 
-       <./RMEE.png>] [69] [70] [71] [72]
-Overfull \hbox (12.32825pt too wide) in paragraph at lines 360--361
+l.153 
+       <./RMEE.png>] [49] [50] [51] [52] [53]
+Overfull \hbox (12.32825pt too wide) in paragraph at lines 315--316
 []\T1/lmr/bx/n/12 DirectoryEntry[] \T1/lmr/m/n/12 Ob-jekt re-pre-zen-tu-jící sl
 oºku v na-tiv-ním fi-le-sys-tému. Tento
  []
 
-[73]
-Overfull \hbox (9.94196pt too wide) in paragraph at lines 370--371
+
+Overfull \hbox (9.94196pt too wide) in paragraph at lines 325--326
 []\T1/lmr/bx/n/12 geolocation.watchPosition[] \T1/lmr/m/n/12 Me-toda umoº-¬u-jí
 cí sle-do-vat in-for-mace o zm¥-
  []
 
 
-Overfull \hbox (2.33266pt too wide) in paragraph at lines 373--374
+Overfull \hbox (2.33266pt too wide) in paragraph at lines 328--329
 []\T1/lmr/bx/n/12 geolocation.clearWatch[] \T1/lmr/m/n/12 Zru²í sle-do-vání po-
 lohy vy-tvo-°ené p°ed-chozí me-
  []
 
 
-Overfull \hbox (2.32874pt too wide) in paragraph at lines 380--381
+Overfull \hbox (2.32874pt too wide) in paragraph at lines 335--336
 []\T1/lmr/bx/n/12 globalization.getPreferredLanguage[] \T1/lmr/m/n/12 Me-toda v
 ra-ce-jící in-for-maci o sys-
  []
 
-
-Overfull \hbox (1.38829pt too wide) in paragraph at lines 393--394
+[54]
+Overfull \hbox (1.38829pt too wide) in paragraph at lines 348--349
 []\T1/lmr/bx/n/12 removeEventListener[] \T1/lmr/m/n/12 Od-straní na-slou-chání 
 vy-tvo-°ené p°ed-chozí funkcí. 
  []
 
-[74]
-Overfull \hbox (0.10336pt too wide) in paragraph at lines 418--419
+
+Overfull \hbox (0.10336pt too wide) in paragraph at lines 373--374
 []\T1/lmr/bx/n/12 media.startRecord, me-dia.stopRecord[] \T1/lmr/m/n/12 Spustí 
 nebo za-staví na-hrá-vání
  []
 
-[75] <wikipedia.png, id=1314, 466.74374pt x 865.2325pt>
-File: wikipedia.png Graphic file (type png)
- <use wikipedia.png>
-Package pdftex.def Info: wikipedia.png used on input line 463.
-(pdftex.def)             Requested size: 153.19766pt x 283.99612pt.
+[55] [56] [57]
 
-Underfull \vbox (badness 2951) has occurred while \output is active []
+LaTeX Warning: Reference `Sec:FxOS' on page 58 undefined on input line 452.
 
- [76]
-<bbc.jpg, id=1329, 401.5pt x 301.125pt>
-File: bbc.jpg Graphic file (type jpg)
- <use bbc.jpg>
-Package pdftex.def Info: bbc.jpg used on input line 474.
-(pdftex.def)             Requested size: 191.5pt x 143.62859pt.
-
-<fruitsalad.jpg, id=1333, 308.15125pt x 513.92pt>
-File: fruitsalad.jpg Graphic file (type jpg)
- <use fruitsalad.jpg>
-Package pdftex.def Info: fruitsalad.jpg used on input line 485.
-(pdftex.def)             Requested size: 153.19766pt x 255.5008pt.
- [77pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
-2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.488 \end{figure}
-                   <./wikipedia.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [78pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
-3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.492 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-5.4}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.492 
-       <./bbc.jpg> <./fruitsalad.jpg>]) [79] [80
-
-] (./Demo_aplikace.tex
-<bbgap_timeline.png, id=1357, 556.0775pt x 509.905pt>
-File: bbgap_timeline.png Graphic file (type png)
- <use bbgap_timeline.png>
-Package pdftex.def Info: bbgap_timeline.png used on input line 9.
-(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [81]
-[82pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.20 
-      <./bbgap_timeline.png>]
-<orionids_home.png, id=1367, 556.0775pt x 509.905pt>
-File: orionids_home.png Graphic file (type png)
- <use orionids_home.png>
-Package pdftex.def Info: orionids_home.png used on input line 24.
-(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
-
-[83pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
-}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.30 
-      <./orionids_home.png>]
-
-Package hyperref Warning: Composite letter `\textasciicaron+C'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 33.
-
-<tgap_odpocitavani.png, id=1372, 556.0775pt x 509.905pt>
-File: tgap_odpocitavani.png Graphic file (type png)
-
-<use tgap_odpocitavani.png>
-Package pdftex.def Info: tgap_odpocitavani.png used on input line 39.
-(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
- [84pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
-3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.45 
-      <./tgap_odpocitavani.png>])
-
-Class memoir Warning: The material used in the headers is too large
-(14.89201pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 94.
-
-[85] [86
-
-] (./Hybridni_vs_nativni_vyvoj.tex
+) [58] (./Hybridni_vs_nativni_vyvoj.tex
 
 Package hyperref Warning: Composite letter `\textring+u'
 (hyperref)                not defined in PD1 encoding,
@@ -1573,39 +1334,41 @@ Overfull \hbox (2.1906pt too wide) in paragraph at lines 12--13
 u-te£n¥ velká. Jedná
  []
 
-[87] <jobgraph_html5.png, id=1395, 542.025pt x 301.125pt>
+[59
+
+] <jobgraph_html5.png, id=989, 542.025pt x 301.125pt>
 File: jobgraph_html5.png Graphic file (type png)
 
 <use jobgraph_html5.png>
 Package pdftex.def Info: jobgraph_html5.png used on input line 15.
 (pdftex.def)             Requested size: 383.0pt x 212.78479pt.
 
-<jobgraph_phonegap.png, id=1398, 542.025pt x 301.125pt>
+<jobgraph_phonegap.png, id=992, 542.025pt x 301.125pt>
 File: jobgraph_phonegap.png Graphic file (type png)
 
 <use jobgraph_phonegap.png>
 Package pdftex.def Info: jobgraph_phonegap.png used on input line 23.
 (pdftex.def)             Requested size: 383.0pt x 212.78479pt.
- <jobgraph_ios.png, id=1404, 542.025pt x 301.125pt>
+ <jobgraph_ios.png, id=998, 542.025pt x 301.125pt>
 File: jobgraph_ios.png Graphic file (type png)
 
 <use jobgraph_ios.png>
 Package pdftex.def Info: jobgraph_ios.png used on input line 33.
 (pdftex.def)             Requested size: 383.0pt x 212.78479pt.
- [88pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
+ [60pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.41 
-      <./jobgraph_html5.png (PNG copy)>] [89pdfTeX warning (ext4): destination 
-with the same identifier (name{figure.7.2}) has been already used, duplicate ig
+      <./jobgraph_html5.png (PNG copy)>] [61pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.5.2}) has been already used, duplicate ig
 nored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.41 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
 .3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1616,37 +1379,87 @@ Overfull \hbox (20.164pt too wide) in paragraph at lines 45--75
  [][] 
  []
 
-[90pdfTeX warning (ext4): destination with the same identifier (name{table.7.1}
+[62pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.84 
-     ] [91] [92]
+     ] [63] [64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
-[94] <hybrid_native_graph.png, id=1457, 528.97626pt x 625.33624pt>
-File: hybrid_native_graph.png Graphic file (type png)
-
-<use hybrid_native_graph.png>
-Package pdftex.def Info: hybrid_native_graph.png used on input line 148.
-(pdftex.def)             Requested size: 383.0pt x 452.77034pt.
-) [95] [96pdfTeX warning (ext4): destination with the same identifier (name{fig
-ure.7.4}) has been already used, duplicate ignored
+ [65]
+[66]) [67pdfTeX warning (ext4): destination with the same identifier (name{tabl
+e.5.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.97 \begin{conclusion}
-                        <./hybrid_native_graph.png>]
+l.97 \chapter
+             {Demo aplikace}] [68
+
+] (./Demo_aplikace.tex
+<bbgap_timeline.png, id=1063, 556.0775pt x 509.905pt>
+File: bbgap_timeline.png Graphic file (type png)
+ <use bbgap_timeline.png>
+Package pdftex.def Info: bbgap_timeline.png used on input line 9.
+(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [69]
+[70pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.20 
+      <./bbgap_timeline.png>]
+<orionids_home.png, id=1073, 556.0775pt x 509.905pt>
+File: orionids_home.png Graphic file (type png)
+ <use orionids_home.png>
+Package pdftex.def Info: orionids_home.png used on input line 24.
+(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
+
+[71pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.30 
+      <./orionids_home.png>]
+
+Package hyperref Warning: Composite letter `\textasciicaron+C'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 33.
+
+<tgap_odpocitavani.png, id=1078, 556.0775pt x 509.905pt>
+File: tgap_odpocitavani.png Graphic file (type png)
+
+<use tgap_odpocitavani.png>
+Package pdftex.def Info: tgap_odpocitavani.png used on input line 39.
+(pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
+ [72pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.45 
+      <./tgap_odpocitavani.png>])
+
+Class memoir Warning: The material used in the headers is too large
+(14.89201pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 100.
+
+[73] [74
+
+]
 
 Package hyperref Warning: Composite letter `\textasciicaron+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 97.
+(hyperref)                removing `\textasciicaron' on input line 100.
 
-(./Zaver.tex [97
-
-]) [98] (./Bakalarka.bbl [99] [100
+(./Zaver.tex [75]) [76] (./Bakalarka.bbl [77] [78
 
 ]
 bibitemlist
@@ -1654,684 +1467,413 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 14.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 3930) in paragraph at lines 22--24
-[]\T1/lmr/m/n/12 Android Ar-chi-tecture - The Key Con-cepts of An-droid OS.
+Underfull \hbox (badness 1189) in paragraph at lines 26--29
+[]\T1/lmr/m/n/12 Appcelerator Ti-ta-nium vs. Pho-ne-gap: Which is the bet-ter M
+o-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
-\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :
-\T1/lmtt/m/n/12 android -[] app -[] market\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com
- / android -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--37
-[]\T1/lmr/m/n/12 Announcing Win-dows Phone 8. Do-stupné z: []$\T1/lmtt/m/n/12 h
-ttp : / /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--37
-\T1/lmtt/m/n/12 blogs\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 windows\OML/lmm/m/it/12 
-:\T1/lmtt/m/n/12 com / windows[]phone / b / windowsphone / archive /
- []
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 44--46
-[]\T1/lmr/m/n/12 Apple Na-mes All-Time Top App Store Apps - The Mac Ob-
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 44--46
-\T1/lmr/m/n/12 ser-ver. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/
-m/it/12 :\T1/lmtt/m/n/12 macobserver\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / tmo
- / article /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 []\T1/lmr/m/n/12 Apple un-ve-ils iPhone | Ma-cworld. Do-stupné z: []$\T1/lmtt/m
 /n/12 http :
  []
 
-[101]
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
 []\T1/lmr/m/n/12 Apps ar-chi-tecture - Apps | MDN. Do-stupné z:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
 []$\T1/lmtt/m/n/12 https : / / developer\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 mozil
 la\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 org / en -[] US / docs / Apps /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
 \T1/lmtt/m/n/12 Architecture?redirectlocale = en -[] US&redirectslug = Apps %
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 56--58
+Underfull \hbox (badness 1946) in paragraph at lines 39--41
 []\T1/lmr/m/n/12 Architecture Di-a-grams \OMS/lmsy/m/n/12 ^^A \T1/lmr/m/n/12 Ti
 -de-SD-K/-Ti-de-SDK Wiki. Do-stupné z:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
 []$\T1/lmtt/m/n/12 https : / / github\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / Ti
 deSDK / TideSDK / wiki / Architecture -[]
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 60--62
-[]\T1/lmr/m/n/12 BBC News - Meet Marty Co-o-per - the in-ven-tor of the mo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
 \T1/lmr/m/n/12 - Busi-nessweek. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\
 OML/lmm/m/it/12 :\T1/lmtt/m/n/12 businessweek\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 
 com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
 \T1/lmtt/m/n/12 articles / 2012 -[] 06 -[] 29 / before -[] iphone -[] and -[] a
-ndroid -[] came -[]
+ndroid -[] came -[] simon -[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--71
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
 \T1/lmtt/m/n/12 bii -[] report -[] how -[] hybrid -[] apps -[] are -[] accelera
 ting -[] html5 -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 []\T1/lmr/m/n/12 Booting to the Web ^^U Sku-piny Go-o-gle. Do-stupné z:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 []$\T1/lmtt/m/n/12 https : / / groups\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 google\O
 ML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / forum/?fromgroups = #!topic /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
 []\T1/lmr/m/n/12 Building Mo-bile Ap-pli-cati-ons with Ti-ta-nium - Do-cu-men-
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 77--80
+Underfull \hbox (badness 5431) in paragraph at lines 56--59
 \T1/lmr/m/n/12 tation & Gu-i-des - App-ce-le-ra-tor Wiki. Do-stupné z: []$\T1/l
 mtt/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
 \T1/lmtt/m/n/12 / / wiki\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 appcelerator\OML/lmm/
 m/it/12 :\T1/lmtt/m/n/12 org / display / guides / Building + Mobile +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--85
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 []\T1/lmr/m/n/12 comScore Re-ports May 2012 U.S. Mo-bile Sub-scri-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--85
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 \T1/lmr/m/n/12 ber Mar-ket Share - com-Score, Inc. Do-stupné z: []$\T1/lmtt/m/n
 /12 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--85
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 \T1/lmtt/m/n/12 / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 comscore\OML/lmm/m/it/
 12 :\T1/lmtt/m/n/12 com / Insights / Press[]Releases / 2012 / 7 /
  []
 
 
-Overfull \hbox (17.88077pt too wide) in paragraph at lines 82--85
+Overfull \hbox (12.00578pt too wide) in paragraph at lines 61--64
 \T1/lmtt/m/n/12 comScore[]Reports[]May[]2012[]U\OML/lmm/m/it/12 :\T1/lmtt/m/n/1
 2 S\OML/lmm/m/it/12 :[]\T1/lmtt/m/n/12 Mobile[]Subscriber[]Market[]Share$[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
-[]\T1/lmr/m/n/12 Desítka nej-po-u-ºí-va-n¥j-²ích apli-kací pro An-droid a iPhon
-e
+Underfull \hbox (badness 1430) in paragraph at lines 66--69
+[]\T1/lmr/m/n/12 Dissecting Pho-ne-gap's ar-chi-tecture - Agi-liq Blog | Django
+ web
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
-\T1/lmr/m/n/12 - Root.cz. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lm
-m/m/it/12 :\T1/lmtt/m/n/12 root\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 cz / zpravicky
- /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
-\T1/lmtt/m/n/12 desitka -[] nejpouzivanejsich -[] aplikaci -[] pro -[] android 
--[] a -[] iphone /
- []
-
-[102]
-Underfull \hbox (badness 1077) in paragraph at lines 96--98
+Underfull \hbox (badness 1642) in paragraph at lines 71--73
 []\T1/lmr/m/n/12 Distribute your App - iOS De-ve-lo-per Pro-gram - Ap-ple De-ve
 -
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 100--102
-[]\T1/lmr/m/n/12 Distribute your App - iOS De-ve-lo-per Pro-gram - Ap-ple De-ve
--
+Underfull \hbox (badness 1168) in paragraph at lines 71--73
+\T1/lmr/m/n/12 lo-per. Do-stupné z: []$\T1/lmtt/m/n/12 https : / / developer\OM
+L/lmm/m/it/12 :\T1/lmtt/m/n/12 apple\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / pro
+grams / ios /
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 108--110
+Underfull \hbox (badness 6094) in paragraph at lines 75--77
 []\T1/lmr/m/n/12 FAQs about apps - Apps | MDN. Do-stupné z: []$\T1/lmtt/m/n/12 
 https : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
-\T1/lmtt/m/n/12 / / developer\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 mozilla\OML/lmm/
-m/it/12 :\T1/lmtt/m/n/12 org / en -[] US / docs / Mozilla / Firefox[]OS /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
-\T1/lmtt/m/n/12 Platform / Architecture?redirectlocale = en -[] US&redirectslug
- =
- []
-
-
-Underfull \hbox (badness 1810) in paragraph at lines 125--127
+Underfull \hbox (badness 2698) in paragraph at lines 84--86
 []\T1/lmr/m/n/12 Google Buys An-droid for Its Mo-bile Ar-se-nal - Busi-nessweek
 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
-\T1/lmtt/m/n/12 10 -[] 29 / google -[] says -[] 700 -[] 000 -[] applications -[
-] available -[] for -[]
- []
-
-
-Underfull \hbox (badness 1997) in paragraph at lines 137--139
+Underfull \hbox (badness 2828) in paragraph at lines 88--90
 []\T1/lmr/m/n/12 The His-tory of the Smart-phone - The Next Web. Do-stupné
  []
 
 
-Underfull \hbox (badness 2253) in paragraph at lines 141--143
-\T1/lmr/m/n/12 stupné z: []$\T1/lmtt/m/n/12 http : / / blog\OML/lmm/m/it/12 :\T
-1/lmtt/m/n/12 brightcove\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / en / 2011 / 11 
-/ html5 -[] and -[]
- []
-
-[103]
-Underfull \hbox (badness 7613) in paragraph at lines 145--147
-[]\T1/lmr/m/n/12 Hybrid Mo-bile App Me-a-su-re-ment ^^U Web-trends Blog. Do-
+Underfull \hbox (badness 7433) in paragraph at lines 88--90
+\T1/lmr/m/n/12 z: []$\T1/lmtt/m/n/12 http : / / thenextweb\OML/lmm/m/it/12 :\T1
+/lmtt/m/n/12 com / mobile / 2011 / 12 / 06 / the -[] history -[] of -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
 []\T1/lmr/m/n/12 Industry Lea-ders An-nounce Open Plat-form for Mo-bile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
 \T1/lmr/m/n/12 De-vi-ces | Open Hand-set Al-li-ance. Do-stupné z: []$\T1/lmtt/m
 /n/12 http :
  []
 
+[80]
+Underfull \hbox (badness 1430) in paragraph at lines 97--99
+[]\T1/lmr/m/n/12 InfoWorld's 2012 Tech-no-logy of the Year Award win-ners - In-
 
-Underfull \hbox (badness 4647) in paragraph at lines 154--156
-[]\T1/lmr/m/n/12 Informa£ní tech-no-lo-gie v do-mác-nos-tech a mezi jed-not-liv
-ci |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
-\T1/lmr/m/n/12 ƒSÚ. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it
-/12 :\T1/lmtt/m/n/12 czso\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 cz / csu / redakce\O
-ML/lmm/m/it/12 :\T1/lmtt/m/n/12 nsf / i /
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+\T1/lmtt/m/n/12 infoworlds -[] 2012 -[] technology -[] of -[] the -[] year -[] 
+award -[] winners -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
-\T1/lmr/m/n/12 foWorld. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/
-m/it/12 :\T1/lmtt/m/n/12 infoworld\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / slide
-show /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
-\T1/lmtt/m/n/12 24605 / infoworlds -[] 2012 -[] technology -[] of -[] the -[] y
-ear -[] award -[]
- []
-
-
-Underfull \hbox (badness 5417) in paragraph at lines 162--164
-[]\T1/lmr/m/n/12 Introduction to An-droid de-ve-lo-p-ment. Do-stupné z: []$\T1/
-lmtt/m/n/12 http : / /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--169
+Underfull \hbox (badness 10000) in paragraph at lines 101--104
 \T1/lmtt/m/n/12 03 / 27 / introduction -[] to -[] ios -[] development -[] an -[
 ] overview -[] of -[]
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 171--174
-\T1/lmr/m/n/12 | TechCrunch. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / techcru
-nch\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 09 /
+Underfull \hbox (badness 1990) in paragraph at lines 106--109
+[]\T1/lmr/m/n/12 iPhone 5 and iOS 6 for HTML5 de-ve-lo-pers, a big step for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--174
-\T1/lmtt/m/n/12 12 / ios -[] app -[] store -[] boasts -[] 700k -[] apps -[] 90 
--[] downloaded -[] every -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
-[]$\T1/lmtt/m/n/12 http : / / developer\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 apple\
-OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / library / ios / #documentation /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
-\T1/lmtt/m/n/12 miscellaneous / conceptual / iphoneostechoverview /
- []
-
-[104]
-Underfull \hbox (badness 10000) in paragraph at lines 190--192
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 []\T1/lmr/m/n/12 Job Search | one search. all jobs. In-deed.com.
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 202--204
-[]\T1/lmr/m/n/12 MacDevCenter.com. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / w
-ww\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 macdevcenter\OML/lmm/m/it/12 :\T1/lmtt/m/n/
-12 com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
 []\T1/lmr/m/n/12 Microsoft Un-ve-ils Win-dows Phone 8. Do-stupné z: []$\T1/lmtt
 /m/n/12 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
 \T1/lmtt/m/n/12 / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 microsoft\OML/lmm/m/it
 /12 :\T1/lmtt/m/n/12 com / en -[] us / news / press / 2012 / oct12 / 10 -[]
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 210--212
-[]\T1/lmr/m/n/12 Mobile App Usage Sta-tis-tics 2012 [In-fo-gra-phic] | An-so-nA
--lex.
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+\T1/lmr/m/n/12 stupné z: []$\T1/lmtt/m/n/12 http : / / ansonalex\OML/lmm/m/it/1
+2 :\T1/lmtt/m/n/12 com / infographics / mobile -[] app -[]
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 210--212
-\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / ansonalex\OML/lmm/m/i
-t/12 :\T1/lmtt/m/n/12 com / infographics / mobile -[] app -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--217
-[]\T1/lmr/m/n/12 Mobile Ap-pli-cati-ons De-ve-lo-p-ment, iPhone & An-droid
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--217
-\T1/lmr/m/n/12 App De-ve-lo-p-ment | Mar-ma-lade. Do-stupné z: []$\T1/lmtt/m/n/
-12 http : / /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 219--222
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 \T1/lmr/m/n/12 rid Ap-pro-ach. http://www.itexico.com/blog/bid/92633/Mobile-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--222
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 \T1/lmr/m/n/12 Development-Web-App-vs-Native-App-PART-2-Hybrid-Approach.
  []
 
 
-Underfull \hbox (badness 5893) in paragraph at lines 219--222
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 \T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :
 \T1/lmtt/m/n/12 itexico\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / blog / bid / 926
 33 / Mobile -[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--227
-\T1/lmtt/m/n/12 Mobile -[] Devices -[] Definition -[] And -[] Security -[] Issu
-es -[] Part -[] 1 -[] of -[]
- []
-
-[105]
-Underfull \hbox (badness 10000) in paragraph at lines 235--238
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
 \T1/lmtt/m/n/12 blog / cell -[] phones / mwc -[] 2010 -[] microsoft -[] announc
 es -[] windows -[]
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 240--243
-[]\T1/lmr/m/n/12 New An-droid Tro-jan Found in Go-o-gle Play | News & Opi-
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 254--256
+Underfull \hbox (badness 1769) in paragraph at lines 152--154
 []\T1/lmr/m/n/12 PhoneGap | Adobe Dre-a-mwea-ver 5.5 Sup-ports Pho-ne-Gap. Do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--265
-[]\T1/lmr/m/n/12 PhoneGap | Adobe Pho-ne-Gap and Pro-ject Pri-me-time
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+\T1/lmtt/m/n/12 2012 / 06 / 12 / adobe -[] phonegap -[] named -[] best -[] cros
+s -[] platform -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--265
-\T1/lmr/m/n/12 Power BBC's Co-ve-rage of the Olym-pics. Do-stupné z:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--265
-[]$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / b
-log / 2012 / 07 / 28 / adobe -[] phonegap -[] and -[]
- []
-
-
-Underfull \hbox (badness 7186) in paragraph at lines 267--270
-[]\T1/lmr/m/n/12 PhoneGap | Adobe Pho-ne-Gap na-med 2012 Tech-no-logy of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--270
-\T1/lmr/m/n/12 the Year by In-foWorld Test Cen-ter. Do-stupné z: []$\T1/lmtt/m/
-n/12 http :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--270
-\T1/lmtt/m/n/12 / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 01 /
- 09 / adobe -[] phonegap -[] named -[] 2012 -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--275
-[]\T1/lmr/m/n/12 PhoneGap | Adobe Pho-ne-Gap na-med Best Cross-Platform
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--275
-\T1/lmr/m/n/12 De-ve-lo-p-ment Tool by Co-de-Pro-ject. Do-stupné z: []$\T1/lmtt
-/m/n/12 http :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--275
-\T1/lmtt/m/n/12 / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 06 /
- 12 / adobe -[] phonegap -[] named -[] best -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 282--285
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
 \T1/lmtt/m/n/12 adobe -[] phonegap -[] named -[] %E2 % 80 % 9Cchampion % E2 % 8
 0 % 9D -[] by -[] info -[]
  []
 
-[106]
-Underfull \hbox (badness 1490) in paragraph at lines 287--289
-\T1/lmr/m/n/12 Phone 8. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML
-/lmm/m/it/12 :\T1/lmtt/m/n/12 com / blog / 2012 / 10 / 30 /
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--293
-\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it
-/12 :\T1/lmtt/m/n/12 com / 2011 / 09 / 08 / announcing -[]
- []
-
-
-Underfull \hbox (badness 1348) in paragraph at lines 295--297
+Underfull \hbox (badness 2221) in paragraph at lines 175--177
 []\T1/lmr/m/n/12 PhoneGap | An-noun-cing the Pho-ne-Gap Bu-ild Beta. Do-stupné
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--313
-[]$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / b
-log / 2012 / 04 / 19 / introducing -[] windows -[]
+Underfull \hbox (badness 7433) in paragraph at lines 175--177
+\T1/lmr/m/n/12 z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/l
+mtt/m/n/12 com / 2010 / 11 / 09 / announcing -[] the -[] phonegap -[]
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 323--325
-\T1/lmr/m/n/12 Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it
-/12 :\T1/lmtt/m/n/12 com / 2011 / 10 / 03 / nitobi -[] enters -[]
+Underfull \hbox (badness 1515) in paragraph at lines 183--185
+[]\T1/lmr/m/n/12 PhoneGap | Day 1: Nitobi jo-ins Adobe. Do-stupné z: []$\T1/lmt
+t/m/n/12 http : / /
  []
 
-
-Underfull \hbox (badness 1038) in paragraph at lines 327--330
-[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap 1.0 Re-le-a-sed To-day at Pho-ne-Gap Day
-
- []
-
-
-Underfull \hbox (badness 7814) in paragraph at lines 327--330
-\T1/lmr/m/n/12 in Portland. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap
-\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2011 / 07 / 29 /
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 332--334
+[82]
+Underfull \hbox (badness 7221) in paragraph at lines 200--202
 []\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap 1.3 Re-le-a-sed. Do-stupné z: []$\T1/lmt
 t/m/n/12 http : / /
  []
 
-[107]
-Underfull \hbox (badness 2884) in paragraph at lines 336--338
-[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap 2.2.0 Re-le-a-sed. Do-stupné z: []$\T1/l
-mtt/m/n/12 http : / /
- []
 
-
-Underfull \hbox (badness 1365) in paragraph at lines 353--355
+Underfull \hbox (badness 2119) in paragraph at lines 213--215
 []\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap Bu-ild mo-ves to Open Beta. Do-stupné
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 357--359
+Underfull \hbox (badness 6157) in paragraph at lines 213--215
+\T1/lmr/m/n/12 z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/l
+mtt/m/n/12 com / 2011 / 09 / 30 / phonegap -[] build -[] moves -[] to -[]
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 217--219
 []\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap, Cor-dova, and what's in a name? Do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--379
+Underfull \hbox (badness 4595) in paragraph at lines 217--219
+\T1/lmr/m/n/12 stupné z: []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12
+ :\T1/lmtt/m/n/12 com / 2012 / 03 / 19 / phonegap -[] cordova -[]
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 221--223
+[]\T1/lmr/m/n/12 PhoneGap | Pho-ne-GApp Store Ap-pro-val. Do-stupné z: []$\T1/l
+mtt/m/n/12 http : / /
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 225--227
+\T1/lmr/m/n/12 stupné z: []$\T1/lmtt/m/n/12 http : / / stage\OML/lmm/m/it/12 :\
+T1/lmtt/m/n/12 phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2009 / 05 / 01 /
+ phonegap % E2 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--231
 []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2
 012 / 06 / 21 / questions -[] and -[] myths -[] about -[]
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 381--384
-\T1/lmr/m/n/12 ne-Gap and Why. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / phone
-gap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2012 / 04 /
+Underfull \hbox (badness 10000) in paragraph at lines 233--236
+\T1/lmtt/m/n/12 rolling -[] releases -[] how -[] apache -[] cordova -[] becomes
+ -[] phonegap -[] and -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--384
-\T1/lmtt/m/n/12 12 / rolling -[] releases -[] how -[] apache -[] cordova -[] be
-comes -[] phonegap -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--389
-\T1/lmtt/m/n/12 04 / 13 / sap -[] partnership -[] provides -[] openness -[] and
- -[] choice -[] for -[]
- []
-
-[108]
-Underfull \hbox (badness 10000) in paragraph at lines 391--393
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
 []$\T1/lmtt/m/n/12 http : / / phonegap\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / 2
-011 / 02 / 25 / support -[] subscriptions -[] now -[]
+008 / 08 / 07 / unofficial -[] announcement -[] of -[]
+ []
+
+[83]
+Underfull \hbox (badness 3930) in paragraph at lines 247--249
+[]\T1/lmr/m/n/12 A Pri-mer on Hyb-rid Apps for iOS - Co-coa Con-t-rols. Do-
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 395--397
-[]\T1/lmr/m/n/12 PhoneGap | Uno-f-fi-cial an-noun-ce-ment of Pho-ne-Gap. Do-stu
-pné
+Underfull \hbox (badness 7379) in paragraph at lines 247--249
+\T1/lmr/m/n/12 stupné z: []$\T1/lmtt/m/n/12 https : / / www\OML/lmm/m/it/12 :\T
+1/lmtt/m/n/12 cocoacontrols\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / posts / a -[
+] primer -[] on -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--401
-[]\T1/lmr/m/n/12 PhoneGap API Do-cu-men-tation. Do-stupné z: []$\T1/lmtt/m/n/12
- http : / /
+Underfull \hbox (badness 1629) in paragraph at lines 251--253
+\T1/lmr/m/n/12 z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :\T1/lmtt/m
+/n/12 technologyreview\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / news / 424328 / r
+ise -[] of -[] the -[]
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 408--410
-\T1/lmr/m/n/12 z: []$\T1/lmtt/m/n/12 https : / / www\OML/lmm/m/it/12 :\T1/lmtt/
-m/n/12 cocoacontrols\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / posts / a -[] prime
-r -[] on -[] hybrid -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 412--414
-[]\T1/lmr/m/n/12 The Right MIX. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / blog
-s\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 windows\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com
- /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 412--414
-\T1/lmtt/m/n/12 windows[]phone / b / wpdev / archive / 2010 / 03 / 15 / the -[]
- right -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--422
+Underfull \hbox (badness 10000) in paragraph at lines 255--257
 []\T1/lmr/m/n/12 RoadmapProjects - Cor-dova Wiki. Do-stupné z: []$\T1/lmtt/m/n/
 12 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--426
+Underfull \hbox (badness 10000) in paragraph at lines 259--261
 []\T1/lmr/m/n/12 Smartphone De-fi-ni-tion | Gart-ner. Do-stupné z: []$\T1/lmtt/
-m/n/12 http :
+m/n/12 http : / /
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 428--431
-[]\T1/lmr/m/n/12 Strong De-mand for Smart-pho-nes in Se-cond Quar-ter Con-ti-nu
-es
+Underfull \hbox (badness 4779) in paragraph at lines 263--265
+[]\T1/lmr/m/n/12 [Survey] Which are the best cross-platform tools? | Vi-si-on-
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 428--431
-\T1/lmr/m/n/12 to Drive the Worl-dwide Mo-bile Phone Mar-ket, Ac-cor-ding to
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 433--435
-[]\T1/lmr/m/n/12 [Survey] Which are the best cross-platform tools? | Vi-si-on-M
-o-
- []
-
-
-Underfull \hbox (badness 1655) in paragraph at lines 433--435
-\T1/lmr/m/n/12 bile. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/i
-t/12 :\T1/lmtt/m/n/12 visionmobile\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / blog 
-/ 2011 / 11 /
- []
-
-[109]
-Underfull \hbox (badness 10000) in paragraph at lines 445--447
-[]\T1/lmr/m/n/12 Transaction Fees - An-droid De-ve-lo-per Help. Do-stupné z:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 445--447
-[]$\T1/lmtt/m/n/12 https : / / support\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 google\
-OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com / googleplay / android -[] developer /
- []
-
-
-Underfull \hbox (badness 3449) in paragraph at lines 449--451
+Underfull \hbox (badness 4995) in paragraph at lines 275--277
 []\T1/lmr/m/n/12 Understanding JVM In-ter-nals | CUBRID Blog. Do-stupné z:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--451
+Underfull \hbox (badness 10000) in paragraph at lines 275--277
 []$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 cubrid\OML/l
 mm/m/it/12 :\T1/lmtt/m/n/12 org / blog / dev -[] platform / understanding -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--459
-[]\T1/lmr/m/n/12 What is a Hyb-rid Mo-bile App? Do-stupné z: []$\T1/lmtt/m/n/12
- http :
+Underfull \hbox (badness 1622) in paragraph at lines 292--294
+\T1/lmr/m/n/12 bile App - For-bes. Do-stupné z: []$\T1/lmtt/m/n/12 http : / / w
+ww\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 forbes\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 com
+ / sites /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 457--459
-\T1/lmtt/m/n/12 / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 icenium\OML/lmm/m/it/1
-2 :\T1/lmtt/m/n/12 com / community / blog / icenium -[] team -[] blog / 2012 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--467
-[]\T1/lmr/m/n/12 Windows Phone 8: Com-pile in the Cloud. Do-stupné z:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--467
-[]$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 silverlights
-how\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 net / items / Windows -[] Phone -[] 8 -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 478--480
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
 \T1/lmtt/m/n/12 quickerbettertech / 2012 / 05 / 07 / your -[] business -[] chec
 klist -[] a -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--485
+Underfull \hbox (badness 10000) in paragraph at lines 296--299
 \T1/lmtt/m/n/12 57515945 -[] 94 / ztes -[] first -[] firefox -[] os -[] devices
  -[] to -[] launch -[] in -[]
  []
 
-[110]
-Underfull \hbox (badness 10000) in paragraph at lines 487--490
-[]$\T1/lmtt/m/n/12 http : / / www\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 americandial
-ect\OML/lmm/m/it/12 :\T1/lmtt/m/n/12 org / app -[] voted -[] 2010 -[] word -[] 
-of -[]
- []
+[84]) [85] [86
 
-) [111] [112
-
-] [113] [114
+] [87] [88
 
 ]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 228.
+(hyperref)                removing `\textasciicaron' on input line 231.
 
 
 Class memoir Warning: The material used in the headers is too large
 (14.89201pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 245.
+(in both cases you will find help in the memoir manual). on input line 248.
 
-[115]
+[89]
 \tf@toc=\write5
 \openout5 = `Bakalarka.toc'.
 
@@ -2341,27 +1883,30 @@ either increase the head height or redesign the header
 \tf@lot=\write7
 \openout7 = `Bakalarka.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
  (./Bakalarka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
 Package rerunfilecheck Info: File `Bakalarka.out' has not changed.
-(rerunfilecheck)             Checksum: A6678462602A10F5FD6BC8F064383420;2505.
+(rerunfilecheck)             Checksum: 48263623E4B7EA2290DEF64D84EB7F60;2246.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
  ) 
 Here is how much of TeX's memory you used:
- 12834 strings out of 495025
- 180545 string characters out of 3180733
- 502578 words of memory out of 3000000
- 15114 multiletter control sequences out of 15000+200000
+ 12477 strings out of 495025
+ 174466 string characters out of 3180733
+ 335913 words of memory out of 3000000
+ 14987 multiletter control sequences out of 15000+200000
  68809 words of font info for 45 fonts, out of 3000000 for 9000
  24 hyphenation exceptions out of 8191
- 38i,13n,51p,1492b,2031s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,13n,51p,1492b,1314s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/s
 hare/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/publi
@@ -2372,10 +1917,10 @@ m/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf
 pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb
 >
-Output written on Bakalarka.pdf (131 pages, 1954897 bytes).
+Output written on Bakalarka.pdf (105 pages, 1041407 bytes).
 PDF statistics:
- 2015 PDF objects out of 2073 (max. 8388607)
- 1798 compressed objects within 18 object streams
- 708 named destinations out of 1000 (max. 500000)
- 445 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1454 PDF objects out of 1728 (max. 8388607)
+ 1293 compressed objects within 13 object streams
+ 493 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
 

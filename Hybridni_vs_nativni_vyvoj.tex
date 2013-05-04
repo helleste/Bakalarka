@@ -143,9 +143,32 @@ Při výběru technologie, kterou vývojář při tvorbě aplikace použije, hra
 Zatímco u první možnosti monetizace není mezi hybridními a nativními aplikacemi rozdíl, u zbývajících dvou již zjistíme, že hybridní aplikace na tomto poli zaostávají. Přestože existují pluginy pro reklamní sítě jako je AdMob či iAds, které tuto funkcionalitu přináší (PhoneGap), jsou vyvíjeny sporadicky a uživatelé si často stěžují na problémy. Stejná situace je i v případě nákupů uvnitř aplikace, kde vývojáři reportují nekompatibilitu s novými verzemi PhoneGap i s novými verzemi operačních systémů. Pokud chce vývojář na svých aplikacích vydělávat, měl by si použití hybridního přístupu důkladně promyslet a ověřit si, že pro jím podporovanou platformu existuje ověřené fungující řešení.
 
 \section{Shrnutí}
+Výše nastíněné srovnání je samozřejmě nutno brát s určitou rezervou. Vždy primárně záleží na typu aplikace, na jejím účelu a cílové skupině, pro kterou je určena. Silné stránky nativního přístupu jsou výkon, monetizace nebo rozsah funkcí, které můžete ve své aplikaci nabídnout. Naopak na hybridní přístup se můžete spolehnout ve chvíli, kdy vám při vývoji aplikace primárně záleží na ceně nebo multiplatformním záběru.
 
-\begin{figure}\centering
-\includegraphics[width=1.0\textwidth]{hybrid_native_graph.png}
-\caption{Slabiny a přednosti nativního a hybridního přístupu \cite{mobile_dev_nat_hybrid_graph}}
-\label{fig:HybridNativeGraph}
-\end{figure}
+V tabulce \ref{tab:ComparsionHybridNative} jsem se pokusil shrnout zásadní srovnávací kritéria a každý přístup v rámci nich ohodnotit. Nativní přístup dosáhl lepšího hodnocení v 5 oblastech, hybridní přístup si připsal lepší skóre ve 3 oblastech.
+\begin{table}\centering
+	\caption[Porovnání hybridního a nativního přístupu v klíčových oblastech]{Porovnání hybridního a nativního přístupu v klíčových oblastech \cite{mobile_dev_nat_hybrid_graph}} 
+	\label{tab:ComparsionHybridNative}
+		\begin{tabular}{|c|c|c|}\hline
+			Oblast	& Hybridní přístup & Nativní přístup
+			\tabularnewline \hline \hline
+					Multiplatformní záběr	& \textbf{5} & 1
+			\tabularnewline \hline
+					Bezpečnost	& 1 & \textbf{5}
+			\tabularnewline \hline
+				Distribuce aplikace & \textbf{5} & \textbf{5}
+			\tabularnewline \hline
+				Monetizace	& 1 & \textbf{5}
+			\tabularnewline \hline
+				Aktualizace & \textbf{5} & 1
+			\tabularnewline \hline
+				Cena & \textbf{5} & 1
+			\tabularnewline \hline
+				UX & 1 & \textbf{5}
+			\tabularnewline \hline
+				Výkon & 1 & \textbf{5}
+			\tabularnewline \hline
+				Rozsah funkcí & 1 & \textbf{5}
+			\tabularnewline \hline
+		\end{tabular}
+\end{table}
