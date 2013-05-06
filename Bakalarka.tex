@@ -17,6 +17,10 @@
 % \usepackage{amssymb} %additional math symbols
 
 \usepackage{dirtree} %directory tree visualisation
+\usepackage{hyperref}
+
+\urlstyle{tt} 
+\def\UrlLeft{<}\def\UrlRight{>}
 
 % % list of acronyms
 % \usepackage[acronym,nonumberlist,toc,numberedsection=autolabel]{glossaries}
@@ -62,8 +66,9 @@
 % \newacronym{CVUT}{{\v C}VUT}{{\v C}esk{\' e} vysok{\' e} u{\v c}en{\' i} technick{\' e} v Praze}
 % \newacronym{FIT}{FIT}{Fakulta informa{\v c}n{\' i}ch technologi{\' i}}
 
+% Úvod
 \begin{introduction}
-	%sem napište úvod Vaší práce
+	\input{Uvod.tex}
 \end{introduction}
 
 % Kapitola Mobilní zařízení a aplikace
@@ -90,7 +95,7 @@
 	\input{PhoneGap.tex}
 
 % Kapitola Hybridní vs. nativní vývoj
-\chapter{Hybridní vs. nativní vývoj}
+\chapter{Hybridní vs. nativní vývoj} \label{Chap:HybridvsNative}
 	\input{Hybridni_vs_nativni_vyvoj.tex}
 
 % Kapitola Demo aplikace

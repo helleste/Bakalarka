@@ -13,30 +13,6 @@ Warning--to sort, need author or key in visionmobile_survey
 Warning--to sort, need author or key in architecture_titanium
 Warning--to sort, need author or key in javascript_for_native_widgets
 Warning--to sort, need author or key in job_indeed
-Warning--to sort, need author or key in mobile_dev_nat_hybrid_graph
-Warning--to sort, need author or key in gartner_smartphone_definition
-Warning--to sort, need author or key in simon
-Warning--to sort, need author or key in history_of_the_smartphone
-Warning--to sort, need author or key in apple_unveils_iPhone
-Warning--to sort, need author or key in introduction_ios_development
-Warning--to sort, need author or key in xamarin_monotouch
-Warning--to sort, need author or key in distribute_ios_app
-Warning--to sort, need author or key in google_buys_android
-Warning--to sort, need author or key in android_announce
-Warning--to sort, need author or key in android_overview
-Warning--to sort, need author or key in tiobe_software
-Warning--to sort, need author or key in understanding_jvm_internals
-Warning--to sort, need author or key in ms_announce_wp
-Warning--to sort, need author or key in ms_unveils_wp8
-Warning--to sort, need author or key in booting_to_the_web
-Warning--to sort, need author or key in ztes_first_firefoxos
-Warning--to sort, need author or key in faqs_mozilla
-Warning--to sort, need author or key in apps_architecture
-Warning--to sort, need author or key in announcing_fxOS_simulator
-Warning--to sort, need author or key in mobile_app_usage_statistics
-Warning--to sort, need author or key in comscore_report_may
-Warning--to sort, need author or key in app_store_metrics
-Warning--to sort, need author or key in forbes_business_checklist
 Warning--to sort, need author or key in why_html5_java
 Warning--to sort, need author or key in thoughts_on_flash
 Warning--to sort, need author or key in building_apps_titanium
@@ -75,45 +51,46 @@ Warning--to sort, need author or key in phonegap_champion
 Warning--to sort, need author or key in phonegap_best_mobile_dev_tool
 Warning--to sort, need author or key in phonegap_bbc_olympics_app
 Warning--to sort, need author or key in phonegap_fruit_salad
-You've used 71 entries,
+Warning--to sort, need author or key in mobile_dev_nat_hybrid_graph
+You've used 46 entries,
             3151 wiz_defined-function locations,
-            876 strings with 16821 characters,
-and the built_in function-call counts, 15354 in all, are:
-= -- 883
-> -- 77
+            793 strings with 12757 characters,
+and the built_in function-call counts, 9916 in all, are:
+= -- 570
+> -- 46
 < -- 0
-+ -- 75
-- -- 2
-* -- 584
-:= -- 1126
-add.period$ -- 74
-call.type$ -- 71
-change.case$ -- 148
++ -- 47
+- -- 0
+* -- 375
+:= -- 720
+add.period$ -- 48
+call.type$ -- 46
+change.case$ -- 95
 chr.to.int$ -- 0
-cite$ -- 137
-duplicate$ -- 1666
-empty$ -- 2133
-format.name$ -- 2
-if$ -- 3517
+cite$ -- 89
+duplicate$ -- 1075
+empty$ -- 1383
+format.name$ -- 0
+if$ -- 2275
 int.to.chr$ -- 0
-int.to.str$ -- 71
-missing$ -- 362
-newline$ -- 290
-num.names$ -- 2
-pop$ -- 1268
+int.to.str$ -- 46
+missing$ -- 233
+newline$ -- 191
+num.names$ -- 0
+pop$ -- 823
 preamble$ -- 1
-purify$ -- 147
+purify$ -- 95
 quote$ -- 0
-skip$ -- 969
+skip$ -- 629
 stack$ -- 0
-substring$ -- 361
-swap$ -- 521
+substring$ -- 234
+swap$ -- 333
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 284
-warning$ -- 66
-while$ -- 2
-width$ -- 73
-write$ -- 442
-(There were 66 warnings)
+type$ -- 184
+warning$ -- 43
+while$ -- 0
+width$ -- 48
+write$ -- 287
+(There were 43 warnings)

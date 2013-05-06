@@ -3,9 +3,10 @@ Jak již bylo v textu této práce několikrát zmíněno, PhoneGap je v součas
 
 PhoneGap umožňuje vývojářům využívat při tvorbě mobilních aplikací webové technologie HTML5, CSS3 a JavaScript a zároveň jim prostřednictvím vlastního javascriptového API poskytuje možnost komunikace s operačním systémem a využití jeho nativních součástí, jako je například fotoaparát, akcelerometr nebo například výběr ze seznamu kontaktů. To vše multiplatformně.
 
-V rámci této kapitoly již nebudu zabíhat do technických detailů vlastního fungování frameworku PhoneGap. Tuto oblast jsem již dostatečně pokryl v předchozí kapitole \ref{Chap:HybridniFrameworky}.
+V rámci této kapitoly již nebudu zabíhat do technických detailů vlastního fungování frameworku PhoneGap. Tuto oblast jsem již dostatečně pokryl v předchozí kapitole \ref{Chap:HybridniFrameworky}.\\ \\
 
-„The ultimate purpose of PhoneGap is to cease to exist.“ \cite{how_cordova_becomes_phonegap}
+\textit{\uv{Konečným cílem PhoneGap je, aby PhoneGap již nemusel existovat.} \cite{how_cordova_becomes_phonegap}}
+\footnote{„The ultimate purpose of PhoneGap is to cease to exist.“ \cite{how_cordova_becomes_phonegap}} \\
 
 Skupina vývojářů stojící za PhoneGap uvádí, že za jejich prací stojí následující dvě kréda:
 
@@ -36,7 +37,8 @@ Apache Cordova je jádro frameworku spravované Apache Software Foundation (ASF)
 PhoneGap není jedinou distribucí Apache Cordova, ve skutečnosti jí dnes implementuje do svých nástrojů mnoho firem, jako je například Salesforce nebo Facebook \cite{cordova_name}. Na vývoji Apache Cordova se nepodílí jen vývojáři PhoneGap, ale také mnoho dalších firem jako je například IBM či Microsoft.
 
 \section{Historie}
-„We went down with one goal in mind and that was to make native iPhone features available to web apps.“ \cite{phonegap_announcement}
+\textit{\uv{Měli jsme v hlavě jen jeden cíl. Umožnit webovým aplikacím využívat nativní funkce iPhone.}\cite{phonegap_announcement}}
+\footnote{„We went down with one goal in mind and that was to make native iPhone features available to web apps.“ \cite{phonegap_announcement}} \\
 
 Pojďme se stručně seznámit s historií PhoneGap a změnami, které vedly k frameworku, jak jej známe dnes. PhoneGap vznikl v roce 2008 na vývojářské akci iPhoneDevCamp, kde vývojáři firmy Nitobi přišli s nápadem, kterak umožnit vývojářům webových aplikací pro systém iOS (tehdy ještě iPhone OS) využívat některé oblíbené nativní funkce přístroje iPhone. V soutěži na iPhoneDevCamp sice PhoneGap neuspěl, to však firmu Nitobi nezastavilo v dalším rozvíjení svého nápadu.
 
@@ -56,11 +58,11 @@ Prvním velkým milníkem pro PhoneGap bylo vydání verze 1.0.0, ke kterému do
 
 V září 2011 se PhoneGap Build přesouvá do veřejné betaverze a zároveň byly zveřejněny cenové plány pro jeho použití. Ty se pohybovali od \$0 pro vývoj open-source aplikací po \$900 ročně pro vývoj komerčních aplikací s uzavřeným kódem. \cite{phonegap_build_open_beta}
 
-3. září 2011 Nitobi na svém blogu oznámilo, že uzavřelo dohodu o svém převzetí firmou Adobe \cite{nitobi_adobe1}.
+3. září 2011 Nitobi na svém blogu oznámilo, že uzavřelo dohodu o svém převzetí firmou Adobe \cite{nitobi_adobe1}. \\
 
-“PhoneGap has proven to be an industry-defining app solution for HTML5 developers,” said Danny Winokur, vice president and general manager, Platform, Adobe \cite{nitobi_adobe1}.
-
-"It’s a perfect complement to Adobe’s broad family of developer solutions, including Adobe AIR, and will allow us to continue to provide content publishers and developers with the best, cutting-edge solutions for creating innovative applications across platforms and devices.” \cite{nitobi_adobe1}
+\textit{\uv{PhoneGap je perfektním doplněním široké palety nástrojů pro vývojáře od společnosti Adobe (včetně Adobe AIR) a dovolí nám nadále poskytovat vývojářům ta nejlepší a nejmodernější řešení pro vytváření inovativních aplikací napříč platformami a zařízeními.}} \cite{nitobi_adobe1}
+\footnote{"It’s a perfect complement to Adobe’s broad family of developer solutions, including Adobe AIR, and will allow us to continue to provide content publishers and developers with the best, cutting-edge solutions for creating innovative applications across platforms and devices.” Danny Winokur, vice president and general manager, Plat-
+form, Adobe \cite{nitobi_adobe1}}\\
 
 V rámci tohoto převzetí Nitobi oznámilo, že věnuje zdrojové kódy frameworku PhoneGap organizaci Apache Software Foundation (ASF) pod názvem Apache Callback, který byl později změněn na Apache Cordova \cite{nitobi_adobe2} + \cite{phonegap_13_released}. 
 
@@ -100,7 +102,7 @@ Díky cloudovému nástroji PhoneGap Build (podrobněji si ho popíšeme níže 
 Pokud vývojář není závislý na SDK konkrétní platformy, může pro vývoj použít prakticky libovolný nástroj. Může zůstat u mohutného IDE, jako je např. Eclipse nebo využít svůj oblíbený textový editor (TextMate, gedit, Sublime Text apod.).
 
 \subsection{Rozšíření}
-Pokud vyvíjíme pro konkrétní platformu nebo chceme jen přidat některé specifické funkce, které PhoneGap nativně nenabízí, můžeme sáhnout do poměrně bohaté sbírky rozšíření, která vznikla v rámci komunity, ale je oficiálně spravována projektem PhoneGap na adrese https://github.com/purplecabbage/phonegap-plugins. % TODO vylepšit URL
+Pokud vyvíjíme pro konkrétní platformu nebo chceme jen přidat některé specifické funkce, které PhoneGap nativně nenabízí, můžeme sáhnout do poměrně bohaté sbírky rozšíření, která vznikla v rámci komunity, ale je oficiálně spravována projektem PhoneGap na adrese \url{https://github.com/purplecabbage/phonegap-plugins}. % TODO vylepšit URL
 
 Najdeme tu bohatou sbírku pluginů, které pokrývají širokou škálu funkcí. Můžeme si některé z nich uvést:
 
@@ -140,22 +142,22 @@ Výhodou použití RMEE je, že dává vývojáři k dispozici krom samotného e
 
 Je jasné, že RMEE nenahradí testování v klasickém emulátoru či dokonce na fyzickém zařízení, neboť zdaleka nedokáže emulovat veškerá specifika hostitelských operačních systémů, ale stále je poměrně vhodným nástrojem pro rychlé testování aplikace zvláště v rané fázi vývoje.
 
-RMEE je dostupný z adresy http://emulate.phonegap.com
+RMEE je dostupný z adresy \url{http://emulate.phonegap.com}
 
 \paragraph{Web Inspector Remote}
-Web Inspector Remote neboli Weinre je ladící nástroj trochu jiného druhu. Nezabývá se emulací běhu aplikace, ale funguje jako vzdálený ladící nástroj. Jeho použití je poměrně jednoduché. Do kódu své aplikace vložíte skript umístěný na vzdáleném serveru (http://debug.phonegap.com) s unikátním označením své aplikace.
+Web Inspector Remote neboli Weinre je ladící nástroj trochu jiného druhu. Nezabývá se emulací běhu aplikace, ale funguje jako vzdálený ladící nástroj. Jeho použití je poměrně jednoduché. Do kódu své aplikace vložíte skript umístěný na vzdáleném serveru (\url{http://debug.phonegap.com}) s unikátním označením své aplikace.
 
 \begin{lstlisting}[language=HTML,breaklines=true]
 <script src="http://debug.phonegap.com/target/target-script-min.js#myapp"></script>
 \end{lstlisting}
 
-Samotné debugování probíhá v prohlížeči, do kterého vývojář zadá adresu serveru s identifikátorem laděné aplikace http://debug.phonegap.com/client/\#myapp. Vývojáři je k dispozici javascriptová konzole a další nástroje pro ladění webových aplikací.
+Samotné debugování probíhá v prohlížeči, do kterého vývojář zadá adresu serveru s identifikátorem laděné aplikace \url{http://debug.phonegap.com/client/\#myapp}. Vývojáři je k dispozici javascriptová konzole a další nástroje pro ladění webových aplikací.
 
 \subsection{Sestavení a publikace}
 Pokud již máme aplikaci vytvořenou a důkladně otestovanou, je na řadě její sestavení a případná publikace například na oficiálním tržišti s aplikacemi. Za účelem sestavení aplikace nám PhoneGap umožňuje jít dvěma cestami. První z nich je sestavení nativního instalačního balíčku s využitím SDK konkrétní platformy vhodný k odeslání na tržiště. Toto je klasická cesta a je vhodná, pokud cílíme pouze na jednu platformu. Problém nastává, pokud chceme vytvořit balíčky pro více platforem najednou. Jak jsem již zmínil výše, v takovém případě jsme nuceni stáhnout SDK každé jednotlivé platformy, náš projekt upravit a poté s pomocí SDK vytvořit nativní binárku. Že toto není dobrý způsob, si uvědomovali i tvůrci frameworku PhoneGap a proto již v počátku ve svých úvahách počítali s cloudovým nástrojem, který sestavování aplikací značně usnadní.
 
 \subsubsection{PhoneGap Build} \label{Sec:PhoneGapBuild}
-PhoneGap Build je nástroj dostupný z adresy http://build.phonegap.com. Umožňuje nám z jednoho místa a z jednoho zdrojového kódu vytvořit v jednom čase instalační balíčky pro platformy iOS, Android, Windows Phone, BlackBerry, webOS a Symbian.
+PhoneGap Build je nástroj dostupný z adresy \url{http://build.phonegap.com}. Umožňuje nám z jednoho místa a z jednoho zdrojového kódu vytvořit v jednom čase instalační balíčky pro platformy iOS, Android, Windows Phone, BlackBerry, webOS a Symbian.
 
 Pojďme si v krátkosti popsat jak celý systém funguje. Vývojář je na začátku vyzván k propojení PhoneGap Build se svým účtem na Githubu, na němž má ve veřejném repozitáři umístěny zdrojové kódy své aplikace. Poté se dostane do ovládacího panelu, kde vybere z nabídky správný repozitář, ve kterém se PhoneGap Build pokusí najít soubor index.html. Jakmile se mu to podaří, nabídne vývojáři možnost si vygenerovat instalační balíčky pro jednotlivé platformy pomocí jednoho kliknutí. Vyhotovení balíčků trvá několik vteřin a poté jsou uživateli k dispozici ke stažení.
 
@@ -165,245 +167,53 @@ Hlavním důvodem, proč vývojáři sahají po použití frameworku PhoneGap, j
 \subsection{Accelerometer}
 Akcelerometr se používá ke zjištění orientace daného přístroje. Hojně je využíván například v hrách, kde hráč ovládá hru pomocí naklopení telefonu.
 
-\subsubsection{Metody}
-\paragraph{accelerometer.getCurrentAcceleration}
-Metoda vrací údaje o orientaci telefonu pomocí trojice čísel x, y a z. Každé číslo reprezentuje změnu orientace kolem jedné osy.
-
-\paragraph{accelerometer.watchAcceleration}
-Metoda umožňující neustálé sledování změn orientace v pravidelném intervalu.
-
-\paragraph{accelerometer.clearWatch}
+Tento objekt obsahuje sadu metod, které umožňují vrátit současnou polohu přístroje pomocí trojice souřadnic x, y a z. Je také možné nastavit sledování změn polohy v zadaném intervalu.
 Umožňuje zrušit sledování změn vyvolané předchozí metodou.
 
 \subsection{Camera}
-Sada funkcí umožňující přistupovat k fotoaparátu daného zařízení.
-
-\subsubsection{Metody}
-\paragraph{camera.getPicture}
-Umožňuje pořízení fotografie z daného zdroje. Zdroj je specifikován ve volání této funkce, může se jednat buď o pořízení nového snímku nebo o vybrání již pořízeného snímku z fotoalba. Fotografie je vrácena buď jako URI nebo jako String zakódovaný v base64.
-
-\paragraph{camera.cleanUp}
-Smaže dočasně uložené fotografie pořízené předchozí funkcí.
+Sada funkcí sloužící pro přístup k fotoaparátu mobilního zařízení. Umožňuje pořízení fotografie z daného zdroje. Zdroj je specifikován ve volání funkce getPicture, může se jednat buď o pořízení nového snímku nebo o vybrání již pořízeného snímku z fotoalba. Fotografie je vrácena buď jako URI nebo jako String zakódovaný v base64.
 
 \subsection{Capture}
-API umožňující zachycení videa, audia či fotografie.
-
-\subsubsection{Metody}
-\paragraph{capture.captureAudio}
-Spustí výchozí aplikaci pro pořízení zvukové nahrávky a vrátí informace o pořízených záznamech (URI).
-
-\paragraph{capture.captureImage}
-Spustí aplikaci pro pořizování obrázků a vrátí informaci o zhotovené fotografii nebo fotografiích.
-
-\paragraph{capture.captureVideo}
-Spustí aplikaci pro snímání videa a vrátí informace o pořízeném klipu či klipech.
-
-\paragraph{mediaFile.getFormatData}
-Vrátí informace o formátu média.
+API umožňující zachycení videa, audia či fotografie. Funguje tak, že otevře výchozí aplikaci pro pořízení daného média a vrátí zpět informace o pořízených záznamech jako URI.
 
 \subsection{Compass}
-Sada metod umožňující rozpoznat, jakým směrem je zařízení namířeno.
-
-\subsubsection{Metody}
-\paragraph{compass.getCurrentHeading}
-Vrátí aktuální orientaci zařízení vzhledem k světovým stranám ve stupních od 0 do 359,99.
-
-\paragraph{compass.watchHeading}
-Snímá údaje o orientaci přístroje v pravidelném intervalu.
-
-\paragraph{compass.clearWatch}
-Zruší sledování orientace zahájené voláním předchozí metody.
+Sada metod umožňující rozpoznat, jakým směrem je zařízení namířeno. Zavoláním funkce getCurrentHeading získáme informace o aktuální orientaci zařízeni vzhledem ke světovým stranám ve stupních od 0 do 359,99. Údaje o orientaci přístroje můžeme také snímat v pravidelném intervalu pomocí funkce watchHeading.
 
 \subsection{Connection}
 Connection je objekt, který uchovává informace o připojení daného zařízení. Umožňuje vývojáři rychle zjistit, zda je telefon připojen k WiFi, 3G či kabelovému připojení, ale také dokáže ověřit, že přístroj není k internetu připojen vůbec.
 
 \subsection{Contacts}
-Metodami tohoto objektu může vývojář přistupovat k nativní databázi kontaktů v daném mobilním zařízení.
-
-\subsubsection{Metody}
-\paragraph{contacts.create}
-Vytvoří nový objekt Contact, který poté může být uložen do nativní databáze kontaktů pomocí metody Contact.save.
-
-\paragraph{contacts.find}
-Vrátí kontakt nebo kontakty z nativní databáze dle zadaných kritérií.
+Metodami tohoto objektu může vývojář přistupovat k nativní databázi kontaktů v daném mobilním zařízení. Kontakt je možno v databázi buď vyhledat či vytvořit zcela nový pomocí funkce create.
 
 \subsection{Device}
-V objektu Device vývojář nalezne důležité informace o hardware a software daného zařízení.
-
-\subsubsection{Vlastnosti}
-\paragraph{device.model}
-Tato vlastnost obsahuje název zařízení.
-
-\paragraph{device.cordova}
-V této vlastnosti nalezneme informace o aktuálně použité verzi PhoneGap (Apache Cordova).
-
-\paragraph{device.platform}
-Obsahuje informace o platformě, kterou uživatel používá. Například „Android“.
-
-\paragraph{device.uuid}
-Obsahem této vlastnosti je UUID identifikátor daného zařízení.
-
-\paragraph{device.version}
-Vlastnost uchovávající informace o verzi operačního systému.
+V objektu Device vývojář nalezne důležité informace o hardware a software daného zařízení. Obsahuje informace o názvu zařízení, aktuálně používané verzi PhoneGap, operačním systému a jeho verzi a také UUID identifikátor daného přístroje.
 
 \subsection{Events}
-Události ze životního cyklu aplikace.
-
-\subsubsection{Události}
-\paragraph{deviceready}
-Událost signalizující, že PhoneGap (Apache Cordova) je načtena a plně připravena k použití.
-
-\paragraph{pause}
-Tato událost nastane, když je aplikace přepnuta do pozadí.
-
-\paragraph{resume}
-Naopak když uživatel přepne aplikaci z pozadí do popředí, nastane událost resume.
-
-\paragraph{online}
-Pokud je zařízení připojeno k internetu, dozvíme se o tom pomocí události online.
-
-\paragraph{offline}
-Inverzní událost k té předchozí.
-
-\paragraph{backbutton}
-Pokud je zařízení vybaveno zpětným tlačítkem, tak při jeho stisknutí uživatelem nastane událost backbutton.
-
-\paragraph{batterycritical}
-Událost signalizující kriticky nízkou úroveň nabití baterie.
-
-\paragraph{batterylow}
-Událost signalizující nízkou úroveň nabití baterie.
-
-\paragraph{batterystatus}
-Pokud nastane změna v úrovni nabití baterie, můžeme se o tom dozvědět prostřednictvím události batterystatus.
-
-\paragraph{menubutton}
-Pokud je zařízení vybaveno tlačítkem umožňujícím návrat do hlavní nabídky, jeho stisknutí zaznamená událost menubutton.
-
-\paragraph{searchbutton}
-Tato událost je podporována jen na zařízeních s platformou Android. Zaznamenává stisknutí vyhledávacího tlačítka.
-
-\paragraph{startcallbutton}
-Událost signalizující stisknutí tlačítka pro zahájení hovoru.
-
-\paragraph{endcallbutton}
-Opačná událost k předchozí. Signalizuje stisknutí tlačítka na ukončení hovoru.
-
-\paragraph{volumedownbutton a volumeupbutton}
-Dojde li ke stisknutí tlačítek ovládání hlasitosti, dozvíme se o tom pomocí událostí volumedownbutton nebo volumeupbutton.
+V aplikaci často potřebujeme reagovat na události vyvolané přímo uživatelem nebo operačním systémem. PhoneGap nám to umožňuje pomocí sady předdefinovaných událostí. Vývojář může reagovat například na stisknutí tlačítka zpět, ztišení nebo zvýšení hlasitosti, přepnutí aplikace do pozadí a mnoho dalšího. V rámci tohoto API můžeme také rozpoznat, zda-li je zařízení připojeno k internetu nebo jaký je stav baterie v přístroji.
 
 \subsection{File}
-Sada objektů implementujících W3C specifikaci API pro zápis, čtení a navigaci v nativním filesystému.
-
-\subsubsection{Objekty (výběr důležitých)}
-\paragraph{File}
-Objekt obsahující vlastnosti souboru (jméno, adresu apod.).
-
-\paragraph{FileReader}
-Objekt umožňující vývojáři čtení souboru.
-
-\paragraph{FileWriter}
-Objekt umožňující vývojáři zápis do souboru.
-
-\paragraph{FileSystem}
-Objekt reprezentující nativní filesystém.
-
-\paragraph{FileEntry}
-Objekt reprezentující soubor v nativním filesystému. Obsahuje mnoho důležitých metod, jako je například kopírování z místa na místo, mazání souboru apod.
-
-\paragraph{DirectoryEntry}
-Objekt reprezentující složku v nativním filesystému. Tento objekt je velmi podobný předcházejícímu FileEntry.
+Sada objektů implementujících W3C specifikaci API pro zápis, čtení a navigaci v nativním filesystému. Soubory či složky můžeme vytvářet, procházet, kopírovat, mazat apod.
 
 \subsection{Geolocation}
-API umožňující přístup k informacím o zeměpisné délce a šířce daného zařízení. Tyto informace mohou pocházet buď z GPS modulu nebo z jiných zdrojů jako například IP adresa či GSM připojení.
-
-\subsubsection{Metody}
-\paragraph{geolocation.getCurrentPosition}
-Tato metoda vrátí informace o poloze zařízení uložené v objektu Position.
-
-\paragraph{geolocation.watchPosition}
-Metoda umožňující sledovat informace o změnách polohy daného zařízení.
-
-\paragraph{geolocation.clearWatch}
-Zruší sledování polohy vytvořené předchozí metodou.
+API umožňující přístup k informacím o zeměpisné délce a šířce daného zařízení. Tyto informace mohou pocházet buď z GPS modulu nebo z jiných zdrojů jako například IP adresa či GSM připojení. Informace o poloze můžeme získat buď jednorázově či je snímat v pravidelném intervalu, což se může hodit například pro turistické či fitness aplikace.
 
 \subsection{Globalization}
 Objekt globalization obsahuje informaci o preferovaném jazyce, nastavené časové zóně a podobně.
 
-\subsubsection{Metody (výběr důležitých)}
-\paragraph{globalization.getPreferredLanguage}
-Metoda vracející informaci o systémově nastaveném jazyce.
-
-\paragraph{globalization.getDatePattern}
-Vrátí formát data preferovaný uživatelem.
-
 \subsection{InAppBrowser}
-Internetový prohlížeč, který se otevře v rámci aplikace po zavolání metody window.open.
-
-\subsubsection{Metody}
-\paragraph{addEventListener}
-Naslouchá událostem z otevřeného prohlížeče (například loadstop, signalizující dokončení načítání URL).
-
-\paragraph{removeEventListener}
-Odstraní naslouchání vytvořené předchozí funkcí.
-
-\paragraph{close}
-Zavře okno otevřeného prohlížeče.
+Internetový prohlížeč, který se otevře v rámci aplikace po zavolání metody window.open. API nám umožňuje naslouchat událostem ze synovského prohlížeče a regovat na ně.
 
 \subsection{Media}
-Pomocí objektu Media může vývojář zajistit nahrávání a přehrávání audio souboru.
-
-\subsubsection{Metody}
-\paragraph{media.getCurrentPosition}
-Vrátí aktuální pozici v právě přehrávaném zvukovém souboru.
-
-\paragraph{media.getDuration}
-Vrátí délku trvání audio souboru.
-
-\paragraph{media.play, media.stop a media.pause}
-Spuštění, zastavení nebo pozastavení přehrávání souboru.
-
-\paragraph{media.release}
-Uvolní prostředky alokované operačním systémem zajišťující operaci se zvukovým souborem.
-
-\paragraph{media.seekTo}
-Přemístí pozici v audio souboru.
-
-\paragraph{media.startRecord, media.stopRecord}
-Spustí nebo zastaví nahrávání audio souboru.
+Pomocí objektu Media může vývojář zajistit nahrávání a přehrávání audio souboru. Objekt obsahuje rozmanité funkce, můžeme například získat aktuální pozici v právě přehrávaném souboru, zjistit jeho délku, posunout se v něm apod. Nechybí ani standardní metody pro spuštění nebo zastavení přehrávání či nahrávání.
 
 \subsection{Notification}
-Umožňuje upozornit uživatele pomocí různých druhů notifikací.
-
-\subsubsection{Metody}
-\paragraph{notification.alert}
-Zobrazí customizovaný alert box nebo dialog se zadaným textem.
-
-\paragraph{notification.confirm}
-Zobrazí customizovaný potvrzovací dialog.
-
-\paragraph{notification.beep}
-Krátké pípnutí.
-
-\paragraph{notification.vibrate}
-Upozorní uživatele vibrací specifikované délky.
+Umožňuje upozornit uživatele pomocí různých druhů notifikací. Příkladem upozornění může být vibrace, alert box nebo pípnutí.
 
 \subsection{Splashscreen}
 Pomocí tohoto API může vývojář ovlivnit zobrazování splashscreenu při startu aplikace.
 
-\subsubsection{Metody}
-\paragraph{splashscreen.show}
-Zobrazí aplikační splashscreen.
-
-\paragraph{splashscreen.hide}
-Skryje splashscreen.
-
 \subsection{Storage}
-API založené na W3C specifikaci umožňující ukládání dat do lokální databáze.
-
-\subsubsection{Metody}
-\paragraph{openDatabase}
-Vytvoří nový objekt Database, nad kterým můžeme provádět transakce pomocí metody executeSql objektu SQL Transaction.
+API založené na W3C specifikaci umožňující ukládání dat do lokální databáze. Metoda openDatabase vytvoří nový objekt Database, nad kterým můžeme provádět transakce pomocí metody executeSql objektu SQL Transaction.
 
 \subsection{Tabulka podpory API volání v rámci platforem}
 Jednotlivá API volání bohužel nejsou podporována konzistentně napříč platformami. V následující tabulce najdete přehled podpory jednotlivých volání napříč mobilními platformami.
@@ -434,7 +244,8 @@ BBC Olympics byla dostupná na třech platformách – iOS, Android a Blackberry
 \subsection{Fruit Salad}
 Fruit Salad je hra, kde se hráč snaží skládat pod sebe stejné druhy ovoce a získávat za to body. Tato hra vytvořená pomocí HTML5 je dostupná pro platformu Android.
 
-“PhoneGap Build is a great tool for web developers who want to give App Store visibility to their HTML apps” said Fruit Salad creator, Baptiste Brunet. \cite{phonegap_fruit_salad}
+\textit{\uv{PhoneGap Build je skvělý nástroj pro webové vývojáře, kteří chtějí zveřejnit své HTML aplikace na App Store.}} \cite{phonegap_fruit_salad}
+\footnote{“PhoneGap Build is a great tool for web developers who want to give App Store visibility to their HTML apps” said Fruit Salad creator, Baptiste Brunet. \cite{phonegap_fruit_salad}} \\
 
 % \begin{figure}\centering
 % \includegraphics[width=0.4\textwidth]{fruitsalad.jpg}

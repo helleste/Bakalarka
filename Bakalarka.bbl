@@ -8,99 +8,38 @@
 \providecommand{\selectlanguage}[1]{\relax}
 \providecommand{\eprint}[2][]{\biburl{#2}}
 
-\bibitem{app_store_metrics}
-{148Apps.biz} {\textbar} Apple {iTunes} App Store Metrics, Statistics and
-  Numbers for {iPhone} Apps.
-\urlprefix\biburl{http://148apps.biz/app-store-metrics/}
-
-\bibitem{android_overview}
-Android Overview {\textbar} Open Handset Alliance.
-\urlprefix\biburl{http://www.openhandsetalliance.com/android_overview.html}
-
-\bibitem{announcing_fxOS_simulator}
-Announcing the prototype Firefox {OS} Simulator Mozilla Hacks – the Web
-  developer blog.
-\urlprefix\biburl{https://hacks.mozilla.org/2012/11/announcing-the-prototype-firefox-os-simulator/}
-
 \bibitem{appcelerator_vs_phonegap}
 Appcelerator Titanium vs. Phonegap: Which is the better Mobile Development
   Platform? {\textbar} Mobile Zone.
 \urlprefix\biburl{http://mobile.dzone.com/news/appcelerator-titanium-vs}
 
-\bibitem{apple_unveils_iPhone}
-Apple unveils {iPhone} {\textbar} Macworld.
-\urlprefix\biburl{http://www.macworld.com/article/1054769/iphone.html}
-
-\bibitem{apps_architecture}
-Apps architecture - Apps {\textbar} {MDN}.
-\urlprefix\biburl{https://developer.mozilla.org/en-US/docs/Apps/Architecture?redirectlocale=en-US&redirectslug=Apps\%2FApps_architecture}
-
 \bibitem{architecture_titanium}
 Architecture Diagrams · {TideSDK/TideSDK} Wiki.
 \urlprefix\biburl{https://github.com/TideSDK/TideSDK/wiki/Architecture-Diagrams}
-
-\bibitem{simon}
-Before {IPhone} and Android Came Simon, the First Smartphone - Businessweek.
-\urlprefix\biburl{http://www.businessweek.com/articles/2012-06-29/before-iphone-and-android-came-simon-the-first-smartphone\#p2}
 
 \bibitem{bii_hybrid_apps_report}
 {BII} {REPORT:} How Hybrid Apps Are Accelerating {HTML5} Adoption - Business
   Insider.
 \urlprefix\biburl{http://www.businessinsider.com/bii-report-how-hybrid-apps-are-accelerating-html5-adoption-2012-11}
 
-\bibitem{booting_to_the_web}
-Booting to the Web – Skupiny Google.
-\urlprefix\biburl{https://groups.google.com/forum/?fromgroups=\#!topic/mozilla.dev.platform/dmip1GpD5II\%5B1-25-false\%5D}
-
 \bibitem{building_apps_titanium}
 Building Mobile Applications with Titanium - Documentation \& Guides -
   Appcelerator Wiki.
 \urlprefix\biburl{https://wiki.appcelerator.org/display/guides/Building+Mobile+Applications+with+Titanium}
-
-\bibitem{comscore_report_may}
-{comScore} Reports May 2012 {U.S.} Mobile Subscriber Market Share - {comScore},
-  Inc.
-\urlprefix\biburl{http://www.comscore.com/Insights/Press_Releases/2012/7/comScore_Reports_May_2012_U.S._Mobile_Subscriber_Market_Share}
 
 \bibitem{dissecting_phonegap_architecture}
 Dissecting Phonegap's architecture - Agiliq Blog {\textbar} Django web app
   development.
 \urlprefix\biburl{http://agiliq.com/blog/2012/09/dissecting-phonegaps-architecture/}
 
-\bibitem{distribute_ios_app}
-Distribute your App - {iOS} Developer Program - Apple Developer.
-\urlprefix\biburl{https://developer.apple.com/programs/ios/distribute.html}
-
-\bibitem{faqs_mozilla}
-{FAQs} about apps - Apps {\textbar} {MDN}.
-\urlprefix\biburl{https://developer.mozilla.org/en-US/docs/Apps/FAQs/About_apps}
-
 \bibitem{gartner_says_50}
 Gartner Says by 2016, More Than 50 Percent of Mobile Apps Deployed Will be
   Hybrid.
 \urlprefix\biburl{http://www.gartner.com/newsroom/id/2324917}
 
-\bibitem{google_buys_android}
-Google Buys Android for Its Mobile Arsenal - Businessweek.
-\urlprefix\biburl{http://www.businessweek.com/stories/2005-08-16/google-buys-android-for-its-mobile-arsenal}
-
-\bibitem{history_of_the_smartphone}
-The History of the Smartphone - The Next Web.
-\urlprefix\biburl{http://thenextweb.com/mobile/2011/12/06/the-history-of-the-smartphone/}
-
-\bibitem{android_announce}
-Industry Leaders Announce Open Platform for Mobile Devices {\textbar} Open
-  Handset Alliance.
-\urlprefix\biburl{http://www.openhandsetalliance.com/press_110507.html}
-
 \bibitem{infoworld_technology_of_2012}
 {InfoWorld's} 2012 Technology of the Year Award winners - {InfoWorld}.
 \urlprefix\biburl{http://www.infoworld.com/slideshow/24605/infoworlds-2012-technology-of-the-year-award-winners-183313\#slide2}
-
-\bibitem{introduction_ios_development}
-Introduction to {iOS} Development: An Overview of Objective-C {\textbar}
-  {TechnoBuffalo}.
-\urlprefix\biburl{http://www.technobuffalo.com/2011/03/27/introduction-to-ios-development-an-overview-of-objective-c/}
 
 \bibitem{ios_for_html5_developer}
 {iPhone} 5 and {iOS} 6 for {HTML5} developers, a big step forward: web
@@ -120,14 +59,6 @@ Job Search {\textbar} one search. all jobs. Indeed.com. http://www.indeed.com/.
 Key Features {\textbar} Appcelerator Cloud Services.
 \urlprefix\biburl{http://www.appcelerator.com/cloud/key-features/}
 
-\bibitem{ms_unveils_wp8}
-Microsoft Unveils Windows Phone 8.
-\urlprefix\biburl{http://www.microsoft.com/en-us/news/press/2012/oct12/10-29windowsphone8pr.aspx}
-
-\bibitem{mobile_app_usage_statistics}
-Mobile App Usage Statistics 2012 [Infographic] {\textbar} {AnsonAlex}.
-\urlprefix\biburl{http://ansonalex.com/infographics/mobile-app-usage-statistics-2012-infographic/}
-
 \bibitem{marmalade}
 Mobile Applications Development, {iPhone} \& Android App Development {\textbar}
   Marmalade.
@@ -137,11 +68,6 @@ Mobile Applications Development, {iPhone} \& Android App Development {\textbar}
 Mobile Development: Web App vs. Native App {PART} 2 - Hybrid Approach.
   {http://www.itexico.com/blog/bid/92633/Mobile-Development-Web-App-vs-Native-App-PART-2-Hybrid-Approach}.
 \urlprefix\biburl{http://www.itexico.com/blog/bid/92633/Mobile-Development-Web-App-vs-Native-App-PART-2-Hybrid-Approach}
-
-\bibitem{ms_announce_wp}
-{MWC} 2010: Microsoft announces Windows Phone 7 Series with Xbox and Zune
-  integration {\textbar} {ZDNet}.
-\urlprefix\biburl{http://www.zdnet.com/blog/cell-phones/mwc-2010-microsoft-announces-windows-phone-7-series-with-xbox-and-zune-integration/3091}
 
 \bibitem{open_letter_to_apple}
 Open letter to Apple {iPhone} Developer Support {\textbar} {iOS/Web}
@@ -255,10 +181,6 @@ Rise of the "Hybrid" Mobile App {\textbar} {MIT} Technology Review.
 {RoadmapProjects} - Cordova Wiki.
 \urlprefix\biburl{http://wiki.apache.org/cordova/RoadmapProjects}
 
-\bibitem{gartner_smartphone_definition}
-Smartphone Definition {\textbar} Gartner.
-\urlprefix\biburl{http://www.gartner.com/it-glossary/smartphone/}
-
 \bibitem{visionmobile_survey}
 [Survey] Which are the best cross-platform tools? {\textbar} {VisionMobile}.
 \urlprefix\biburl{http://www.visionmobile.com/blog/2011/11/new-survey-which-are-the-best-cross-platform-tools/}
@@ -267,14 +189,6 @@ Smartphone Definition {\textbar} Gartner.
 Thoughts on Flash.
 \urlprefix\biburl{http://www.apple.com/hotnews/thoughts-on-flash/}
 
-\bibitem{tiobe_software}
-{TIOBE} Software: Tiobe Index.
-\urlprefix\biburl{http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html}
-
-\bibitem{understanding_jvm_internals}
-Understanding {JVM} Internals {\textbar} {CUBRID} Blog.
-\urlprefix\biburl{http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/}
-
 \bibitem{updates_on_apple}
 Updates on Apple / {PhoneGap} {\textbar} {iOS/Web} Developer's Life in Beta.
 \urlprefix\biburl{http://nachbaur.com/blog/updates-on-apple-phonegap}
@@ -282,24 +196,6 @@ Updates on Apple / {PhoneGap} {\textbar} {iOS/Web} Developer's Life in Beta.
 \bibitem{why_html5_java}
 Why {HTML5} is the new Java {\textbar} {TechCentral}.
 \urlprefix\biburl{http://www.techcentral.co.za/why-html5-is-the-new-java/24835/}
-
-\bibitem{xamarin_monotouch}
-{Xamarin.iOS} - formerly {MonoTouch} - Create amazing {iOS} apps with C\# and
-  {.NET}.
-\urlprefix\biburl{http://xamarin.com/monotouch}
-
-\bibitem{forbes_business_checklist}
-Your Business Checklist: A Website, A Phone Number, A Mobile App - Forbes.
-\urlprefix\biburl{http://www.forbes.com/sites/quickerbettertech/2012/05/07/your-business-checklist-a-website-a-phone-number-a-mobile-app/2/}
-
-\bibitem{ztes_first_firefoxos}
-{ZTE's} first Firefox {OS} devices to launch in first quarter {\textbar} Mobile
-  - {CNET} News.
-\urlprefix\biburl{http://news.cnet.com/8301-1035_3-57515945-94/ztes-first-firefox-os-devices-to-launch-in-first-quarter/}
-
-\bibitem{ericsson_report_web}
-Ericsson: \emph{Traffic and Market Data Report}.
-\urlprefix\biburl{http://www.ericsson.com/res/docs/2012/tmd_report_feb_web.pdf}
 
 \bibitem{globant_hybrid}
 Globant: \emph{{Hybrid Mobile Development: A Cost-Effective Strategy for
@@ -311,10 +207,5 @@ IBM: \emph{IBM Worklight V5.0.6 Technology overview}.
 \bibitem{mrc_native_wrong_choice}
 Michaels, ross \& cole, ltd.: \emph{{Native mobile apps: The wrong choice for
   business?}}
-
-\bibitem{bp_dominik}
-Veselý, D.: \emph{Skládání fotografií pro platformu {iPhone}}.
-  Bakalářská práce, {ČVUT} v Praze, Fakulta informačních technologií,
-  Praha, 2012.
 
 \end{thebibliography}

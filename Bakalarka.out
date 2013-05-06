@@ -1,30 +1,31 @@
 \BOOKMARK [0][-]{chapter*.5}{\332vod}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Multiplatformn\355 v\375voj}{}% 2
-\BOOKMARK [1][-]{section.1.1}{Co je to multiplatformn\355 v\375voj?}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.2}{Argumenty pro multiplatformn\355 pr\355stup}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.3}{Slabiny multiplatformn\355ho pr\355stupu}{chapter.1}% 5
-\BOOKMARK [1][-]{section.1.4}{Pr\355stupy k multiplatformn\355mu v\375voji mobiln\355ch aplikac\355}{chapter.1}% 6
-\BOOKMARK [0][-]{chapter.2}{Hybridn\355 frameworky}{}% 7
-\BOOKMARK [1][-]{section.2.1}{Obecne}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.2}{Technick\375 popis}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.3}{Pr\355klady hybridn\355ch frameworku}{chapter.2}% 10
-\BOOKMARK [0][-]{chapter.3}{PhoneGap}{}% 11
-\BOOKMARK [1][-]{section.3.1}{Obecne}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.2}{Historie}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.3}{V\375voj\341rsk\351 n\341stroje}{chapter.3}% 14
-\BOOKMARK [1][-]{section.3.4}{API}{chapter.3}% 15
-\BOOKMARK [1][-]{section.3.5}{PhoneGap v re\341ln\375ch aplikac\355ch}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.6}{Budoucnost}{chapter.3}% 17
-\BOOKMARK [0][-]{chapter.4}{Hybridn\355 vs. nativn\355 v\375voj}{}% 18
-\BOOKMARK [1][-]{section.4.1}{Zpusob v\375voje}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.2}{Vlastn\355 aplikace}{chapter.4}% 20
-\BOOKMARK [1][-]{section.4.3}{Monetizace}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.4}{Shrnut\355}{chapter.4}% 22
-\BOOKMARK [0][-]{chapter.5}{Demo aplikace}{}% 23
-\BOOKMARK [1][-]{section.5.1}{Twitter klient \(BlueBirdGap\)}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.2}{Foto aplikace \(Orionids\)}{chapter.5}% 25
-\BOOKMARK [1][-]{section.5.3}{Casovac\355 aplikace \(TimerGap\)}{chapter.5}% 26
-\BOOKMARK [0][-]{chapter*.75}{Z\341ver}{}% 27
-\BOOKMARK [0][-]{section*.77}{Literatura}{}% 28
-\BOOKMARK [0][-]{appendix.A}{Seznam pou\236it\375ch zkratek}{}% 29
-\BOOKMARK [0][-]{appendix.B}{Obsah prilo\236en\351ho CD}{}% 30
+\BOOKMARK [1][-]{section*.6}{Motivace}{chapter*.5}% 2
+\BOOKMARK [0][-]{chapter.1}{Multiplatformn\355 v\375voj}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Co je to multiplatformn\355 v\375voj?}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Argumenty pro multiplatformn\355 pr\355stup}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{Slabiny multiplatformn\355ho pr\355stupu}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.4}{Pr\355stupy k multiplatformn\355mu v\375voji mobiln\355ch aplikac\355}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{Hybridn\355 frameworky}{}% 8
+\BOOKMARK [1][-]{section.2.1}{Obecne}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{Technick\375 popis}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.3}{Pr\355klady hybridn\355ch frameworku}{chapter.2}% 11
+\BOOKMARK [0][-]{chapter.3}{PhoneGap}{}% 12
+\BOOKMARK [1][-]{section.3.1}{Obecne}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.2}{Historie}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.3}{V\375voj\341rsk\351 n\341stroje}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.4}{API}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.5}{PhoneGap v re\341ln\375ch aplikac\355ch}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.6}{Budoucnost}{chapter.3}% 18
+\BOOKMARK [0][-]{chapter.4}{Hybridn\355 vs. nativn\355 v\375voj}{}% 19
+\BOOKMARK [1][-]{section.4.1}{Zpusob v\375voje}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.2}{Vlastn\355 aplikace}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.3}{Monetizace}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.4}{Shrnut\355}{chapter.4}% 23
+\BOOKMARK [0][-]{chapter.5}{Demo aplikace}{}% 24
+\BOOKMARK [1][-]{section.5.1}{Twitter klient \(BlueBirdGap\)}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.2}{Foto aplikace \(Orionids\)}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.3}{Casovac\355 aplikace \(TimerGap\)}{chapter.5}% 27
+\BOOKMARK [0][-]{chapter*.16}{Z\341ver}{}% 28
+\BOOKMARK [0][-]{section*.18}{Literatura}{}% 29
+\BOOKMARK [0][-]{appendix.A}{Seznam pou\236it\375ch zkratek}{}% 30
+\BOOKMARK [0][-]{appendix.B}{Obsah prilo\236en\351ho CD}{}% 31
