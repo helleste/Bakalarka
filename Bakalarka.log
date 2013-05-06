@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.12)  5 MAY 2013 01:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.12)  6 MAY 2013 14:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,7 +910,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 60.
 
-<cvut-logo-bw.pdf, id=150, 91.34125pt x 69.25874pt>
+<cvut-logo-bw.pdf, id=134, 91.34125pt x 69.25874pt>
 File: cvut-logo-bw.pdf Graphic file (type pdf)
  <use cvut-logo-bw.pdf>
 Package pdftex.def Info: cvut-logo-bw.pdf used on input line 60.
@@ -964,16 +964,20 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 ] [10
 
 ]
-(./Bakalarka.toc [11
+(./Bakalarka.toc
+Underfull \vbox (badness 1748) has occurred while \output is active []
 
-]) [12] (./Bakalarka.lof) [13
+ [11
+
+])
+[12] (./Bakalarka.lof) [13
 
 ] [14
 
-] (./Bakalarka.lot)
-[15] [16
+] (./Bakalarka.lot) [15] [16
 
-] (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+]
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count167
 \scratchdimen=\dimen164
@@ -1007,130 +1011,25 @@ e
 
 ] [2
 
-]
-
-Package hyperref Warning: Composite letter `\textasciicaron+r'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 70.
-
-(./Mobilni_zarizeni_a_aplikace.tex [3]
-Overfull \hbox (0.27235pt too wide) in paragraph at lines 25--26
-[]\T1/lmr/m/n/12 Mezi ²i-ro-kou ve-°ej-ností je v²ak za první smart-phone po-va
--ºo-ván aº iPhone
- []
-
-Package epstopdf Info: Source file: <smartphone_marketshare_vendors.eps>
-(epstopdf)                    date: 2013-04-29 18:32:14
-(epstopdf)                    size: 138115 bytes
-(epstopdf)             Output file: <smartphone_marketshare_vendors-eps-convert
-ed-to.pdf>
-(epstopdf)                    date: 2013-04-29 18:32:32
-(epstopdf)                    size: 45394 bytes
-(epstopdf)             Command: <repstopdf --outfile=smartphone_marketshare_ven
-dors-eps-converted-to.pdf smartphone_marketshare_vendors.eps>
-(epstopdf)             \includegraphics on input line 31.
-Package epstopdf Info: Output file is already uptodate.
-
-<smartphone_marketshare_vendors-eps-converted-to.pdf, id=333, 510.90875pt x 348
-.30125pt>
-File: smartphone_marketshare_vendors-eps-converted-to.pdf Graphic file (type pd
-f)
- <use smartphone_marketshare_vendors-eps-converted-to.pdf>
-Package pdftex.def Info: smartphone_marketshare_vendors-eps-converted-to.pdf us
-ed on input line 31.
-(pdftex.def)             Requested size: 383.0pt x 261.09775pt.
-
-<smartphone_by_manufaturers.png, id=334, 860.24612pt x 573.49742pt>
-File: smartphone_by_manufaturers.png Graphic file (type png)
-
-<use smartphone_by_manufaturers.png>
-Package pdftex.def Info: smartphone_by_manufaturers.png used on input line 39.
-(pdftex.def)             Requested size: 229.80234pt x 153.2012pt.
- [4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure
-.1.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.44 \section
-             {PÅ™ehled mobilnÃ­ch platforem}pdfTeX warning (ext4): destination 
-with the same identifier (name{figure.1.2}) has been already used, duplicate ig
-nored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.44 \section
-             {PÅ™ehled mobilnÃ­ch platforem} <./smartphone_marketshare_vendors-
-eps-converted-to.pdf> <./smartphone_by_manufaturers.png>]
-
-Package hyperref Warning: Composite letter `\textasciicaron+r'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 44.
-
-
-Overfull \hbox (7.0615pt too wide) in paragraph at lines 48--49
-\T1/lmr/m/n/12 iOS je pro-duk-tem spo-le£-nosti Ap-ple, která jím vy-ba-vuje sv
-é pro-dukty iPhone,
- []
-
-
-Underfull \vbox (badness 2529) has occurred while \output is active []
-
- [6]
-[7] [8] [9] <smartphone_by_platform.png, id=413, 831.105pt x 537.77382pt>
-File: smartphone_by_platform.png Graphic file (type png)
-
-<use smartphone_by_platform.png>
-Package pdftex.def Info: smartphone_by_platform.png used on input line 122.
-(pdftex.def)             Requested size: 229.80234pt x 148.69652pt.
- [10]
-<graf_vyvoj_mobilnich_os.png, id=427, 504.38437pt x 293.59688pt>
-File: graf_vyvoj_mobilnich_os.png Graphic file (type png)
-
-<use graf_vyvoj_mobilnich_os.png>
-Package pdftex.def Info: graf_vyvoj_mobilnich_os.png used on input line 130.
-(pdftex.def)             Requested size: 383.0pt x 222.9433pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
-3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.137 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-1.4}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.137 
-       <./smartphone_by_platform.png> <./graf_vyvoj_mobilnich_os.png>] [12]
-Overfull \hbox (15.58043pt too wide) in paragraph at lines 174--175
-[]\T1/lmr/m/n/12 V pro-st°edí mo-bil-ních te-le-fon· na-chá-zejí webové apli-ka
-ce uplat-n¥ní zejména
- []
-
-[13] [14]) [15] [16
-
-] (./Multiplatformni_vyvoj.tex [17] [18]
+] (./Multiplatformni_vyvoj.tex [3] [4]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 29.
 
-[19] [20]
+[5] [6]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 58.
 
-[21] <html5browser.png, id=523, 1723.43875pt x 1580.90625pt>
+[7] <html5browser.png, id=324, 1723.43875pt x 1580.90625pt>
 File: html5browser.png Graphic file (type png)
 
 <use html5browser.png>
 Package pdftex.def Info: html5browser.png used on input line 77.
 (pdftex.def)             Requested size: 383.0pt x 351.32236pt.
- [22]
+ [8]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
@@ -1139,14 +1038,14 @@ Package hyperref Warning: Composite letter `\textasciicaron+r'
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
-1}) has been already used, duplicate ignored
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.90 
-      <./html5browser.png>] [24] [25]
-<titanium_architecture.png, id=568, 487.06969pt x 361.35pt>
+      <./html5browser.png>] [10] [11]
+<titanium_architecture.png, id=370, 487.06969pt x 361.35pt>
 File: titanium_architecture.png Graphic file (type png)
 
 <use titanium_architecture.png>
@@ -1155,34 +1054,34 @@ Package pdftex.def Info: titanium_architecture.png used on input line 132.
 
 Underfull \vbox (badness 6157) has occurred while \output is active []
 
- [26pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+ [12pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.138 
-       <./titanium_architecture.png>] [27]) [28] (./Hybridni_frameworky.tex
+       <./titanium_architecture.png>] [13]) [14] (./Hybridni_frameworky.tex
 
 Package hyperref Warning: Composite letter `\textasciicaron+e'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 1.
 
-[29
+[15
 
-] [30] <hybrid_app_architecture.png, id=630, 204.765pt x 405.515pt>
+] [16] <hybrid_app_architecture.png, id=431, 204.765pt x 405.515pt>
 File: hybrid_app_architecture.png Graphic file (type png)
 
 <use hybrid_app_architecture.png>
 Package pdftex.def Info: hybrid_app_architecture.png used on input line 56.
 (pdftex.def)             Requested size: 153.19766pt x 303.41153pt.
- [31] [32pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.3.1}) has been already used, duplicate ignored
+ [17] [18pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.2.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.66 
-      <./hybrid_app_architecture.png (PNG copy)>] [33]
-<hybridni_aplikace_komunikace.png, id=656, 796.9775pt x 475.7775pt>
+      <./hybrid_app_architecture.png (PNG copy)>] [19]
+<hybridni_aplikace_komunikace.png, id=457, 796.9775pt x 475.7775pt>
 File: hybridni_aplikace_komunikace.png Graphic file (type png)
 
 <use hybridni_aplikace_komunikace.png>
@@ -1192,7 +1091,7 @@ Package pdftex.def Info: hybridni_aplikace_komunikace.png used on input line 83
 
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
- [34pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1209,39 +1108,39 @@ Package hyperref Warning: Composite letter `\textring+u'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textring' on input line 100.
 
-[35] [36] <MoSyncUI_Layers.png, id=675, 516.93124pt x 260.975pt>
+[21] [22] <MoSyncUI_Layers.png, id=477, 516.93124pt x 260.975pt>
 File: MoSyncUI_Layers.png Graphic file (type png)
 
 <use MoSyncUI_Layers.png>
 Package pdftex.def Info: MoSyncUI_Layers.png used on input line 127.
 (pdftex.def)             Requested size: 383.0pt x 193.36537pt.
- [37pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+ [23pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.135 
-       <./MoSyncUI_Layers.png>] [38] [39]) [40] (./PhoneGap.tex
+       <./MoSyncUI_Layers.png>] [24] [25]) [26] (./PhoneGap.tex
 
 Package hyperref Warning: Composite letter `\textasciicaron+e'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 1.
 
-[41
+[27
 
-] [42] [43]
+] [28] [29]
 Overfull \hbox (8.26945pt too wide) in paragraph at lines 61--62
 []\T1/lmr/m/n/12 ^^PPhoneGap has pro-ven to be an industry-defining app so-lu-t
 ion for HTML5
  []
 
-[44]
+[30]
 
 Package hyperref Warning: Composite letter `\textasciicaron+r'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 86.
 
-[45]
+[31]
 Overfull \hbox (97.23074pt too wide) in paragraph at lines 103--104
 \T1/lmr/m/n/12 áln¥ spra-vo-vána pro-jek-tem Pho-ne-Gap na ad-rese https://gith
 ub.com/purplecabbage/phonegap-
@@ -1253,13 +1152,13 @@ Overfull \hbox (1.35358pt too wide) in paragraph at lines 105--106
 kou ²kálu funkcí.
  []
 
-[46]
+[32]
 Overfull \hbox (5.16995pt too wide) in paragraph at lines 131--132
 []\T1/lmr/bx/n/12 Ripple Mo-bile En-vi-ro-ment Emu-la-tor[] \T1/lmr/m/n/12 Rip-
 ple Mo-bile En-vi-ro-ment Emu-
  []
 
-[47] <RMEE.png, id=826, 1310.8975pt x 683.55376pt>
+[33] <RMEE.png, id=628, 1310.8975pt x 683.55376pt>
 File: RMEE.png Graphic file (type png)
  <use RMEE.png>
 Package pdftex.def Info: RMEE.png used on input line 136.
@@ -1276,13 +1175,13 @@ Overfull \hbox (77.40628pt too wide) in paragraph at lines 152--153
 bug.phonegap.com/client/#myapp.
  []
 
-[48pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.153 
-       <./RMEE.png>] [49] [50] [51] [52] [53]
+       <./RMEE.png>] [35] [36] [37] [38] [39]
 Overfull \hbox (12.32825pt too wide) in paragraph at lines 315--316
 []\T1/lmr/bx/n/12 DirectoryEntry[] \T1/lmr/m/n/12 Ob-jekt re-pre-zen-tu-jící sl
 oºku v na-tiv-ním fi-le-sys-tému. Tento
@@ -1306,7 +1205,7 @@ Overfull \hbox (2.32874pt too wide) in paragraph at lines 335--336
 ra-ce-jící in-for-maci o sys-
  []
 
-[54]
+[40]
 Overfull \hbox (1.38829pt too wide) in paragraph at lines 348--349
 []\T1/lmr/bx/n/12 removeEventListener[] \T1/lmr/m/n/12 Od-straní na-slou-chání 
 vy-tvo-°ené p°ed-chozí funkcí. 
@@ -1318,11 +1217,11 @@ Overfull \hbox (0.10336pt too wide) in paragraph at lines 373--374
 nebo za-staví na-hrá-vání
  []
 
-[55] [56] [57]
+[41] [42] [43]
 
-LaTeX Warning: Reference `Sec:FxOS' on page 58 undefined on input line 452.
+LaTeX Warning: Reference `Sec:FxOS' on page 44 undefined on input line 452.
 
-) [58] (./Hybridni_vs_nativni_vyvoj.tex
+) [44] (./Hybridni_vs_nativni_vyvoj.tex
 
 Package hyperref Warning: Composite letter `\textring+u'
 (hyperref)                not defined in PD1 encoding,
@@ -1334,41 +1233,41 @@ Overfull \hbox (2.1906pt too wide) in paragraph at lines 12--13
 u-te£n¥ velká. Jedná
  []
 
-[59
+[45
 
-] <jobgraph_html5.png, id=989, 542.025pt x 301.125pt>
+] <jobgraph_html5.png, id=790, 542.025pt x 301.125pt>
 File: jobgraph_html5.png Graphic file (type png)
 
 <use jobgraph_html5.png>
 Package pdftex.def Info: jobgraph_html5.png used on input line 15.
 (pdftex.def)             Requested size: 383.0pt x 212.78479pt.
 
-<jobgraph_phonegap.png, id=992, 542.025pt x 301.125pt>
+<jobgraph_phonegap.png, id=793, 542.025pt x 301.125pt>
 File: jobgraph_phonegap.png Graphic file (type png)
 
 <use jobgraph_phonegap.png>
 Package pdftex.def Info: jobgraph_phonegap.png used on input line 23.
 (pdftex.def)             Requested size: 383.0pt x 212.78479pt.
- <jobgraph_ios.png, id=998, 542.025pt x 301.125pt>
+ <jobgraph_ios.png, id=799, 542.025pt x 301.125pt>
 File: jobgraph_ios.png Graphic file (type png)
 
 <use jobgraph_ios.png>
 Package pdftex.def Info: jobgraph_ios.png used on input line 33.
 (pdftex.def)             Requested size: 383.0pt x 212.78479pt.
- [60pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+ [46pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.41 
-      <./jobgraph_html5.png (PNG copy)>] [61pdfTeX warning (ext4): destination 
-with the same identifier (name{figure.5.2}) has been already used, duplicate ig
+      <./jobgraph_html5.png (PNG copy)>] [47pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.4.2}) has been already used, duplicate ig
 nored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.41 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1379,26 +1278,26 @@ Overfull \hbox (20.164pt too wide) in paragraph at lines 45--75
  [][] 
  []
 
-[62pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}
+[48pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.84 
-     ] [63] [64]
+     ] [49] [50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65]
-[66]) [67pdfTeX warning (ext4): destination with the same identifier (name{tabl
-e.5.2}) has been already used, duplicate ignored
+ [51]
+[52]) [53pdfTeX warning (ext4): destination with the same identifier (name{tabl
+e.4.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.97 \chapter
-             {Demo aplikace}] [68
+             {Demo aplikace}] [54
 
 ] (./Demo_aplikace.tex
-<bbgap_timeline.png, id=1063, 556.0775pt x 509.905pt>
+<bbgap_timeline.png, id=864, 556.0775pt x 509.905pt>
 File: bbgap_timeline.png Graphic file (type png)
  <use bbgap_timeline.png>
 Package pdftex.def Info: bbgap_timeline.png used on input line 9.
@@ -1406,21 +1305,21 @@ Package pdftex.def Info: bbgap_timeline.png used on input line 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
-[70pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
+ [55]
+[56pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.20 
       <./bbgap_timeline.png>]
-<orionids_home.png, id=1073, 556.0775pt x 509.905pt>
+<orionids_home.png, id=873, 556.0775pt x 509.905pt>
 File: orionids_home.png Graphic file (type png)
  <use orionids_home.png>
 Package pdftex.def Info: orionids_home.png used on input line 24.
 (pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
 
-[71pdfTeX warning (ext4): destination with the same identifier (name{figure.6.2
+[57pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1432,13 +1331,13 @@ Package hyperref Warning: Composite letter `\textasciicaron+C'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 33.
 
-<tgap_odpocitavani.png, id=1078, 556.0775pt x 509.905pt>
+<tgap_odpocitavani.png, id=879, 556.0775pt x 509.905pt>
 File: tgap_odpocitavani.png Graphic file (type png)
 
 <use tgap_odpocitavani.png>
 Package pdftex.def Info: tgap_odpocitavani.png used on input line 39.
 (pdftex.def)             Requested size: 306.40117pt x 280.96213pt.
- [72pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+ [58pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1451,7 +1350,7 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 100.
 
-[73] [74
+[59] [60
 
 ]
 
@@ -1459,7 +1358,7 @@ Package hyperref Warning: Composite letter `\textasciicaron+e'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 100.
 
-(./Zaver.tex [75]) [76] (./Bakalarka.bbl [77] [78
+(./Zaver.tex [61]) [62] (./Bakalarka.bbl [63] [64
 
 ]
 bibitemlist
@@ -1519,7 +1418,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--45
 ndroid -[] came -[] simon -[]
  []
 
-[79]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 47--50
 \T1/lmtt/m/n/12 bii -[] report -[] how -[] hybrid -[] apps -[] are -[] accelera
 ting -[] html5 -[]
@@ -1629,7 +1528,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--95
 /n/12 http :
  []
 
-[80]
+[66]
 Underfull \hbox (badness 1430) in paragraph at lines 97--99
 []\T1/lmr/m/n/12 InfoWorld's 2012 Tech-no-logy of the Year Award win-ners - In-
 
@@ -1692,7 +1591,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--140
 33 / Mobile -[]
  []
 
-[81]
+[67]
 Underfull \hbox (badness 10000) in paragraph at lines 142--145
 \T1/lmtt/m/n/12 blog / cell -[] phones / mwc -[] 2010 -[] microsoft -[] announc
 es -[] windows -[]
@@ -1732,7 +1631,7 @@ Underfull \hbox (badness 1515) in paragraph at lines 183--185
 t/m/n/12 http : / /
  []
 
-[82]
+[68]
 Underfull \hbox (badness 7221) in paragraph at lines 200--202
 []\T1/lmr/m/n/12 PhoneGap | Pho-ne-Gap 1.3 Re-le-a-sed. Do-stupné z: []$\T1/lmt
 t/m/n/12 http : / /
@@ -1791,7 +1690,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--240
 008 / 08 / 07 / unofficial -[] announcement -[] of -[]
  []
 
-[83]
+[69]
 Underfull \hbox (badness 3930) in paragraph at lines 247--249
 []\T1/lmr/m/n/12 A Pri-mer on Hyb-rid Apps for iOS - Co-coa Con-t-rols. Do-
  []
@@ -1857,9 +1756,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--299
  -[] to -[] launch -[] in -[]
  []
 
-[84]) [85] [86
+[70]) [71] [72
 
-] [87] [88
+] [73] [74
 
 ]
 
@@ -1873,7 +1772,7 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 248.
 
-[89]
+[75]
 \tf@toc=\write5
 \openout5 = `Bakalarka.toc'.
 
@@ -1889,7 +1788,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
 Package rerunfilecheck Info: File `Bakalarka.out' has not changed.
-(rerunfilecheck)             Checksum: 48263623E4B7EA2290DEF64D84EB7F60;2246.
+(rerunfilecheck)             Checksum: B3FEC4D35E4AF369C9C2FC4FC70972EB;1974.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1900,10 +1799,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
  ) 
 Here is how much of TeX's memory you used:
- 12477 strings out of 495025
- 174466 string characters out of 3180733
- 335913 words of memory out of 3000000
- 14987 multiletter control sequences out of 15000+200000
+ 12372 strings out of 495025
+ 172602 string characters out of 3180733
+ 335001 words of memory out of 3000000
+ 14960 multiletter control sequences out of 15000+200000
  68809 words of font info for 45 fonts, out of 3000000 for 9000
  24 hyphenation exceptions out of 8191
  38i,13n,51p,1492b,1314s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1917,10 +1816,10 @@ m/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf
 pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb
 >
-Output written on Bakalarka.pdf (105 pages, 1041407 bytes).
+Output written on Bakalarka.pdf (91 pages, 918529 bytes).
 PDF statistics:
- 1454 PDF objects out of 1728 (max. 8388607)
- 1293 compressed objects within 13 object streams
- 493 named destinations out of 1000 (max. 500000)
- 358 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1266 PDF objects out of 1440 (max. 8388607)
+ 1125 compressed objects within 12 object streams
+ 423 named destinations out of 1000 (max. 500000)
+ 306 words of extra memory for PDF output out of 10000 (max. 10000000)
 
