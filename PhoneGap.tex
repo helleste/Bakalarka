@@ -1,12 +1,12 @@
 \section{Obecně}
 Jak již bylo v textu této práce několikrát zmíněno, PhoneGap je v současné době pravděpodobně nejpoužívanější a nejznámější hybridní framework. Vývojáři se na svém webu chlubí, že zaznamenali již více než milion stažení jejich produktu a zároveň tvrdí, že je v současné době používán více než 400 000 vývojáři pro tvorbu tisícovek aplikací.
 
-PhoneGap umožňuje vývojářům využívat při tvorbě mobilních aplikací webové technologie HTML5, CSS3 a JavaScript a zároveň jim prostřednictvím vlastního javascriptového API poskytuje možnost komunikace s operačním systémem a využití jeho nativních součástí, jako je například fotoaparát, akcelerometr nebo například výběr ze seznamu kontaktů. To vše multiplatformně.
+PhoneGap umožňuje vývojářům využívat při tvorbě mobilních aplikací webové technologie HTML5, CSS3 a JavaScript a zároveň jim prostřednictvím vlastního JavaScriptového API poskytuje možnost komunikace s operačním systémem a využití jeho nativních součástí, jako je například fotoaparát, akcelerometr nebo například výběr ze seznamu kontaktů. To vše multiplatformně.
 
 V rámci této kapitoly již nebudu zabíhat do technických detailů vlastního fungování frameworku PhoneGap. Tuto oblast jsem již dostatečně pokryl v předchozí kapitole \ref{Chap:HybridniFrameworky}.\\ \\
 
 \textit{\uv{Konečným cílem PhoneGap je, aby PhoneGap již nemusel existovat.} \cite{how_cordova_becomes_phonegap}}
-\footnote{„The ultimate purpose of PhoneGap is to cease to exist.“ \cite{how_cordova_becomes_phonegap}} \\
+\footnote{“The ultimate purpose of PhoneGap is to cease to exist.” \cite{how_cordova_becomes_phonegap}} \\
 
 Skupina vývojářů stojící za PhoneGap uvádí, že za jejich prací stojí následující dvě kréda:
 
@@ -37,40 +37,40 @@ Apache Cordova je jádro frameworku spravované Apache Software Foundation (ASF)
 PhoneGap není jedinou distribucí Apache Cordova, ve skutečnosti jí dnes implementuje do svých nástrojů mnoho firem, jako je například Salesforce nebo Facebook \cite{cordova_name}. Na vývoji Apache Cordova se nepodílí jen vývojáři PhoneGap, ale také mnoho dalších firem jako je například IBM či Microsoft.
 
 \section{Historie}
-\textit{\uv{Měli jsme v hlavě jen jeden cíl. Umožnit webovým aplikacím využívat nativní funkce iPhone.}\cite{phonegap_announcement}}
-\footnote{„We went down with one goal in mind and that was to make native iPhone features available to web apps.“ \cite{phonegap_announcement}} \\
+\textit{\uv{Měli jsme v hlavě jen jeden cíl. Umožnit webovým aplikacím využívat nativní funkce iPhone.} \cite{phonegap_announcement}}
+\footnote{“We went down with one goal in mind and that was to make native iPhone features available to web apps.” \cite{phonegap_announcement}} \\
 
 Pojďme se stručně seznámit s historií PhoneGap a změnami, které vedly k frameworku, jak jej známe dnes. PhoneGap vznikl v roce 2008 na vývojářské akci iPhoneDevCamp, kde vývojáři firmy Nitobi přišli s nápadem, kterak umožnit vývojářům webových aplikací pro systém iOS (tehdy ještě iPhone OS) využívat některé oblíbené nativní funkce přístroje iPhone. V soutěži na iPhoneDevCamp sice PhoneGap neuspěl, to však firmu Nitobi nezastavilo v dalším rozvíjení svého nápadu.
 
 V počátku své existence podporoval PhoneGap pouze systém iOS, ale multiplatformnost byla brána vývojáři na zřetel od samého počátku, a tak rychle přibyla podpora pro Android a BlackBerry. Nedlouho poté (v roce 2009) následovala podpora pro Symbian a Palm (webOS).
 
-K začátkům frameworku PhoneGap se datuje série nepříjemností, které vznikly při schvalovacím procesu ze strany Applu, kdy Apple odmítal schvalovat a vpouštět na své oficiální tržiště aplikace napsané pomocí frameworku PhoneGap. Důvodem pro zamítání aplikací bylo porušení podmínek, které aplikace v AppStore musí splňovat. Aplikace napsané ve PhoneGap byly penalizovány, protože při jejich vývoji byl použit externí framework, což tyto podmínky zapovídají. Celá záležitost byla vyřešena domlouvou mezi vývojáři kolem frameworku PhoneGap a Applem, kdy byla stanovena „bezpečná verze“ frameworku PhoneGap (PhoneGap 0.8.0), jejíž použití bylo Applem oficiálně posvěceno a k aplikacím využívajícím tuto „bezpečnou verzi“ bylo během schvalovacího procestu přistupováno stejně jako k běžným nativním aplikacím. \cite{open_letter_to_apple} + \cite{updates_on_apple} + \cite{phonegap_permitted_appstore} + \cite{phonegap_store_approval}
+K začátkům frameworku PhoneGap se datuje série nepříjemností, které vznikly při schvalovacím procesu ze strany Applu, kdy Apple odmítal schvalovat a vpouštět na své oficiální tržiště aplikace napsané pomocí frameworku PhoneGap. Důvodem pro zamítání aplikací bylo porušení podmínek, které aplikace v AppStore musí splňovat. Aplikace napsané ve PhoneGap byly penalizovány, protože při jejich vývoji byl použit externí framework, což tyto podmínky zapovídají. Celá záležitost byla vyřešena domlouvou mezi vývojáři kolem frameworku PhoneGap a Applem, kdy byla stanovena „bezpečná verze“ frameworku PhoneGap (PhoneGap 0.8.0), jejíž použití bylo Applem oficiálně posvěceno a k aplikacím využívajícím tuto „bezpečnou verzi“ bylo během schvalovacího procestu přistupováno stejně jako k běžným nativním aplikacím. \cite{open_letter_to_apple,updates_on_apple,phonegap_permitted_appstore,phonegap_store_approval}
 
 Multiplatformní záběr se stal zas o něco širším, když v roce 2010 přidal PhoneGap podporu pro Windows Phone 7 a také kvůli přechodu BlackBerry na WebKit, v šesté verzi svého operačního systému, byla podpora pro BlackBerry rozštěpena na dvě větve.
 
-V listopadu 2010 Nitobi představilo v poloveřejné betě nástroj PhoneGap Build. Tento nástroj si podrobněji popíšeme později v této kapitole, teď jen zmíním, že se jedná o cloudovou službu, která umožňuje po nahrání zdrojových kódu vygenerovat instalační balíčky pro více platforem najednou. Vývojář tak nemusí pro každou platformu instalovat její SDK a generování binárek provádět ručně \cite{announcing_phonegap_build_beta}. 
+V listopadu 2010 Nitobi představilo v poloveřejné betě nástroj PhoneGap Build. Tento nástroj si podrobněji popíšeme později v této kapitole, teď jen zmíním, že se jedná o cloudovou službu, která umožňuje po nahrání zdrojových kódu vygenerovat instalační balíčky pro více platforem najednou. Vývojář tak nemusí pro každou platformu instalovat její SDK a generování binárních souborů provádět ručně. \cite{announcing_phonegap_build_beta} 
 
-Pokračující růst PhoneGap dokládá i obliba, které se této framework těšil pouhé dva roky po svém vzniku. V listopadu 2010 zaznamenal PhoneGap již 350 000 stažení. S touto vzrůstající oblibou začalo Nitobi (původně konzultantská firma zabývající se tvorbou webů a javascriptových knihoven) na PhoneGap stále více sázet ve své obchodní strategii. Nejenže s ním pracovala ve své konzultantské činosti a doporučovala jeho používání svým zákazníkům, ale v únoru 2011 zavádí i placenou podporu pro vývojáře ve PhoneGap, v rámci které jim poskytuje webináře, přístup na privátní forum a pomoc v rámci office hours.
+Pokračující růst PhoneGap dokládá i obliba, které se této framework těšil pouhé dva roky po svém vzniku. V listopadu 2010 zaznamenal PhoneGap již 350 000 stažení. S touto vzrůstající oblibou začalo Nitobi (původně konzultantská firma zabývající se tvorbou webů a JavaScriptových knihoven) na PhoneGap stále více sázet ve své obchodní strategii. Nejenže s ním pracovala ve své konzultantské činosti a doporučovala jeho používání svým zákazníkům, ale v únoru 2011 zavádí i placenou podporu pro vývojáře ve PhoneGap, v rámci které jim poskytuje webináře, přístup na privátní forum a pomoc v rámci office hours.
 
-Dalším znakem úspěchu PhoneGap je i jeho adopce softwarovými giganty jako je Adobe či IBM, které začali tento framework integrovat do svých nástrojů, jako je Adobe DreamWeaver či IBM Worklight \cite{phonegap_worklight_enterprise} + \cite{dreamweaver_supports_phonegap}. 
+Dalším znakem úspěchu PhoneGap je i jeho adopce softwarovými giganty jako je Adobe či IBM, které začali tento framework integrovat do svých nástrojů, jako je Adobe DreamWeaver či IBM Worklight \cite{phonegap_worklight_enterprise,dreamweaver_supports_phonegap}. 
 
-Prvním velkým milníkem pro PhoneGap bylo vydání verze 1.0.0, ke kterému došlo 29. 7. 2011 \cite{phonegap_1_released}. V té době PhoneGap již podporoval i platformu Samsung Bada a samotný framework zaznamenal 600 000 stažení s průměrem kolem 40 000 stažení měsíčně \cite{phonegap_1_released}. 
+Prvním velkým milníkem pro PhoneGap bylo vydání verze 1.0.0, ke kterému došlo 29. 7. 2011. V té době PhoneGap již podporoval i platformu Samsung Bada a samotný framework zaznamenal 600 000 stažení s průměrem kolem 40 000 stažení měsíčně. \cite{phonegap_1_released} 
 
 V září 2011 se PhoneGap Build přesouvá do veřejné betaverze a zároveň byly zveřejněny cenové plány pro jeho použití. Ty se pohybovali od \$0 pro vývoj open-source aplikací po \$900 ročně pro vývoj komerčních aplikací s uzavřeným kódem. \cite{phonegap_build_open_beta}
 
 3. září 2011 Nitobi na svém blogu oznámilo, že uzavřelo dohodu o svém převzetí firmou Adobe \cite{nitobi_adobe1}. \\
 
-\textit{\uv{PhoneGap je perfektním doplněním široké palety nástrojů pro vývojáře od společnosti Adobe (včetně Adobe AIR) a dovolí nám nadále poskytovat vývojářům ta nejlepší a nejmodernější řešení pro vytváření inovativních aplikací napříč platformami a zařízeními.}} \cite{nitobi_adobe1}
-\footnote{"It’s a perfect complement to Adobe’s broad family of developer solutions, including Adobe AIR, and will allow us to continue to provide content publishers and developers with the best, cutting-edge solutions for creating innovative applications across platforms and devices.” Danny Winokur, vice president and general manager, Plat-
+\textit{\uv{PhoneGap je perfektním doplněním široké palety nástrojů pro vývojáře od společnosti Adobe (včetně Adobe AIR) a dovolí nám nadále poskytovat vývojářům ta nejlepší a nejmodernější řešení pro vytváření inovativních aplikací napříč platformami a zařízeními.}} Danny Winokur, Adobe \cite{nitobi_adobe1}
+\footnote{“It’s a perfect complement to Adobe’s broad family of developer solutions, including Adobe AIR, and will allow us to continue to provide content publishers and developers with the best, cutting-edge solutions for creating innovative applications across platforms and devices.” Danny Winokur, vice president and general manager, Plat-
 form, Adobe \cite{nitobi_adobe1}}\\
 
-V rámci tohoto převzetí Nitobi oznámilo, že věnuje zdrojové kódy frameworku PhoneGap organizaci Apache Software Foundation (ASF) pod názvem Apache Callback, který byl později změněn na Apache Cordova \cite{nitobi_adobe2} + \cite{phonegap_13_released}. 
+V rámci tohoto převzetí Nitobi oznámilo, že věnuje zdrojové kódy frameworku PhoneGap organizaci Apache Software Foundation (ASF) pod názvem Apache Callback, který byl později změněn na Apache Cordova \cite{nitobi_adobe2,phonegap_13_released}. 
 
 Akvizice Nitobi firmou Adobe se podařila úspěšně dokončit 27. října 2011 \cite{nitobi_adobe2}. Analytici se shodují, že hlavním smyslem této akvizice byla snaha Adobe posílit svojí pozici na poli vývoje aplikací v HTML5, protože jeho vlastní technologie Flash je (zvlášť v mobilním světě) na ústupu. Očekávalo se začlenění PhoneGap do vývojářských nástrojů, které Adobe poskytuje webovým vývojářům.
 
 Nehledě na tuto velkou změnu popularita PhoneGap dále pozvolna stoupala a v červnu roku 2012 dosahoval průměrný měsíční počet stažení hodnoty 100 000 \cite{phonegap_myths}.
 
-20. července 2012 byla oficiálně uvolněna verze 2.0, která (krom jiného) přinášela také Cordova WebView, což je možnost použití WebView v rámci nativní aplikace současně se všemi výhodami PhoneGap. Dále přibylo také mnoho vylepšení command-line interfacu, které umožňuje ovládat PhoneGap z konsole \cite{phonegap_2_released}. 
+20. července 2012 byla oficiálně uvolněna verze 2.0, která (krom jiného) přinášela také Cordova WebView, což je možnost použití WebView v rámci nativní aplikace současně se všemi výhodami PhoneGap. Dále přibylo také mnoho vylepšení command-line interfacu, které umožňuje ovládat PhoneGap z konsole. \cite{phonegap_2_released} 
 
 V září 2012 byl oficiálně spuštěn PhoneGap Build, který je nyní dostupný ve stabilní verzi \cite{phonegap_build_launched}. Zároveň byla v listopadu 2012 vydána verze 2.2.0, která přináší podporu Windows 8 v rámci PhoneGap. V době psaní této práce se framework nachází ve verzi 2.5.0. Vydání verze 3.0.0 je naplánováno na červenec 2013 \cite{cordova_roadmapprojects}. 
 
@@ -78,7 +78,7 @@ V září 2012 byl oficiálně spuštěn PhoneGap Build, který je nyní dostupn
 PhoneGap se za dobu své existence dočkal celé řady ocenění od všemožných institucí.
 
 \begin{enumerate}
-	\item 2009: People’s Choice award v rámci Web 2.0 Expo LaunchPad competition \cite{phonegap_winning_webexpo}. 
+	\item 2009: People’s Choice award v rámci Web 2.0 Expo LaunchPad competition \cite{phonegap_winning_webexpo}
 	\item 2012: Best Cross-Platform Development Tool by CodeProject \cite{phonegap_best_xplatfrom_tool}
 	\item 2012: Technology of the Year By InfoWorld \cite{infoworld_technology_of_2012}
 	\item 2012: “Champion” by Info-Tech Research Group v rámci 2012 Vendor Landscape: Mobile Development Platforms \cite{phonegap_champion}
@@ -90,14 +90,14 @@ PhoneGap se za dobu své existence dočkal celé řady ocenění od všemožnýc
 Na začátku této sekce krátce pohovořím o nástrojích, které můžeme pro vývoj ve PhoneGap využít. Před vznikem cloudové služby PhoneGap Build byl vývoj, zvláště pokud jste chtěli aplikaci cílit na více platforem, poměrně kostrbatý. To bylo zapříčiněno několika faktory:
 
 \begin{enumerate}
-	\item Různá SDK pro sestavení nativních binárek
-	\item Různá adresářová struktura projektů pro jednotlivé platformy
-	\item Odlišné javascriptové knihovny (PhoneGap) pro jednotlivé platformy
+	\item Různá SDK pro sestavení nativních binárních souborů;
+	\item Různá adresářová struktura projektů pro jednotlivé platformy;
+	\item Odlišné JavaScriptové knihovny (PhoneGap) pro jednotlivé platformy;
 \end{enumerate}
 
 V důsledku to znamenalo, že pro vývoj aplikace pro systém Android jste si museli stáhnout Eclipse a Android SDK a vývoj vést v těchto nástrojích. Pokud jste následně chtěli aplikaci portovat na iOS, znamenalo to stažení iOS SDK a Xcode (funguje pouze na systému Mac OS), úpravu adresářové struktury projektu a využití knihovny PhoneGap určené pro systém iOS.
 
-Díky cloudovému nástroji PhoneGap Build (podrobněji si ho popíšeme níže v této kapitole) se vývoj aplikací ve PhoneGap výrazně usnadnil a to zejména při cílení na více platforem. Jelikož PhoneGap Build potřebuje k vygenerování nativních binárek pouze samotné zdrojové kódy aplikace, nemusí se vývojář zabývat ani jedním z výše vyjmenovaných problémů.
+Díky cloudovému nástroji PhoneGap Build (podrobněji si ho popíšeme níže v této kapitole) se vývoj aplikací ve PhoneGap výrazně usnadnil a to zejména při cílení na více platforem. Jelikož PhoneGap Build potřebuje k vygenerování nativních binárních souborů pouze samotné zdrojové kódy aplikace, nemusí se vývojář zabývat ani jedním z výše vyjmenovaných problémů.
 
 Pokud vývojář není závislý na SDK konkrétní platformy, může pro vývoj použít prakticky libovolný nástroj. Může zůstat u mohutného IDE, jako je např. Eclipse nebo využít svůj oblíbený textový editor (TextMate, gedit, Sublime Text apod.).
 
@@ -118,7 +118,7 @@ Najdeme tu bohatou sbírku pluginů, které pokrývají širokou škálu funkcí
 	\item PayPalPlugin
 \end{enumerate}
 
-Pluginy se používají podobným způsobem jako samotný framework. Konkrétní plugin se vloží do projektu a jeho funkce jsou následně volány z javascriptového kódu vlastní aplikace. Logicky je nutné počítat s tím, že použití takového pluginu silně ochromí přenositelnost celé aplikace a před provedením portu bude třeba provést odpovídající úpravy.
+Pluginy se používají podobným způsobem jako samotný framework. Konkrétní plugin se vloží do projektu a jeho funkce jsou následně volány z JavaScriptového kódu vlastní aplikace. Logicky je nutné počítat s tím, že použití takového pluginu silně ochromí přenositelnost celé aplikace a před provedením portu bude třeba provést odpovídající úpravy.
 
 \subsection{Debugování a testování} \label{Sec:DebugaTest}
 \subsubsection{Testování}
@@ -151,10 +151,10 @@ Web Inspector Remote neboli Weinre je ladící nástroj trochu jiného druhu. Ne
 <script src="http://debug.phonegap.com/target/target-script-min.js#myapp"></script>
 \end{lstlisting}
 
-Samotné debugování probíhá v prohlížeči, do kterého vývojář zadá adresu serveru s identifikátorem laděné aplikace \url{http://debug.phonegap.com/client/\#myapp}. Vývojáři je k dispozici javascriptová konzole a další nástroje pro ladění webových aplikací.
+Samotné debugování probíhá v prohlížeči, do kterého vývojář zadá adresu serveru s identifikátorem laděné aplikace \url{http://debug.phonegap.com/client/\#myapp}. Vývojáři je k dispozici JavaScriptová konzole a další nástroje pro ladění webových aplikací.
 
 \subsection{Sestavení a publikace}
-Pokud již máme aplikaci vytvořenou a důkladně otestovanou, je na řadě její sestavení a případná publikace například na oficiálním tržišti s aplikacemi. Za účelem sestavení aplikace nám PhoneGap umožňuje jít dvěma cestami. První z nich je sestavení nativního instalačního balíčku s využitím SDK konkrétní platformy vhodný k odeslání na tržiště. Toto je klasická cesta a je vhodná, pokud cílíme pouze na jednu platformu. Problém nastává, pokud chceme vytvořit balíčky pro více platforem najednou. Jak jsem již zmínil výše, v takovém případě jsme nuceni stáhnout SDK každé jednotlivé platformy, náš projekt upravit a poté s pomocí SDK vytvořit nativní binárku. Že toto není dobrý způsob, si uvědomovali i tvůrci frameworku PhoneGap a proto již v počátku ve svých úvahách počítali s cloudovým nástrojem, který sestavování aplikací značně usnadní.
+Pokud již máme aplikaci vytvořenou a důkladně otestovanou, je na řadě její sestavení a případná publikace například na oficiálním tržišti s aplikacemi. Za účelem sestavení aplikace nám PhoneGap umožňuje jít dvěma cestami. První z nich je sestavení nativního instalačního balíčku s využitím SDK konkrétní platformy vhodný k odeslání na tržiště. Toto je klasická cesta a je vhodná, pokud cílíme pouze na jednu platformu. Problém nastává, pokud chceme vytvořit balíčky pro více platforem najednou. Jak jsem již zmínil výše, v takovém případě jsme nuceni stáhnout SDK každé jednotlivé platformy, náš projekt upravit a poté s pomocí SDK vytvořit nativní binární soubor. Že toto není dobrý způsob, si uvědomovali i tvůrci frameworku PhoneGap a proto již v počátku ve svých úvahách počítali s cloudovým nástrojem, který sestavování aplikací značně usnadní.
 
 \subsubsection{PhoneGap Build} \label{Sec:PhoneGapBuild}
 PhoneGap Build je nástroj dostupný z adresy \url{http://build.phonegap.com}. Umožňuje nám z jednoho místa a z jednoho zdrojového kódu vytvořit v jednom čase instalační balíčky pro platformy iOS, Android, Windows Phone, BlackBerry, webOS a Symbian.
@@ -162,7 +162,7 @@ PhoneGap Build je nástroj dostupný z adresy \url{http://build.phonegap.com}. U
 Pojďme si v krátkosti popsat jak celý systém funguje. Vývojář je na začátku vyzván k propojení PhoneGap Build se svým účtem na Githubu, na němž má ve veřejném repozitáři umístěny zdrojové kódy své aplikace. Poté se dostane do ovládacího panelu, kde vybere z nabídky správný repozitář, ve kterém se PhoneGap Build pokusí najít soubor index.html. Jakmile se mu to podaří, nabídne vývojáři možnost si vygenerovat instalační balíčky pro jednotlivé platformy pomocí jednoho kliknutí. Vyhotovení balíčků trvá několik vteřin a poté jsou uživateli k dispozici ke stažení.
 
 \section{API} \label{Sec:API}
-Hlavním důvodem, proč vývojáři sahají po použití frameworku PhoneGap, je sada javascriptových API, pomocí které zprostředkovává komunikaci mezi webovou aplikací a operačním systémem na daném zařízení. Pojďme si nyní stručně popsat jednotlivá API volání.
+Hlavním důvodem, proč vývojáři sahají po použití frameworku PhoneGap, je sada JavaScriptových API, pomocí které zprostředkovává komunikaci mezi webovou aplikací a operačním systémem na daném zařízení. Pojďme si nyní stručně popsat jednotlivá API volání.
 
 \subsection{Accelerometer}
 Akcelerometr se používá ke zjištění orientace daného přístroje. Hojně je využíván například v hrách, kde hráč ovládá hru pomocí naklopení telefonu.
@@ -262,4 +262,4 @@ Dalším cílem bude větší a pohodlnější rozšiřitelnost frameworku. Plug
 
 Když je řeč o nových platformách, bylo by dobré zmínit, které jsou další na řadě. Vývojáři ve svých plánech hovoří zejména o dvou – Tizen a Firefox OS. Tizen je open-source operační systém pro široké spektrum zařízení vyvíjený pod záštitou Linux Foundation. O Firefox OS jsem hovořil již v kapitole \ref{Sec:FxOS}. Jedná se o mobilní operační systém od společnosti Mozilla postavený čistě na webových technologií pomocí W3C standardů a také Mozilla WebAPI.
 
-Vydání PhoneGap ve verzi 3.0.0 je naplánováno na červenec 2013. \cite{cordova_roadmapprojects}
+Vydání PhoneGap ve verzi 3.0.0 je naplánováno na červenec 2013 \cite{cordova_roadmapprojects}.

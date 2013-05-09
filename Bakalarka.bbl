@@ -32,10 +32,18 @@ Dissecting Phonegap's architecture - Agiliq Blog {\textbar} Django web app
   development.
 \urlprefix\biburl{http://agiliq.com/blog/2012/09/dissecting-phonegaps-architecture/}
 
+\bibitem{facebook_android_obal}
+Facebook pro Android už není jen obal k mobilnímu webu.
+\urlprefix\biburl{http://www.root.cz/zpravicky/facebook-pro-android-uz-neni-jen-obal-k-mobilnimu-webu/\#utm_source=rss\&utm_medium=text\&utm_campaign=rss}
+
 \bibitem{gartner_says_50}
 Gartner Says by 2016, More Than 50 Percent of Mobile Apps Deployed Will be
   Hybrid.
 \urlprefix\biburl{http://www.gartner.com/newsroom/id/2324917}
+
+\bibitem{html5_isnt_fb_mistake}
+HTML5 isn't Facebook's 'biggest mistake'.
+\urlprefix\biburl{http://www.theregister.co.uk/2012/09/14/facebook_html_5_vs_native_apps/}
 
 \bibitem{infoworld_technology_of_2012}
 {InfoWorld's} 2012 Technology of the Year Award winners - {InfoWorld}.
@@ -46,7 +54,7 @@ Gartner Says by 2016, More Than 50 Percent of Mobile Apps Deployed Will be
   inspector, new {APIs} and more {\textbar} Breaking the Mobile Web.
 \urlprefix\biburl{http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers}
 
-\bibitem{javascript_for_native_widgets}
+\bibitem{JavaScript_for_native_widgets}
 {JavaScript} {API} for native widgets on {iOS}, Android {\textbar} {MoSync}
   {Guide/Tutorial}.
 \urlprefix\biburl{http://www.mosync.com/documentation/manualpages/jsnativeui-library}
@@ -58,6 +66,10 @@ Job Search {\textbar} one search. all jobs. Indeed.com. http://www.indeed.com/.
 \bibitem{appcelerator_features}
 Key Features {\textbar} Appcelerator Cloud Services.
 \urlprefix\biburl{http://www.appcelerator.com/cloud/key-features/}
+
+\bibitem{zuckerberg_biggest_mistake}
+Mark Zuckerberg: Our Biggest Mistake Was Betting Too Much On HTML5.
+\urlprefix\biburl{http://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/}
 
 \bibitem{marmalade}
 Mobile Applications Development, {iPhone} \& Android App Development {\textbar}

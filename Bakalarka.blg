@@ -11,9 +11,12 @@ Database file #6: Hybridni_vs_nativni_vyvoj.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--to sort, need author or key in visionmobile_survey
 Warning--to sort, need author or key in architecture_titanium
-Warning--to sort, need author or key in javascript_for_native_widgets
+Warning--to sort, need author or key in JavaScript_for_native_widgets
 Warning--to sort, need author or key in job_indeed
 Warning--to sort, need author or key in why_html5_java
+Warning--to sort, need author or key in zuckerberg_biggest_mistake
+Warning--to sort, need author or key in facebook_android_obal
+Warning--to sort, need author or key in html5_isnt_fb_mistake
 Warning--to sort, need author or key in thoughts_on_flash
 Warning--to sort, need author or key in building_apps_titanium
 Warning--to sort, need author or key in appcelerator_features
@@ -52,45 +55,45 @@ Warning--to sort, need author or key in phonegap_best_mobile_dev_tool
 Warning--to sort, need author or key in phonegap_bbc_olympics_app
 Warning--to sort, need author or key in phonegap_fruit_salad
 Warning--to sort, need author or key in mobile_dev_nat_hybrid_graph
-You've used 46 entries,
+You've used 49 entries,
             3151 wiz_defined-function locations,
-            793 strings with 12757 characters,
-and the built_in function-call counts, 9916 in all, are:
-= -- 570
-> -- 46
+            803 strings with 13334 characters,
+and the built_in function-call counts, 10555 in all, are:
+= -- 606
+> -- 49
 < -- 0
-+ -- 47
++ -- 50
 - -- 0
-* -- 375
-:= -- 720
-add.period$ -- 48
-call.type$ -- 46
-change.case$ -- 95
+* -- 399
+:= -- 765
+add.period$ -- 51
+call.type$ -- 49
+change.case$ -- 101
 chr.to.int$ -- 0
-cite$ -- 89
-duplicate$ -- 1075
-empty$ -- 1383
+cite$ -- 95
+duplicate$ -- 1144
+empty$ -- 1473
 format.name$ -- 0
-if$ -- 2275
+if$ -- 2422
 int.to.chr$ -- 0
-int.to.str$ -- 46
-missing$ -- 233
-newline$ -- 191
+int.to.str$ -- 49
+missing$ -- 248
+newline$ -- 203
 num.names$ -- 0
-pop$ -- 823
+pop$ -- 877
 preamble$ -- 1
-purify$ -- 95
+purify$ -- 101
 quote$ -- 0
-skip$ -- 629
+skip$ -- 671
 stack$ -- 0
-substring$ -- 234
-swap$ -- 333
+substring$ -- 249
+swap$ -- 354
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 184
-warning$ -- 43
+type$ -- 196
+warning$ -- 46
 while$ -- 0
-width$ -- 48
-write$ -- 287
-(There were 43 warnings)
+width$ -- 51
+write$ -- 305
+(There were 46 warnings)

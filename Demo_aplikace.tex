@@ -3,10 +3,10 @@ Součástí této práce jsou i tři ukázkové aplikace, které jsem vytvořil 
 \section{Twitter klient (BlueBirdGap)}
 První aplikací, kterou jsem ve frameworku PhoneGap vytvořil, je jednoduchý klient pro sociální síť Twitter. Obsahuje pouze elementární funkce, kdy se může uživatel přihlásit svým uživatelským jménem a heslem, zobrazit svojí timeline a také odeslat na Twitter nový tweet. Aplikace byla původně zamýšlena jako multiplatformní, tedy tak, aby se dalo co možná největší množství kódu použít i na dalších platformách. Nakonec jí bylo z důvodu platformní závislosti pluginu ChildBrowser možné využít jen na platformě Android.
 
-V průběhu vývoje jsem narazil na problémy zejména s implementací otevřeného protokolu OAuth, který je vyžadován k autentizaci uživatele na Twitteru. Implementace tohoto protokolu pomocí Javascriptu není přímočará záležitost, neboť tento postup skýtá bezpečnostní rizika v podobě odhalení přenášených bezpečnostních klíčů. Nakonec jsem využil knihovny jsOAuth, která nabízí abstraktní rozhraní pro využití tohoto protokolu. K tvorbě uživatelského rozhraní jsem využil framework jQuery Mobile spolu s vlastními CSS styly.
+V průběhu vývoje jsem narazil na problémy zejména s implementací otevřeného protokolu OAuth, který je vyžadován k autentizaci uživatele na Twitteru. Implementace tohoto protokolu pomocí JavaScriptu není přímočará záležitost, neboť tento postup skýtá bezpečnostní rizika v podobě odhalení přenášených bezpečnostních klíčů. Nakonec jsem využil knihovny jsOAuth, která nabízí abstraktní rozhraní pro využití tohoto protokolu. K tvorbě uživatelského rozhraní jsem využil framework jQuery Mobile spolu s vlastními CSS styly.
 
-\begin{figure}[H]\centering
-\includegraphics[width=0.8\textwidth]{bbgap_timeline.png}
+\begin{figure}[htbp]\centering
+\includegraphics[width=0.8\textwidth]{bbgap_timeline_2.png}
 \caption{BlueBirdGap, zobrazení timeline}
 \label{fig:BbGapTimeline}
 \end{figure}
@@ -20,7 +20,7 @@ V druhé aplikaci jsem chtěl vyzkoušet patrně nejpřitažlivější funkci fr
 
 Protože byl pro tvorbu uživatelského rozhraní použit framework jQTouch, který je závislý na jádře WebKit, funguje tato aplikace pouze na platformách Android a iOS. Pro uživatelské rozhraní jsem využil předpřipravených šablon frameworku jQTouch, které se automaticky přizpůsobí platformě, na které běží, aby více simulovaly vzhled nativních aplikací. Finální vzhled jsem upravil vlastními CSS styly. Pro zobrazení míst, kde byly fotografie pořízeny, je využito vložené Google mapy s vyznačením dotyčných poloh.
 
-\begin{figure}[H]\centering
+\begin{figure}\centering
 \includegraphics[width=0.8\textwidth]{orionids_home.png}
 \caption{Orionids, domovská obrazovka}
 \label{fig:OrionidsHome}
@@ -33,9 +33,9 @@ Aplikace byla otestována v Android emulátoru na verzi systému 4.2.
 \section{Časovací aplikace (TimerGap)}
 Poslední aplikací je jednoduchý časovač, který umožňuje uživateli spustit odpočítávání času využitelné například jako kuchyňská minutka pro odměření doby potřebné pro vylouhování čaje. Aplikace umožňuje spustit rychlé odpočítávání, uložit a pojmenovat odpočítávání pro další použití a samozřejmě vybírat a spouštět již uložené časy.
 
-V této aplikaci jsem opět využil javascriptový framework jQuery Mobile, pomocí nějž jsem vytvořil uživatelské rozhraní a také využil jeho funkcí při tvorbě funkční logiky celé aplikace. Pro realizaci vlastního odpočítávání jsem využil knihovnu jQuery Countdown, která poskytuje pro jeho implementaci velmi podařené abstraktní rozhraní. Pro zajištění uživatelsky přívětivého způsobu vybírání času jsem využil plugin jQuery Mobile - Datebox.
+V této aplikaci jsem opět využil JavaScriptový framework jQuery Mobile, pomocí nějž jsem vytvořil uživatelské rozhraní a také využil jeho funkcí při tvorbě funkční logiky celé aplikace. Pro realizaci vlastního odpočítávání jsem využil knihovnu jQuery Countdown, která poskytuje pro jeho implementaci velmi podařené abstraktní rozhraní. Pro zajištění uživatelsky přívětivého způsobu vybírání času jsem využil plugin jQuery Mobile - Datebox.
 
-\begin{figure}[H]\centering
+\begin{figure}[htbp]\centering
 \includegraphics[width=0.8\textwidth]{tgap_odpocitavani.png}
 \caption{TimerGap, proces odpočítávání}
 \label{fig:TGapOdpocitavani}
