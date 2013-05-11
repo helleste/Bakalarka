@@ -19,6 +19,8 @@
 \usepackage{dirtree} %directory tree visualisation
 \usepackage{hyperref}
 \usepackage{lscape}
+\usepackage{longtable}
+\usepackage{tabularx}
 
 \urlstyle{tt} 
 \def\UrlLeft{<}\def\UrlRight{>}
@@ -160,6 +162,98 @@
 	\item[OAuth] OAuth je otevřený standard pro autorizaci. Poskytuje klientům metody, kterak přistupovat k zabezpečeným zdrojům na serveru jménem jejich vlastníka.
 \end{description}
 
+\chapter{Tabulky}
+V této příloze se nachází veškeré tabulky, které nebyly zařazeny přímo do textu práce. Jedná se o tabulky porovnání hybridních frameworků a také pohled na podporu nativních API volání ve frameworku PhoneGap v rámci jednotlivých platforem.
+\begin{landscape}
+\begin{table}
+\caption[Porovnání hybridních frameworků – podpora platforem]{Porovnání hybridních frameworků – podpora platforem}
+	\label{tab:HybridFrameworksPlatformComparsion}
+\begin{tabularx}{21cm}{|p{4.5cm}|X|X|X|X|X|X|X|}
+\hline
+
+	\vspace{5 mm} \textbf{Framework/Platforma} & iOS & Android & Windows Phone & Bada & Blackberry & Symbian \\
+	\tabularnewline \hline \hline
+	PhoneGap & ANO & ANO & ANO & ANO & ANO & ANO \\
+	IBM Worklight & ANO & ANO & ANO & NE & ANO & NE \\
+	Sencha Touch & ANO & ANO & NE & NE & NE & NE \\
+	Feed Henry & ANO & ANO & ANO & NE & ANO & NE \\
+	Icenium & ANO & ANO & NE & NE & NE & NE \\
+	MoSync Wormhole & ANO & ANO & ANO & NE & NE & NE \\
+	Tigzzi & ANO & ANO & ANO & NE & NE & NE \\
+	ApplicationCraft & ANO & ANO & ANO & ANO & ANO & ANO  \\
+	Kony & ANO & ANO & ANO & NE & ANO & ANO \\
+	The M Project & ANO & ANO & NE & NE & ANO & NE \\
+    \hline
+    \end{tabularx}
+\end{table}
+
+\begin{table}
+\caption[Porovnání hybridních frameworků – podpora API volání]{Porovnání hybridních frameworků – podpora API volání}
+	\label{tab:HybridFrameworksAPIComparsion}
+\begin{tabularx}{21cm}{|p{3.5cm}|X|X|X|X|X|X|X|X|X|X|X|X|}
+\hline
+
+	\vspace{5 mm} \textbf{Framework/API} & Geo\-lokace & Vibra\-ce & Zvuk (přehrávání) & Zvuk (záznam) & Fotoa\-parát & Nativní UI elementy & SMS & Telefo\-nní hovory & Změna orientace displeje & Výběr z kontaktů & SQLite \\
+	\tabularnewline \hline \hline
+	PhoneGap & ANO & ANO & ANO & ANO & ANO & NE & ANO & ANO & ANO & ANO & ANO \\
+  IBM Worklight & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Sencha Touch & NE & NE & NE & NE & ANO & NE & NE & NE & NE & NE & NE \\
+	Feed Henry & ANO & ANO & ANO & NE & ANO & NE & ANO & NE & ANO & ANO & ANO \\
+	Icenium & ANO & ANO & ANO & ANO & ANO & NE & ANO & ANO & ANO & ANO & ANO \\
+	MoSync Wormhole & ANO & NE & NE & NE & ANO & ANO & NE & NE & NE & NE & ANO \\
+	Tigzzi & ANO & ANO & ANO & ANO & ANO & NE & ANO & ANO & ANO & ANO & ANO \\
+	ApplicationCraft & ANO & ANO & ANO & ANO & ANO & NE & NE & ANO & ANO & ANO & ANO \\
+	Kony & ? & ? & ? & ? & ? & ? & ? & ? & ? & ? & ? \\
+	The M Project & NE & NE & NE & NE & NE & NE & NE & NE & NE & NE & NE \\
+    \hline
+    \end{tabularx}
+\end{table}
+
+\begin{table}
+\caption[Porovnání hybridních frameworků – ostatní parametry]{Porovnání hybridních frameworků – ostatní parametry}
+	\label{tab:HybridFrameworksOtherComparsion}
+\begin{tabularx}{21cm}{|p{4.5cm}|X|X|X|X|X|}
+\hline
+
+	\vspace{5 mm} \textbf{Framework/Parametr} & Vlastní vývojové prostředí & WYSIWYG & Licence & Cena \\
+	\tabularnewline \hline \hline
+	PhoneGap & NE & NE & Open-source & Zdarma \\
+	IBM Worklight & ANO (založeno na Eclipse) & ANO & ? & ? \\
+	Sencha Touch & ANO & ANO & GPL v3 (+komerční verze) & Zdarma \\
+	Feed Henry & ANO (v cloudu) & NE & Komerční & Placené \\
+	Icenium & ANO (v cloudu) & NE & Komerční & Placené \\
+	MoSync Wormhole & ANO (založeno na Eclipse) & NE & GPL v2 (+komerční verze) & Zdarma \\
+	Tigzzi & ANO (v cloudu) & ANO & Komerční & Placené \\
+	ApplicationCraft & ANO (v cloudu) & ANO & Komerční & Placené \\
+	Kony & ANO (v cloudu) & ANO & Komerční & Placené \\
+	The M Project & NE & NE & Open-source (MIT licence) & Zdarma \\
+    \hline
+    \end{tabularx}
+\end{table}
+
+\begin{table}
+\caption[Podpora API volání napříč platformami ve PhoneGap]{Podpora API volání napříč platformami ve PhoneGap}
+	\label{tab:PhoneGapAPIComparsion}
+\begin{tabularx}{21cm}{|p{4.3cm}|X|X|X|X|X|X|X|X|X|X|}
+\hline
+
+	\vspace{5 mm} \textbf{API/Platforma} & iPhone, iPhone 3G & iPhone 3GS+ & Android & Blac\-kberry OS 5.x & Black\-berry OS 6.0+ & WebOS & Windows Phone 7 & Symbian & Samsung Bada \\
+	Accelerometer & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Camera & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Compass & NE & ANO & ANO & NE & NE & ANO & ANO & NE & ANO \\
+	Contacts & ANO & ANO & ANO & ANO & ANO & NE & ANO & ANO & ANO \\
+	File & ANO & ANO & ANO & ANO & ANO & NE & ANO & NE & NE \\
+	Geolocation & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Media & ANO & ANO & ANO & NE & NE & NE & ANO & NE & NE \\
+	Network & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Notification (Alert) & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Notification (Sound) & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Notification (Vibration) & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO \\
+	Storage & ANO & ANO & ANO & ANO & ANO & ANO & ANO & ANO & NE \\
+    \hline
+    \end{tabularx}
+\end{table}
+\end{landscape}
 % TODO
 % 1. Označkovat text
 % 2. Doplnit obrázky
